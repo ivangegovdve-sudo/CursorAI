@@ -1,0 +1,41 @@
+{
+  "schema": "cursorai-docdb-platforms-v1",
+  "platforms": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "llms_url": "https://developers.openai.com/llms.txt",
+      "homepage": "https://developers.openai.com/"
+    },
+    {
+      "id": "twin",
+      "name": "Twin",
+      "llms_url": "https://docs.twin.so/llms.txt",
+      "homepage": "https://docs.twin.so/"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "llms_url": "https://docs.langchain.com/llms.txt",
+      "homepage": "https://docs.langchain.com/"
+    },
+    {
+      "id": "onyx",
+      "name": "Onyx",
+      "llms_url": "https://docs.onyx.app/llms.txt",
+      "homepage": "https://docs.onyx.app/"
+    },
+    {
+      "id": "statsig",
+      "name": "Statsig",
+      "llms_url": "https://docs.statsig.com/llms.txt",
+      "homepage": "https://docs.statsig.com/"
+    },
+    {
+      "id": "stackai",
+      "name": "StackAI",
+      "llms_url": "https://docs.stackai.com/llms.txt",
+      "homepage": "https://docs.stackai.com/"
+    }
+  ]
+}

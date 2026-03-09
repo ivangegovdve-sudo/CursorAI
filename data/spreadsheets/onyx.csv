@@ -1,0 +1,263 @@
+platform_id,title,url,rel_path,section,description,content_type,is_markdown
+onyx,API Keys,https://docs.onyx.app/admins/user_management/api_keys.md,admins/user_management/api_keys.md,Docs,Create and manage API keys for programmatic access,markdown,1
+onyx,Access Controls,https://docs.onyx.app/security/architecture/access_controls.md,security/architecture/access_controls.md,Docs,Resource protection from users,markdown,1
+onyx,Actions & MCP,https://docs.onyx.app/overview/core_features/actions.md,overview/core_features/actions.md,Docs,Extend the capabilities of Onyx Agents,markdown,1
+onyx,Activate User Api,https://docs.onyx.app/developers/api_reference/user_management/activate_user_api.md,developers/api_reference/user_management/activate_user_api.md,Docs,,markdown,1
+onyx,Agents,https://docs.onyx.app/overview/core_features/agents.md,overview/core_features/agents.md,Docs,Create custom AI Agents for unique use cases,markdown,1
+onyx,Airtable,https://docs.onyx.app/admins/connectors/official/airtable.md,admins/connectors/official/airtable.md,Docs,Access tables from Airtable,markdown,1
+onyx,Amazon Bedrock,https://docs.onyx.app/admins/ai_models/bedrock.md,admins/ai_models/bedrock.md,Docs,Configure Amazon Bedrock models for use with Onyx,markdown,1
+onyx,Anthropic,https://docs.onyx.app/admins/ai_models/anthropic.md,admins/ai_models/anthropic.md,Docs,Configure Anthropic Claude models for Onyx,markdown,1
+onyx,Asana,https://docs.onyx.app/admins/connectors/official/asana.md,admins/connectors/official/asana.md,Docs,Index tasks and comments from Asana projects,markdown,1
+onyx,Associate Credential To Connector,https://docs.onyx.app/developers/api_reference/files_connectors/associate_credential_to_connector.md,developers/api_reference/files_connectors/associate_credential_to_connector.md,Docs,NOTE(rkuo): internally discussed and the consensus is this endpoint,markdown,1
+onyx,Azure,https://docs.onyx.app/deployment/cloud/azure.md,deployment/cloud/azure.md,Docs,Deploy Onyx on Azure Virtual Machines,markdown,1
+onyx,Azure OpenAI,https://docs.onyx.app/admins/ai_models/azure_openai.md,admins/ai_models/azure_openai.md,Docs,Configure Azure OpenAI for enterprise-grade GPT models,markdown,1
+onyx,Basic Auth,https://docs.onyx.app/deployment/authentication/basic.md,deployment/authentication/basic.md,Docs,Set up Onyx with basic username/password authentication,markdown,1
+onyx,Bitbucket Connector,https://docs.onyx.app/admins/connectors/official/bitbucket.md,admins/connectors/official/bitbucket.md,Docs,Access knowledge from your Bitbucket Repositories (Cloud only),markdown,1
+onyx,BookStack,https://docs.onyx.app/admins/connectors/official/bookstack.md,admins/connectors/official/bookstack.md,Docs,Access knowledge from your own BookStack instance,markdown,1
+onyx,Bulk Invite Users,https://docs.onyx.app/developers/api_reference/user_management/bulk_invite_users.md,developers/api_reference/user_management/bulk_invite_users.md,Docs,"emails are string validated. If any email fails validation, no emails are",markdown,1
+onyx,CLI,https://docs.onyx.app/overview/onyx_anywhere/cli.md,overview/onyx_anywhere/cli.md,Docs,Interact with Onyx from the command line,markdown,1
+onyx,Certificate-Based Authentication,https://docs.onyx.app/admins/connectors/official/sharepoint/certificate.md,admins/connectors/official/sharepoint/certificate.md,Docs,Set up SharePoint connector using certificate-based authentication with optional permission sync support,markdown,1
+onyx,Chat,https://docs.onyx.app/overview/core_features/chat.md,overview/core_features/chat.md,Docs,Overview of Onyx's primary user interface,markdown,1
+onyx,Chrome Extension,https://docs.onyx.app/deployment/configuration/chrome_extension.md,deployment/configuration/chrome_extension.md,Docs,Use Onyx in Chrome from any page,markdown,1
+onyx,Chrome Extension,https://docs.onyx.app/overview/onyx_anywhere/chrome_extension.md,overview/onyx_anywhere/chrome_extension.md,Docs,Accessing Onyx via a Chrome Extension,markdown,1
+onyx,ClickUp,https://docs.onyx.app/admins/connectors/official/clickup.md,admins/connectors/official/clickup.md,Docs,'Access tasks from ClickUp',markdown,1
+onyx,Client Secret Authentication,https://docs.onyx.app/admins/connectors/official/sharepoint/client-secret.md,admins/connectors/official/sharepoint/client-secret.md,Docs,Set up SharePoint connector using client secret authentication,markdown,1
+onyx,Cloudflare R2,https://docs.onyx.app/admins/connectors/official/r2.md,admins/connectors/official/r2.md,Docs,Access files from Cloudflare R2 buckets,markdown,1
+onyx,Code Interpreter,https://docs.onyx.app/overview/core_features/code_interpreter.md,overview/core_features/code_interpreter.md,Docs,Safe and sandboxed Python runtime available to the LLM,markdown,1
+onyx,Compliance,https://docs.onyx.app/security/onyx_cloud/compliance.md,security/onyx_cloud/compliance.md,Docs,Certifications,markdown,1
+onyx,Configure Onyx,https://docs.onyx.app/deployment/configuration/configuration.md,deployment/configuration/configuration.md,Docs,How to configure Onyx using environment variables and deployment files,markdown,1
+onyx,Confluence,https://docs.onyx.app/admins/connectors/official/confluence.md,admins/connectors/official/confluence.md,Docs,Access knowledge from your company Wiki,markdown,1
+onyx,Connector Run Once,https://docs.onyx.app/developers/api_reference/files_connectors/connector_run_once.md,developers/api_reference/files_connectors/connector_run_once.md,Docs,Used to trigger indexing on a set of cc_pairs associated with a,markdown,1
+onyx,Connectors,https://docs.onyx.app/overview/core_features/connectors.md,overview/core_features/connectors.md,Docs,Ingest knowledge from connected applications,markdown,1
+onyx,Contact Us,https://docs.onyx.app/admins/miscellaneous/contact_us.md,admins/miscellaneous/contact_us.md,Docs,Excited to hear from you!,markdown,1
+onyx,Contact Us,https://docs.onyx.app/deployment/miscellaneous/contact_us.md,deployment/miscellaneous/contact_us.md,Docs,Ways to get in touch with the Onyx team,markdown,1
+onyx,Contact Us,https://docs.onyx.app/developers/contact_us.md,developers/contact_us.md,Docs,Excited to hear from you!,markdown,1
+onyx,Contact Us,https://docs.onyx.app/overview/miscellaneous/contact_us.md,overview/miscellaneous/contact_us.md,Docs,Excited to hear from you!,markdown,1
+onyx,Contact Us,https://docs.onyx.app/security/contact_us.md,security/contact_us.md,Docs,Excited to hear from you!,markdown,1
+onyx,Core Concepts,https://docs.onyx.app/developers/core_concepts.md,developers/core_concepts.md,Docs,Essential concepts and terminology for working with Onyx APIs,markdown,1
+onyx,Craft (beta),https://docs.onyx.app/overview/core_features/craft.md,overview/core_features/craft.md,Docs,"Create web apps, documents, slides, and more from your company knowledge",markdown,1
+onyx,Create Agent,https://docs.onyx.app/developers/api_reference/agents/create_persona.md,developers/api_reference/agents/create_persona.md,Docs,,markdown,1
+onyx,Create Connector From Model,https://docs.onyx.app/developers/api_reference/files_connectors/create_connector_from_model.md,developers/api_reference/files_connectors/create_connector_from_model.md,Docs,,markdown,1
+onyx,Create Connectors,https://docs.onyx.app/developers/guides/create_connector.md,developers/guides/create_connector.md,Docs,Learn how to create and configure connectors programmatically,markdown,1
+onyx,Create Credential From Model,https://docs.onyx.app/developers/api_reference/files_connectors/create_credential_from_model.md,developers/api_reference/files_connectors/create_credential_from_model.md,Docs,,markdown,1
+onyx,Create Credential With Private Key,https://docs.onyx.app/developers/api_reference/files_connectors/create_credential_with_private_key.md,developers/api_reference/files_connectors/create_credential_with_private_key.md,Docs,,markdown,1
+onyx,Create Custom Tool,https://docs.onyx.app/developers/api_reference/actions/create_custom_tool.md,developers/api_reference/actions/create_custom_tool.md,Docs,,markdown,1
+onyx,Create Deletion Attempt For Connector Id,https://docs.onyx.app/developers/api_reference/files_connectors/create_deletion_attempt_for_connector_id.md,developers/api_reference/files_connectors/create_deletion_attempt_for_connector_id.md,Docs,,markdown,1
+onyx,Create Global Token Limit Settings,https://docs.onyx.app/developers/api_reference/miscellaneous/create_global_token_limit_settings.md,developers/api_reference/miscellaneous/create_global_token_limit_settings.md,Docs,,markdown,1
+onyx,Create New Chat Session,https://docs.onyx.app/developers/api_reference/chat/create_new_chat_session.md,developers/api_reference/chat/create_new_chat_session.md,Docs,,markdown,1
+onyx,Create Project,https://docs.onyx.app/developers/api_reference/projects/create_project.md,developers/api_reference/projects/create_project.md,Docs,,markdown,1
+onyx,Curator Guide,https://docs.onyx.app/admins/curators/curator_guide.md,admins/curators/curator_guide.md,Docs,"Example guide for Curators to create and manage Connectors, Document Sets, and Agents",markdown,1
+onyx,Curator Responsibilities,https://docs.onyx.app/admins/curators/curator_responsibilities.md,admins/curators/curator_responsibilities.md,Docs,Curator Responsibilities,markdown,1
+onyx,Custom Inference Provider,https://docs.onyx.app/admins/ai_models/custom_inference_provider.md,admins/ai_models/custom_inference_provider.md,Docs,Custom Inference Provider,markdown,1
+onyx,Data Flows,https://docs.onyx.app/security/architecture/data_flows.md,security/architecture/data_flows.md,Docs,How data and queries are handled and stored,markdown,1
+onyx,Data Processing,https://docs.onyx.app/security/self_hosted/data_processing.md,security/self_hosted/data_processing.md,Docs,How sensitive data is processed,markdown,1
+onyx,Data Storage,https://docs.onyx.app/security/architecture/data_storage.md,security/architecture/data_storage.md,Docs,How data is persisted in the Onyx system,markdown,1
+onyx,Deactivate User Api,https://docs.onyx.app/developers/api_reference/user_management/deactivate_user_api.md,developers/api_reference/user_management/deactivate_user_api.md,Docs,,markdown,1
+onyx,Delete Agent,https://docs.onyx.app/developers/api_reference/agents/delete_persona.md,developers/api_reference/agents/delete_persona.md,Docs,,markdown,1
+onyx,Delete All Chat Sessions,https://docs.onyx.app/developers/api_reference/chat/delete_all_chat_sessions.md,developers/api_reference/chat/delete_all_chat_sessions.md,Docs,,markdown,1
+onyx,Delete Chat Session By Id,https://docs.onyx.app/developers/api_reference/chat/delete_chat_session_by_id.md,developers/api_reference/chat/delete_chat_session_by_id.md,Docs,,markdown,1
+onyx,Delete Connector By Id,https://docs.onyx.app/developers/api_reference/files_connectors/delete_connector_by_id.md,developers/api_reference/files_connectors/delete_connector_by_id.md,Docs,,markdown,1
+onyx,Delete Credential By Id,https://docs.onyx.app/developers/api_reference/files_connectors/delete_credential_by_id.md,developers/api_reference/files_connectors/delete_credential_by_id.md,Docs,,markdown,1
+onyx,Delete Credential By Id Admin,https://docs.onyx.app/developers/api_reference/files_connectors/delete_credential_by_id_admin.md,developers/api_reference/files_connectors/delete_credential_by_id_admin.md,Docs,"Same as the user endpoint, but can delete any credential (not just the user's own)",markdown,1
+onyx,Delete Custom Tool,https://docs.onyx.app/developers/api_reference/actions/delete_custom_tool.md,developers/api_reference/actions/delete_custom_tool.md,Docs,,markdown,1
+onyx,Delete Ingestion Doc,https://docs.onyx.app/developers/api_reference/ingestion/delete_ingestion_doc.md,developers/api_reference/ingestion/delete_ingestion_doc.md,Docs,,markdown,1
+onyx,Delete Project,https://docs.onyx.app/developers/api_reference/projects/delete_project.md,developers/api_reference/projects/delete_project.md,Docs,,markdown,1
+onyx,Delete Token Limit Settings,https://docs.onyx.app/developers/api_reference/miscellaneous/delete_token_limit_settings.md,developers/api_reference/miscellaneous/delete_token_limit_settings.md,Docs,,markdown,1
+onyx,Delete User,https://docs.onyx.app/developers/api_reference/user_management/delete_user.md,developers/api_reference/user_management/delete_user.md,Docs,,markdown,1
+onyx,Delete User File,https://docs.onyx.app/developers/api_reference/projects/delete_user_file.md,developers/api_reference/projects/delete_user_file.md,Docs,Delete a user file belonging to the current user.,markdown,1
+onyx,Desktop App (Beta),https://docs.onyx.app/deployment/local/desktop_app.md,deployment/local/desktop_app.md,Docs,Install and configure the Onyx desktop application,markdown,1
+onyx,Desktop App (Beta),https://docs.onyx.app/overview/onyx_anywhere/desktop_app.md,overview/onyx_anywhere/desktop_app.md,Docs,Accessing Onyx via the desktop application,markdown,1
+onyx,Digital Ocean,https://docs.onyx.app/deployment/cloud/digital_ocean.md,deployment/cloud/digital_ocean.md,Docs,Deploy Onyx on Digital Ocean Droplets,markdown,1
+onyx,Discord,https://docs.onyx.app/admins/connectors/official/discord.md,admins/connectors/official/discord.md,Docs,'Access knowledge from your Messages',markdown,1
+onyx,Discord Bot,https://docs.onyx.app/admins/miscellaneous/discord_bot.md,admins/miscellaneous/discord_bot.md,Docs,Configure your Discord bot,markdown,1
+onyx,Discord Bot,https://docs.onyx.app/overview/onyx_anywhere/discord_bot.md,overview/onyx_anywhere/discord_bot.md,Docs,Access Onyx within Discord,markdown,1
+onyx,Discourse,https://docs.onyx.app/admins/connectors/official/discourse.md,admins/connectors/official/discourse.md,Docs,Access knowledge from your Discourse **Topics**,markdown,1
+onyx,Dissociate Credential From Connector,https://docs.onyx.app/developers/api_reference/files_connectors/dissociate_credential_from_connector.md,developers/api_reference/files_connectors/dissociate_credential_from_connector.md,Docs,,markdown,1
+onyx,Docker,https://docs.onyx.app/deployment/local/docker.md,deployment/local/docker.md,Docs,Deploy Onyx with Docker Compose,markdown,1
+onyx,Document Processing,https://docs.onyx.app/admins/advanced_configs/doc_processing.md,admins/advanced_configs/doc_processing.md,Docs,Configure document processing settings and options,markdown,1
+onyx,Document360,https://docs.onyx.app/admins/connectors/official/document360.md,admins/connectors/official/document360.md,Docs,'Access wiki articles from Document360',markdown,1
+onyx,Dropbox,https://docs.onyx.app/admins/connectors/official/dropbox.md,admins/connectors/official/dropbox.md,Docs,Access knowledge from Dropbox,markdown,1
+onyx,Drupal Wiki,https://docs.onyx.app/admins/connectors/official/drupal_wiki.md,admins/connectors/official/drupal_wiki.md,Docs,Access knowledge from your Drupal Wiki instance,markdown,1
+onyx,EC2,https://docs.onyx.app/deployment/cloud/aws/ec2.md,deployment/cloud/aws/ec2.md,Docs,Deploy Onyx on AWS EC2,markdown,1
+onyx,EKS,https://docs.onyx.app/deployment/cloud/aws/eks.md,deployment/cloud/aws/eks.md,Docs,Deploy Onyx on AWS EKS,markdown,1
+onyx,Egnyte,https://docs.onyx.app/admins/connectors/official/egnyte.md,admins/connectors/official/egnyte.md,Docs,Access files stored in Egnyte,markdown,1
+onyx,Enterprise Edition,https://docs.onyx.app/admins/getting_started/enterprise_edition.md,admins/getting_started/enterprise_edition.md,Docs,Enterprise Edition administration features,markdown,1
+onyx,Enterprise Edition,https://docs.onyx.app/deployment/miscellaneous/enterprise_edition.md,deployment/miscellaneous/enterprise_edition.md,Docs,Enterprise Edition features and deployment,markdown,1
+onyx,Execute Open Urls,https://docs.onyx.app/developers/api_reference/search/execute_open_urls.md,developers/api_reference/search/execute_open_urls.md,Docs,Fetch content for specific URLs using the configured content provider.,markdown,1
+onyx,Execute Web Search,https://docs.onyx.app/developers/api_reference/search/execute_web_search.md,developers/api_reference/search/execute_web_search.md,Docs,Perform a web search and immediately fetch content for the returned URLs.,markdown,1
+onyx,Execute Web Search Lite,https://docs.onyx.app/developers/api_reference/search/execute_web_search_lite.md,developers/api_reference/search/execute_web_search_lite.md,Docs,Lightweight search-only endpoint. Returns search snippets and URLs without,markdown,1
+onyx,FAQ,https://docs.onyx.app/overview/getting_started/faq.md,overview/getting_started/faq.md,Docs,Frequently asked questions about using Onyx,markdown,1
+onyx,FAQ,https://docs.onyx.app/security/architecture/faq.md,security/architecture/faq.md,Docs,General questions about Onyx security,markdown,1
+onyx,FAQ,https://docs.onyx.app/security/self_hosted/faq.md,security/self_hosted/faq.md,Docs,Common questions specifically for self-hosting,markdown,1
+onyx,Fetch Chat File,https://docs.onyx.app/developers/api_reference/chat/fetch_chat_file.md,developers/api_reference/chat/fetch_chat_file.md,Docs,,markdown,1
+onyx,File,https://docs.onyx.app/admins/connectors/official/file.md,admins/connectors/official/file.md,Docs,Index files from a local or network drive,markdown,1
+onyx,Fireflies,https://docs.onyx.app/admins/connectors/official/fireflies.md,admins/connectors/official/fireflies.md,Docs,Access meeting transcripts from Fireflies,markdown,1
+onyx,Force Delete Credential By Id,https://docs.onyx.app/developers/api_reference/files_connectors/force_delete_credential_by_id.md,developers/api_reference/files_connectors/force_delete_credential_by_id.md,Docs,,markdown,1
+onyx,Freshdesk,https://docs.onyx.app/admins/connectors/official/freshdesk.md,admins/connectors/official/freshdesk.md,Docs,Access tickets and conversations from Freshdesk,markdown,1
+onyx,GCP,https://docs.onyx.app/deployment/cloud/gcp.md,deployment/cloud/gcp.md,Docs,Deploy Onyx on GCP Compute Engine,markdown,1
+onyx,Get Agent,https://docs.onyx.app/developers/api_reference/agents/get_persona.md,developers/api_reference/agents/get_persona.md,Docs,,markdown,1
+onyx,Get Agents Admin Paginated,https://docs.onyx.app/developers/api_reference/agents/get_agents_admin_paginated.md,developers/api_reference/agents/get_agents_admin_paginated.md,Docs,Paginated endpoint for listing agents (formerly personas) (admin view).,markdown,1
+onyx,Get Agents Paginated,https://docs.onyx.app/developers/api_reference/agents/get_agents_paginated.md,developers/api_reference/agents/get_agents_paginated.md,Docs,Paginated endpoint for listing agents available to the user.,markdown,1
+onyx,Get Auth Type,https://docs.onyx.app/developers/api_reference/user_management/get_auth_type.md,developers/api_reference/user_management/get_auth_type.md,Docs,,markdown,1
+onyx,Get Backend Version,https://docs.onyx.app/developers/api_reference/miscellaneous/get_version.md,developers/api_reference/miscellaneous/get_version.md,Docs,,markdown,1
+onyx,Get Basic Connector Indexing Status,https://docs.onyx.app/developers/api_reference/files_connectors/get_basic_connector_indexing_status.md,developers/api_reference/files_connectors/get_basic_connector_indexing_status.md,Docs,,markdown,1
+onyx,Get CC Pair Full Info,https://docs.onyx.app/developers/api_reference/files_connectors/get_cc_pair_full_info.md,developers/api_reference/files_connectors/get_cc_pair_full_info.md,Docs,,markdown,1
+onyx,Get CC Pair Index Attempts,https://docs.onyx.app/developers/api_reference/files_connectors/get_cc_pair_index_attempts.md,developers/api_reference/files_connectors/get_cc_pair_index_attempts.md,Docs,,markdown,1
+onyx,Get CC Pair Indexing Errors,https://docs.onyx.app/developers/api_reference/files_connectors/get_cc_pair_indexing_errors.md,developers/api_reference/files_connectors/get_cc_pair_indexing_errors.md,Docs,Gives back all errors for a given CC Pair. Allows pagination based on page and page_size params.,markdown,1
+onyx,Get Cc Source Full Info,https://docs.onyx.app/developers/api_reference/files_connectors/get_cc_source_full_info.md,developers/api_reference/files_connectors/get_cc_source_full_info.md,Docs,,markdown,1
+onyx,Get Chat Session,https://docs.onyx.app/developers/api_reference/chat/get_chat_session.md,developers/api_reference/chat/get_chat_session.md,Docs,,markdown,1
+onyx,Get Chat Session Project Files,https://docs.onyx.app/developers/api_reference/projects/get_chat_session_project_files.md,developers/api_reference/projects/get_chat_session_project_files.md,Docs,Return user files for the project linked to the given chat session.,markdown,1
+onyx,Get Connector By Id,https://docs.onyx.app/developers/api_reference/files_connectors/get_connector_by_id.md,developers/api_reference/files_connectors/get_connector_by_id.md,Docs,,markdown,1
+onyx,Get Connector Indexing Status,https://docs.onyx.app/developers/api_reference/files_connectors/get_connector_indexing_status.md,developers/api_reference/files_connectors/get_connector_indexing_status.md,Docs,,markdown,1
+onyx,Get Connector Status,https://docs.onyx.app/developers/api_reference/files_connectors/get_connector_status.md,developers/api_reference/files_connectors/get_connector_status.md,Docs,,markdown,1
+onyx,Get Connectors,https://docs.onyx.app/developers/api_reference/files_connectors/get_connectors.md,developers/api_reference/files_connectors/get_connectors.md,Docs,,markdown,1
+onyx,Get Connectors By Credential,https://docs.onyx.app/developers/api_reference/files_connectors/get_connectors_by_credential.md,developers/api_reference/files_connectors/get_connectors_by_credential.md,Docs,Get a list of connectors. Allow filtering by a specific credential id.,markdown,1
+onyx,Get Credential By Id,https://docs.onyx.app/developers/api_reference/files_connectors/get_credential_by_id.md,developers/api_reference/files_connectors/get_credential_by_id.md,Docs,,markdown,1
+onyx,Get Currently Failed Indexing Status,https://docs.onyx.app/developers/api_reference/files_connectors/get_currently_failed_indexing_status.md,developers/api_reference/files_connectors/get_currently_failed_indexing_status.md,Docs,,markdown,1
+onyx,Get Custom Tool,https://docs.onyx.app/developers/api_reference/actions/get_custom_tool.md,developers/api_reference/actions/get_custom_tool.md,Docs,,markdown,1
+onyx,Get Docs By Connector Credential Pair,https://docs.onyx.app/developers/api_reference/files_connectors/get_docs_by_connector_credential_pair.md,developers/api_reference/files_connectors/get_docs_by_connector_credential_pair.md,Docs,,markdown,1
+onyx,Get Files In Project,https://docs.onyx.app/developers/api_reference/projects/get_files_in_project.md,developers/api_reference/projects/get_files_in_project.md,Docs,,markdown,1
+onyx,Get Global Token Limit Settings,https://docs.onyx.app/developers/api_reference/miscellaneous/get_global_token_limit_settings.md,developers/api_reference/miscellaneous/get_global_token_limit_settings.md,Docs,,markdown,1
+onyx,Get Indexed Sources,https://docs.onyx.app/developers/api_reference/files_connectors/get_indexed_sources.md,developers/api_reference/files_connectors/get_indexed_sources.md,Docs,,markdown,1
+onyx,Get Ingestion Docs,https://docs.onyx.app/developers/api_reference/ingestion/get_ingestion_docs.md,developers/api_reference/ingestion/get_ingestion_docs.md,Docs,,markdown,1
+onyx,Get Latest App Version Tags,https://docs.onyx.app/developers/api_reference/miscellaneous/get_versions.md,developers/api_reference/miscellaneous/get_versions.md,Docs,Fetches the latest stable and beta versions of Onyx Docker images.,markdown,1
+onyx,Get Project,https://docs.onyx.app/developers/api_reference/projects/get_project.md,developers/api_reference/projects/get_project.md,Docs,,markdown,1
+onyx,Get Project Details,https://docs.onyx.app/developers/api_reference/projects/get_project_details.md,developers/api_reference/projects/get_project_details.md,Docs,,markdown,1
+onyx,Get Project Instructions,https://docs.onyx.app/developers/api_reference/projects/get_project_instructions.md,developers/api_reference/projects/get_project_instructions.md,Docs,,markdown,1
+onyx,Get Projects,https://docs.onyx.app/developers/api_reference/projects/get_projects.md,developers/api_reference/projects/get_projects.md,Docs,,markdown,1
+onyx,Get User Chat Sessions,https://docs.onyx.app/developers/api_reference/chat/get_user_chat_sessions.md,developers/api_reference/chat/get_user_chat_sessions.md,Docs,,markdown,1
+onyx,Get User File,https://docs.onyx.app/developers/api_reference/projects/get_user_file.md,developers/api_reference/projects/get_user_file.md,Docs,Fetch a single user file by ID for the current user.,markdown,1
+onyx,Get User File Statuses,https://docs.onyx.app/developers/api_reference/projects/get_user_file_statuses.md,developers/api_reference/projects/get_user_file_statuses.md,Docs,Fetch statuses for a set of user file IDs owned by the current user.,markdown,1
+onyx,Get User Role,https://docs.onyx.app/developers/api_reference/user_management/get_user_role.md,developers/api_reference/user_management/get_user_role.md,Docs,,markdown,1
+onyx,GitBook,https://docs.onyx.app/admins/connectors/official/gitbook.md,admins/connectors/official/gitbook.md,Docs,Access documentation from GitBook,markdown,1
+onyx,GitHub Connector,https://docs.onyx.app/admins/connectors/official/github.md,admins/connectors/official/github.md,Docs,Access knowledge from your GitHub Repositories,markdown,1
+onyx,GitLab,https://docs.onyx.app/admins/connectors/official/gitlab.md,admins/connectors/official/gitlab.md,Docs,Index repositories and issues from GitLab,markdown,1
+onyx,Gmail OAuth,https://docs.onyx.app/admins/connectors/official/gmail/oauth.md,admins/connectors/official/gmail/oauth.md,Docs,Set up Gmail OAuth for the connector,markdown,1
+onyx,Gmail Overview,https://docs.onyx.app/admins/connectors/official/gmail/overview.md,admins/connectors/official/gmail/overview.md,Docs,Overview of the Gmail connector,markdown,1
+onyx,Gmail Service Account,https://docs.onyx.app/admins/connectors/official/gmail/service_account.md,admins/connectors/official/gmail/service_account.md,Docs,Set up Gmail Service Account for the connector,markdown,1
+onyx,Gong,https://docs.onyx.app/admins/connectors/official/gong.md,admins/connectors/official/gong.md,Docs,Access call transcripts from Gong,markdown,1
+onyx,Google AI,https://docs.onyx.app/admins/ai_models/google_ai.md,admins/ai_models/google_ai.md,Docs,Configure Google Vertex AI models for use with Onyx,markdown,1
+onyx,Google Cloud Storage,https://docs.onyx.app/admins/connectors/official/google_storage.md,admins/connectors/official/google_storage.md,Docs,Access files from Google Cloud Storage buckets,markdown,1
+onyx,Google Drive OAuth,https://docs.onyx.app/admins/connectors/official/google_drive/oauth.md,admins/connectors/official/google_drive/oauth.md,Docs,Set up Google Drive OAuth for the connector,markdown,1
+onyx,Google Drive Overview,https://docs.onyx.app/admins/connectors/official/google_drive/overview.md,admins/connectors/official/google_drive/overview.md,Docs,Overview of the Google Drive connector,markdown,1
+onyx,Google Drive Service Account,https://docs.onyx.app/admins/connectors/official/google_drive/service_account.md,admins/connectors/official/google_drive/service_account.md,Docs,Set up Google Drive Service Account for the connector,markdown,1
+onyx,Google OAuth,https://docs.onyx.app/deployment/authentication/oauth.md,deployment/authentication/oauth.md,Docs,Google OAuth authentication setup,markdown,1
+onyx,Google Sites,https://docs.onyx.app/admins/connectors/official/google_sites.md,admins/connectors/official/google_sites.md,Docs,Access sites and pages from Google Sites,markdown,1
+onyx,Guru,https://docs.onyx.app/admins/connectors/official/guru.md,admins/connectors/official/guru.md,Docs,Access cards and collections from Guru,markdown,1
+onyx,Handle Search Request,https://docs.onyx.app/developers/api_reference/search/handle_search_request.md,developers/api_reference/search/handle_search_request.md,Docs,,markdown,1
+onyx,Handle Send Chat Message,https://docs.onyx.app/developers/api_reference/chat/handle_send_chat_message.md,developers/api_reference/chat/handle_send_chat_message.md,Docs,This endpoint is used to send a new chat message.,markdown,1
+onyx,Healthcheck,https://docs.onyx.app/developers/api_reference/miscellaneous/healthcheck.md,developers/api_reference/miscellaneous/healthcheck.md,Docs,,markdown,1
+onyx,Highspot,https://docs.onyx.app/admins/connectors/official/highspot.md,admins/connectors/official/highspot.md,Docs,Access sales content from Highspot,markdown,1
+onyx,HubSpot,https://docs.onyx.app/admins/connectors/official/hubspot.md,admins/connectors/official/hubspot.md,Docs,Access CRM data from HubSpot,markdown,1
+onyx,Image Generation,https://docs.onyx.app/admins/actions/image_generation.md,admins/actions/image_generation.md,Docs,Enable image generation capabilities for your AI Agents in Onyx,markdown,1
+onyx,Image Generation,https://docs.onyx.app/overview/core_features/image_generation.md,overview/core_features/image_generation.md,Docs,Create visuals according to user prompts,markdown,1
+onyx,Index Files with the Ingestion API,https://docs.onyx.app/developers/guides/index_files_ingestion_api.md,developers/guides/index_files_ingestion_api.md,Docs,Learn how to programmatically index documents using Onyx's ingestion API,markdown,1
+onyx,Internal Search,https://docs.onyx.app/overview/core_features/internal_search.md,overview/core_features/internal_search.md,Docs,Enterprise Search across all your applications,markdown,1
+onyx,Jira,https://docs.onyx.app/admins/connectors/official/jira.md,admins/connectors/official/jira.md,Docs,Access issues and projects from Jira,markdown,1
+onyx,Kubernetes,https://docs.onyx.app/deployment/local/kubernetes.md,deployment/local/kubernetes.md,Docs,Deploy Onyx with Helm,markdown,1
+onyx,LLM Access Controls,https://docs.onyx.app/admins/advanced_configs/llm_access_controls.md,admins/advanced_configs/llm_access_controls.md,Docs,Configure access controls for LLM providers,markdown,1
+onyx,Linear,https://docs.onyx.app/admins/connectors/official/linear.md,admins/connectors/official/linear.md,Docs,Access issues and projects from Linear,markdown,1
+onyx,Link User File To Project,https://docs.onyx.app/developers/api_reference/projects/link_user_file_to_project.md,developers/api_reference/projects/link_user_file_to_project.md,Docs,Link an existing user file to a specific project for the current user.,markdown,1
+onyx,List Accepted Users,https://docs.onyx.app/developers/api_reference/user_management/list_accepted_users.md,developers/api_reference/user_management/list_accepted_users.md,Docs,,markdown,1
+onyx,List Agents Admin,https://docs.onyx.app/developers/api_reference/agents/list_personas_admin.md,developers/api_reference/agents/list_personas_admin.md,Docs,,markdown,1
+onyx,List All Users,https://docs.onyx.app/developers/api_reference/user_management/list_all_users.md,developers/api_reference/user_management/list_all_users.md,Docs,,markdown,1
+onyx,List All Users Basic Info,https://docs.onyx.app/developers/api_reference/user_management/list_all_users_basic_info.md,developers/api_reference/user_management/list_all_users_basic_info.md,Docs,,markdown,1
+onyx,List Connector Files,https://docs.onyx.app/developers/api_reference/files_connectors/list_connector_files.md,developers/api_reference/files_connectors/list_connector_files.md,Docs,List all files in a file connector.,markdown,1
+onyx,List Credentials,https://docs.onyx.app/developers/api_reference/files_connectors/list_credentials.md,developers/api_reference/files_connectors/list_credentials.md,Docs,,markdown,1
+onyx,List Credentials Admin,https://docs.onyx.app/developers/api_reference/files_connectors/list_credentials_admin.md,developers/api_reference/files_connectors/list_credentials_admin.md,Docs,Lists all public credentials,markdown,1
+onyx,List Invited Users,https://docs.onyx.app/developers/api_reference/user_management/list_invited_users.md,developers/api_reference/user_management/list_invited_users.md,Docs,,markdown,1
+onyx,List OpenAPI Tools,https://docs.onyx.app/developers/api_reference/actions/list_openapi_tools.md,developers/api_reference/actions/list_openapi_tools.md,Docs,,markdown,1
+onyx,List Tools,https://docs.onyx.app/developers/api_reference/actions/list_tools.md,developers/api_reference/actions/list_tools.md,Docs,,markdown,1
+onyx,MCP,https://docs.onyx.app/admins/actions/mcp.md,admins/actions/mcp.md,Docs,Configure Model Context Protocol (MCP) actions in Onyx,markdown,1
+onyx,MCP Server,https://docs.onyx.app/overview/onyx_anywhere/mcp_server.md,overview/onyx_anywhere/mcp_server.md,Docs,"Access Onyx from Claude, Cursor, and other AI tools via the Model Context Protocol",markdown,1
+onyx,Manage Your Subscription,https://docs.onyx.app/admins/billing/manage.md,admins/billing/manage.md,Docs,"Update seats, manage licenses, and access the Stripe portal",markdown,1
+onyx,Microsoft Teams,https://docs.onyx.app/admins/connectors/official/teams.md,admins/connectors/official/teams.md,Docs,Access messages and files from Microsoft Teams,markdown,1
+onyx,Mobile App (Coming Soon),https://docs.onyx.app/overview/onyx_anywhere/mobile_app.md,overview/onyx_anywhere/mobile_app.md,Docs,Access Onyx from mobile devices,markdown,1
+onyx,Multi Tenant,https://docs.onyx.app/security/onyx_cloud/multi_tenant.md,security/onyx_cloud/multi_tenant.md,Docs,Self-serve cloud,markdown,1
+onyx,Notion,https://docs.onyx.app/admins/connectors/official/notion.md,admins/connectors/official/notion.md,Docs,Access pages and databases from Notion,markdown,1
+onyx,OIDC,https://docs.onyx.app/deployment/authentication/oidc.md,deployment/authentication/oidc.md,Docs,OpenID Connect authentication setup,markdown,1
+onyx,Ollama,https://docs.onyx.app/admins/ai_models/ollama.md,admins/ai_models/ollama.md,Docs,Using Ollama with Onyx,markdown,1
+onyx,Onyx MCP Server,https://docs.onyx.app/deployment/configuration/mcp_server.md,deployment/configuration/mcp_server.md,Docs,"Connect LLMs like Claude, Cursor, and other AI tools to your Onyx knowledge base via the Model Context Protocol",markdown,1
+onyx,Onyx Slack Bot,https://docs.onyx.app/admins/getting_started/slack_bot_setup.md,admins/getting_started/slack_bot_setup.md,Docs,How to set up a Slack bot connected to Onyx,markdown,1
+onyx,Open Source Statement,https://docs.onyx.app/overview/miscellaneous/open_source_statement.md,overview/miscellaneous/open_source_statement.md,Docs,Onyx's commitment to open source principles,markdown,1
+onyx,OpenAI,https://docs.onyx.app/admins/ai_models/openai.md,admins/ai_models/openai.md,Docs,Configure OpenAI models for Onyx,markdown,1
+onyx,OpenAPI,https://docs.onyx.app/admins/actions/openapi.md,admins/actions/openapi.md,Docs,Configure custom actions in Onyx with OpenAPI,markdown,1
+onyx,OpenRouter,https://docs.onyx.app/admins/ai_models/openrouter.md,admins/ai_models/openrouter.md,Docs,Using OpenRouter with Onyx,markdown,1
+onyx,Oracle Cloud Storage,https://docs.onyx.app/admins/connectors/official/oci_storage.md,admins/connectors/official/oci_storage.md,Docs,Access files from Oracle Cloud Storage buckets,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/actions/overview.md,admins/actions/overview.md,Docs,Actions in Onyx,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/agents/overview.md,admins/agents/overview.md,Docs,Managing AI agents,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/ai_models/overview.md,admins/ai_models/overview.md,Docs,Configuring AI Providers and Models in Onyx,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/analytics/overview.md,admins/analytics/overview.md,Docs,Analytics and usage monitoring in Onyx,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/connectors/official/sharepoint/sharepoint.md,admins/connectors/official/sharepoint/sharepoint.md,Docs,Access files and notes from your SharePoint Sites,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/connectors/overview.md,admins/connectors/overview.md,Docs,Managing connectors and data sources in Onyx,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/curators/overview.md,admins/curators/overview.md,Docs,Curator Overview,markdown,1
+onyx,Overview,https://docs.onyx.app/admins/overview.md,admins/overview.md,Docs,An Overview of Administering Onyx,markdown,1
+onyx,Overview,https://docs.onyx.app/deployment/overview.md,deployment/overview.md,Docs,An overview of deploying Onyx,markdown,1
+onyx,Overview & Auth,https://docs.onyx.app/developers/overview.md,developers/overview.md,Docs,Overview of Onyx APIs,markdown,1
+onyx,Plans & Billing,https://docs.onyx.app/admins/billing/overview.md,admins/billing/overview.md,Docs,Understand Onyx plans and how billing works for Cloud and Self-Hosted deployments,markdown,1
+onyx,Productboard,https://docs.onyx.app/admins/connectors/official/productboard.md,admins/connectors/official/productboard.md,Docs,Access product feedback and features from Productboard,markdown,1
+onyx,Prune Cc Pair,https://docs.onyx.app/developers/api_reference/files_connectors/prune_cc_pair.md,developers/api_reference/files_connectors/prune_cc_pair.md,Docs,Triggers pruning on a particular cc_pair immediately,markdown,1
+onyx,Quickstart,https://docs.onyx.app/deployment/getting_started/quickstart.md,deployment/getting_started/quickstart.md,Docs,Recommended way to deploy Onyx in minutes,markdown,1
+onyx,Quickstart,https://docs.onyx.app/overview/getting_started/quickstart.md,overview/getting_started/quickstart.md,Docs,,markdown,1
+onyx,RDS,https://docs.onyx.app/deployment/cloud/aws/rds.md,deployment/cloud/aws/rds.md,Docs,Setup AWS RDS for Onyx,markdown,1
+onyx,Rate Limits,https://docs.onyx.app/admins/advanced_configs/rate_limits.md,admins/advanced_configs/rate_limits.md,Docs,Configure rate limiting and throttling settings,markdown,1
+onyx,Release Notes,https://docs.onyx.app/changelog.md,changelog.md,Docs,"New Features, Improvements, and Bug Fixes",markdown,1
+onyx,Release Process & Updates,https://docs.onyx.app/deployment/miscellaneous/release_process.md,deployment/miscellaneous/release_process.md,Docs,"Onyx release process, versioning, and recommended update process",markdown,1
+onyx,Remove Invited User,https://docs.onyx.app/developers/api_reference/user_management/remove_invited_user.md,developers/api_reference/user_management/remove_invited_user.md,Docs,,markdown,1
+onyx,RequestTracker,https://docs.onyx.app/admins/connectors/official/requesttracker.md,admins/connectors/official/requesttracker.md,Docs,Access tickets from RequestTracker,markdown,1
+onyx,Resourcing,https://docs.onyx.app/deployment/getting_started/resourcing.md,deployment/getting_started/resourcing.md,Docs,Resource requirements for deploying Onyx,markdown,1
+onyx,S3 Access Keys,https://docs.onyx.app/admins/connectors/official/s3/access-keys.md,admins/connectors/official/s3/access-keys.md,Docs,Authorize the S3 connector using AWS Access Keys.,markdown,1
+onyx,S3 Assume Role,https://docs.onyx.app/admins/connectors/official/s3/assume-role.md,admins/connectors/official/s3/assume-role.md,Docs,This method automatically uses the IAM role attached to your EC2 instance to access S3 buckets. No manual credential entry is required.,markdown,1
+onyx,S3 IAM Role,https://docs.onyx.app/admins/connectors/official/s3/iam-role.md,admins/connectors/official/s3/iam-role.md,Docs,Authorize the S3 connector using an AWS IAM Role with assume role policy.,markdown,1
+onyx,S3 Overview,https://docs.onyx.app/admins/connectors/official/s3/overview.md,admins/connectors/official/s3/overview.md,Docs,Overview of the S3 connector,markdown,1
+onyx,SAML,https://docs.onyx.app/deployment/authentication/saml.md,deployment/authentication/saml.md,Docs,SAML authentication setup,markdown,1
+onyx,Salesforce,https://docs.onyx.app/admins/connectors/official/salesforce.md,admins/connectors/official/salesforce.md,Docs,Access CRM data from Salesforce,markdown,1
+onyx,Search Chats,https://docs.onyx.app/developers/api_reference/chat/search_chats.md,developers/api_reference/chat/search_chats.md,Docs,Search for chat sessions based on the provided query.,markdown,1
+onyx,Search Configuration,https://docs.onyx.app/admins/advanced_configs/search_configs.md,admins/advanced_configs/search_configs.md,Docs,Configure search settings and parameters,markdown,1
+onyx,Seed Chat,https://docs.onyx.app/developers/api_reference/chat/seed_chat.md,developers/api_reference/chat/seed_chat.md,Docs,,markdown,1
+onyx,Send Message (Deprecated),https://docs.onyx.app/developers/guides/chat_guide.md,developers/guides/chat_guide.md,Docs,Guide to send a message to Onyx,markdown,1
+onyx,Send a Message to Onyx,https://docs.onyx.app/developers/guides/chat_new_guide.md,developers/guides/chat_new_guide.md,Docs,Sending messages programmatically to Onyx,markdown,1
+onyx,Set User Role,https://docs.onyx.app/developers/api_reference/user_management/set_user_role.md,developers/api_reference/user_management/set_user_role.md,Docs,,markdown,1
+onyx,Single Tenant,https://docs.onyx.app/security/onyx_cloud/single_tenant.md,security/onyx_cloud/single_tenant.md,Docs,Enterprise cloud,markdown,1
+onyx,Slab,https://docs.onyx.app/admins/connectors/official/slab.md,admins/connectors/official/slab.md,Docs,Access documentation from Slab,markdown,1
+onyx,Slack Bot,https://docs.onyx.app/overview/onyx_anywhere/slack.md,overview/onyx_anywhere/slack.md,Docs,Accessing Onyx within Slack,markdown,1
+onyx,Slack Federated,https://docs.onyx.app/admins/connectors/official/slack/slack_federated.md,admins/connectors/official/slack/slack_federated.md,Docs,Set up the Slack Federated connector,markdown,1
+onyx,Slack Indexed,https://docs.onyx.app/admins/connectors/official/slack/slack_indexed.md,admins/connectors/official/slack/slack_indexed.md,Docs,Set up the Slack Indexed connector,markdown,1
+onyx,Stop Chat Session,https://docs.onyx.app/developers/api_reference/chat/stop_chat_session.md,developers/api_reference/chat/stop_chat_session.md,Docs,Stop a chat session by setting a stop signal in Redis.,markdown,1
+onyx,Subscribe to a Plan,https://docs.onyx.app/admins/billing/subscribing.md,admins/billing/subscribing.md,Docs,How to subscribe to a paid Onyx plan on Cloud or Self-Hosted,markdown,1
+onyx,Swap Credentials For Connector,https://docs.onyx.app/developers/api_reference/files_connectors/swap_credentials_for_connector.md,developers/api_reference/files_connectors/swap_credentials_for_connector.md,Docs,,markdown,1
+onyx,System Description,https://docs.onyx.app/security/architecture/system_description.md,security/architecture/system_description.md,Docs,High level view of Onyx components,markdown,1
+onyx,Terraform,https://docs.onyx.app/deployment/local/terraform.md,deployment/local/terraform.md,Docs,Deploy Onyx with Terraform,markdown,1
+onyx,Troubleshooting,https://docs.onyx.app/admins/billing/troubleshooting.md,admins/billing/troubleshooting.md,Docs,Common billing and licensing issues and how to resolve them,markdown,1
+onyx,Undelete Agent,https://docs.onyx.app/developers/api_reference/agents/undelete_persona.md,developers/api_reference/agents/undelete_persona.md,Docs,,markdown,1
+onyx,Unlink User File From Project,https://docs.onyx.app/developers/api_reference/projects/unlink_user_file_from_project.md,developers/api_reference/projects/unlink_user_file_from_project.md,Docs,Unlink an existing user file from a specific project for the current user.,markdown,1
+onyx,Update Agent,https://docs.onyx.app/developers/api_reference/agents/update_persona.md,developers/api_reference/agents/update_persona.md,Docs,,markdown,1
+onyx,Update CC Pair Status,https://docs.onyx.app/developers/api_reference/files_connectors/update_cc_pair_status.md,developers/api_reference/files_connectors/update_cc_pair_status.md,Docs,This method returns nearly immediately. It simply sets some signals and,markdown,1
+onyx,Update Connector Files,https://docs.onyx.app/developers/api_reference/files_connectors/update_connector_files.md,developers/api_reference/files_connectors/update_connector_files.md,Docs,Update files in a connector by adding new files and/or removing existing ones.,markdown,1
+onyx,Update Credential Data,https://docs.onyx.app/developers/api_reference/files_connectors/update_credential_data.md,developers/api_reference/files_connectors/update_credential_data.md,Docs,,markdown,1
+onyx,Update Credential From Model,https://docs.onyx.app/developers/api_reference/files_connectors/update_credential_from_model.md,developers/api_reference/files_connectors/update_credential_from_model.md,Docs,,markdown,1
+onyx,Update Credential Private Key,https://docs.onyx.app/developers/api_reference/files_connectors/update_credential_private_key.md,developers/api_reference/files_connectors/update_credential_private_key.md,Docs,,markdown,1
+onyx,Update Custom Tool,https://docs.onyx.app/developers/api_reference/actions/update_custom_tool.md,developers/api_reference/actions/update_custom_tool.md,Docs,,markdown,1
+onyx,Update Project,https://docs.onyx.app/developers/api_reference/projects/update_project.md,developers/api_reference/projects/update_project.md,Docs,,markdown,1
+onyx,Update Token Limit Settings,https://docs.onyx.app/developers/api_reference/miscellaneous/update_token_limit_settings.md,developers/api_reference/miscellaneous/update_token_limit_settings.md,Docs,,markdown,1
+onyx,Upload Files Api,https://docs.onyx.app/developers/api_reference/files_connectors/upload_files_api.md,developers/api_reference/files_connectors/upload_files_api.md,Docs,,markdown,1
+onyx,Upload User Files,https://docs.onyx.app/developers/api_reference/projects/upload_user_files.md,developers/api_reference/projects/upload_user_files.md,Docs,,markdown,1
+onyx,Upsert Ingestion Doc,https://docs.onyx.app/developers/api_reference/ingestion/upsert_ingestion_doc.md,developers/api_reference/ingestion/upsert_ingestion_doc.md,Docs,,markdown,1
+onyx,Upsert Project Instructions,https://docs.onyx.app/developers/api_reference/projects/upsert_project_instructions.md,developers/api_reference/projects/upsert_project_instructions.md,Docs,Create or update this project's instructions stored on the project itself.,markdown,1
+onyx,Use Cases,https://docs.onyx.app/overview/getting_started/use_cases.md,overview/getting_started/use_cases.md,Docs,Ideas for an AI-powered workplace.,markdown,1
+onyx,Users and Groups,https://docs.onyx.app/admins/user_management/users_and_groups.md,admins/user_management/users_and_groups.md,Docs,"Manage users, roles, groups, and invitations in Onyx",markdown,1
+onyx,Validate Tool,https://docs.onyx.app/developers/api_reference/actions/validate_tool.md,developers/api_reference/actions/validate_tool.md,Docs,,markdown,1
+onyx,Verify User Logged In,https://docs.onyx.app/developers/api_reference/user_management/verify_user_logged_in.md,developers/api_reference/user_management/verify_user_logged_in.md,Docs,,markdown,1
+onyx,Web,https://docs.onyx.app/admins/connectors/official/web.md,admins/connectors/official/web.md,Docs,Index public or internal web pages,markdown,1
+onyx,Web App,https://docs.onyx.app/overview/onyx_anywhere/web_interface.md,overview/onyx_anywhere/web_interface.md,Docs,Using Onyx through the web browser,markdown,1
+onyx,Web Search,https://docs.onyx.app/admins/actions/web_search.md,admins/actions/web_search.md,Docs,Enable web search capabilities for your AI Agents in Onyx,markdown,1
+onyx,Web Search,https://docs.onyx.app/overview/core_features/web_search.md,overview/core_features/web_search.md,Docs,AI-powered web search,markdown,1
+onyx,Website Widget,https://docs.onyx.app/deployment/configuration/website_widget.md,deployment/configuration/website_widget.md,Docs,Deploy the Onyx chat widget on your website,markdown,1
+onyx,Website Widget,https://docs.onyx.app/overview/onyx_anywhere/website_widget.md,overview/onyx_anywhere/website_widget.md,Docs,Embed Onyx AI chat on any website,markdown,1
+onyx,Welcome to Onyx!,https://docs.onyx.app/welcome.md,welcome.md,Docs,Open Source AI Platform for Work,markdown,1
+onyx,White Labeling,https://docs.onyx.app/admins/advanced_configs/white_labeling.md,admins/advanced_configs/white_labeling.md,Docs,Customize Onyx's branding and appearance,markdown,1
+onyx,Workflows (Coming Soon),https://docs.onyx.app/overview/core_features/workflows.md,overview/core_features/workflows.md,Docs,Automated workflows and processes in Onyx,markdown,1
+onyx,Workspace Settings,https://docs.onyx.app/admins/advanced_configs/workspace_settings.md,admins/advanced_configs/workspace_settings.md,Docs,Configure global settings for your Onyx workspace,markdown,1
+onyx,XenForo,https://docs.onyx.app/admins/connectors/official/xenforo.md,admins/connectors/official/xenforo.md,Docs,Access forum posts from XenForo,markdown,1
+onyx,Zendesk,https://docs.onyx.app/admins/connectors/official/zendesk.md,admins/connectors/official/zendesk.md,Docs,Access tickets and conversations from Zendesk,markdown,1
+onyx,Zulip,https://docs.onyx.app/admins/connectors/official/zulip.md,admins/connectors/official/zulip.md,Docs,Access messages from Zulip streams,markdown,1

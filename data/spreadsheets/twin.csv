@@ -1,0 +1,15 @@
+platform_id,title,url,rel_path,section,description,content_type,is_markdown
+twin,Build vs Run,https://docs.twin.so/build-vs-run.md,build-vs-run.md,Docs,Understand the two execution modes and how they affect credits,markdown,1
+twin,FAQs,https://docs.twin.so/guidelines.md,guidelines.md,Docs,Frequently asked questions about Twin,markdown,1
+twin,Instructions,https://docs.twin.so/instructions.md,instructions.md,Docs,"The backend of each agent — auto-generated, fully editable",markdown,1
+twin,Interfaces,https://docs.twin.so/interfaces.md,interfaces.md,Docs,Build and deploy full apps powered by your Twin agents,markdown,1
+twin,Orchestrator,https://docs.twin.so/orchestrator.md,orchestrator.md,Docs,The workspace-level chat that manages all your agents,markdown,1
+twin,Pricing,https://docs.twin.so/pricing.md,pricing.md,Docs,"Simple, credit-based pricing for autonomous agents",markdown,1
+twin,Quickstart,https://docs.twin.so/quickstart.md,quickstart.md,Docs,Build your first three Twin agents and experience the full platform,markdown,1
+twin,REST API,https://docs.twin.so/rest-api.md,rest-api.md,Docs,Integrate Twin programmatically using the REST API,markdown,1
+twin,Tips and Tricks,https://docs.twin.so/tips-tricks.md,tips-tricks.md,Docs,Get the most out of your Twin plan with these best practices,markdown,1
+twin,Triggers,https://docs.twin.so/triggers.md,triggers.md,Docs,Start Twin agents automatically,markdown,1
+twin,Troubleshooting,https://docs.twin.so/troubleshooting.md,troubleshooting.md,Docs,Diagnose and fix issues when an agent doesn't behave as expected,markdown,1
+twin,Web Agent,https://docs.twin.so/web-agent.md,web-agent.md,Docs,Browser automation for when APIs aren't enough,markdown,1
+twin,What is Twin?,https://docs.twin.so/welcome.md,welcome.md,Docs,,markdown,1
+twin,Workspaces,https://docs.twin.so/workspaces.md,workspaces.md,Docs,Organize agents that collaborate and share context,markdown,1

@@ -1,0 +1,192 @@
+platform_id,title,url,rel_path,section,description,content_type,is_markdown
+stackai,AI Governance,https://docs.stackai.com/ai-governance.md,ai-governance.md,StackAI Docs,,markdown,1
+stackai,AI Routing,https://docs.stackai.com/logic/ai-routing.md,logic/ai-routing.md,StackAI Docs,,markdown,1
+stackai,API,https://docs.stackai.com/export-options/api.md,export-options/api.md,StackAI Docs,Integrate your interface as an API.,markdown,1
+stackai,Action Node,https://docs.stackai.com/workflow-builder/outputs/action-node.md,workflow-builder/outputs/action-node.md,StackAI Docs,,markdown,1
+stackai,Adding Advanced Logging for Analytics,https://docs.stackai.com/hacks/adding-advanced-logging-for-analytics.md,hacks/adding-advanced-logging-for-analytics.md,StackAI Docs,,markdown,1
+stackai,Advanced Settings,https://docs.stackai.com/workflow-builder/llms/llm-node/advanced-settings.md,workflow-builder/llms/llm-node/advanced-settings.md,StackAI Docs,,markdown,1
+stackai,Agentic Development Lifecycle (ADLC),https://docs.stackai.com/governance-and-security/agentic-development-lifecycle-adlc.md,governance-and-security/agentic-development-lifecycle-adlc.md,StackAI Docs,,markdown,1
+stackai,Airtable,https://docs.stackai.com/workflow-builder/apps/airtable.md,workflow-builder/apps/airtable.md,StackAI Docs,Query and manage your Airtable bases directly from StackAI workflows.,markdown,1
+stackai,Algolia,https://docs.stackai.com/workflow-builder/apps/algolia.md,workflow-builder/apps/algolia.md,StackAI Docs,"Learn how to use the Algolia node in Stack AI to perform advanced semantic and natural language searches on your Algolia index, with detailed input, configuration, and output examples.",markdown,1
+stackai,Analytics,https://docs.stackai.com/other-views/analytics.md,other-views/analytics.md,StackAI Docs,,markdown,1
+stackai,Analytics,https://docs.stackai.com/api-reference/analytics.md,api-reference/analytics.md,StackAI Docs,,markdown,1
+stackai,Analyze Worksheets,https://docs.stackai.com/interactive-tutorials/analyze-worksheets.md,interactive-tutorials/analyze-worksheets.md,StackAI Docs,Learn how to analyze worksheets in your flow with speed and efficiency,markdown,1
+stackai,Apps,https://docs.stackai.com/workflow-builder/apps.md,workflow-builder/apps.md,StackAI Docs,,markdown,1
+stackai,Asana,https://docs.stackai.com/workflow-builder/apps/asana.md,workflow-builder/apps/asana.md,StackAI Docs,"Master Asana integration in StackAI: discover top actions, required inputs, configurations, and outputs with clear examples for seamless workflow automation.",markdown,1
+stackai,Audio Input Node,https://docs.stackai.com/workflow-builder/inputs/audio-input-node.md,workflow-builder/inputs/audio-input-node.md,StackAI Docs,,markdown,1
+stackai,Audio Node,https://docs.stackai.com/workflow-builder/outputs/audio-node.md,workflow-builder/outputs/audio-node.md,StackAI Docs,,markdown,1
+stackai,Authentication and MFA,https://docs.stackai.com/governance-and-security/authentication-and-mfa.md,governance-and-security/authentication-and-mfa.md,StackAI Docs,Use these settings to control how users authenticate.,markdown,1
+stackai,Azure SQL,https://docs.stackai.com/workflow-builder/apps/azure-sql.md,workflow-builder/apps/azure-sql.md,StackAI Docs,"Learn how to use the Azure SQL node to query your Azure SQL database with natural language or SQL, including required inputs, configurations, and output details.",markdown,1
+stackai,Batch Run,https://docs.stackai.com/export-options/batch-run.md,export-options/batch-run.md,StackAI Docs,,markdown,1
+stackai,BigQuery,https://docs.stackai.com/workflow-builder/apps/bigquery.md,workflow-builder/apps/bigquery.md,StackAI Docs,"Comprehensive guide to the BigQuery node in StackAI: actions, inputs, configurations, outputs, and usage examples for seamless Google BigQuery integration.",markdown,1
+stackai,Bonus Features,https://docs.stackai.com/bonus-features.md,bonus-features.md,StackAI Docs,,markdown,1
+stackai,Box,https://docs.stackai.com/workflow-builder/apps/box.md,workflow-builder/apps/box.md,StackAI Docs,"Comprehensive guide to the Box integration in StackAI: discover key actions, input/output details, and best practices for automating file and folder management.",markdown,1
+stackai,Builder Path - Advanced,https://docs.stackai.com/stack-ai-curriculum/stack-ai-curriculum/builder-path-advanced.md,stack-ai-curriculum/stack-ai-curriculum/builder-path-advanced.md,StackAI Docs,"A learning path for admins and advanced builders focused on governance, reliability, and scaling.",markdown,1
+stackai,Builder Path - Beginner,https://docs.stackai.com/stack-ai-curriculum/stack-ai-curriculum/builder-path-beginner.md,stack-ai-curriculum/stack-ai-curriculum/builder-path-beginner.md,StackAI Docs,A step-by-step learning path to build and deploy your first StackAI workflow.,markdown,1
+stackai,Builder Path - Intermediate,https://docs.stackai.com/stack-ai-curriculum/stack-ai-curriculum/builder-path-intermediate.md,stack-ai-curriculum/stack-ai-curriculum/builder-path-intermediate.md,StackAI Docs,"A learning path for builders who want better quality, integrations, automation, and reliability.",markdown,1
+stackai,Chat Assistant,https://docs.stackai.com/export-options/chat-assistant.md,export-options/chat-assistant.md,StackAI Docs,,markdown,1
+stackai,Chunking,https://docs.stackai.com/best-practices/chunking.md,best-practices/chunking.md,StackAI Docs,Best practices for implementing document chunking for RAG,markdown,1
+stackai,Clickup,https://docs.stackai.com/workflow-builder/apps/clickup.md,workflow-builder/apps/clickup.md,StackAI Docs,"Comprehensive guide to the Clickup node in StackAI: discover top actions, input/output details, and practical usage examples for seamless Clickup automation.",markdown,1
+stackai,Coda,https://docs.stackai.com/workflow-builder/apps/coda.md,workflow-builder/apps/coda.md,StackAI Docs,"Comprehensive guide to the Coda node in StackAI: discover top actions, input/output details, and practical usage examples for seamless Coda automation.",markdown,1
+stackai,Compliance Chatbot,https://docs.stackai.com/interactive-tutorials/compliance-chatbot.md,interactive-tutorials/compliance-chatbot.md,StackAI Docs,Building a Compliance Chatbot in Stack AI,markdown,1
+stackai,Connection and Knowledge Base Permissions,https://docs.stackai.com/governance-and-security/connection-and-knowledge-base-permissions.md,governance-and-security/connection-and-knowledge-base-permissions.md,StackAI Docs,Restrict access to Connections and Knowledge Bases.,markdown,1
+stackai,Connections,https://docs.stackai.com/api-reference/connections.md,api-reference/connections.md,StackAI Docs,,markdown,1
+stackai,Conversations,https://docs.stackai.com/api-reference/conversations.md,api-reference/conversations.md,StackAI Docs,,markdown,1
+stackai,Create a News Researcher,https://docs.stackai.com/interactive-tutorials/create-a-news-researcher.md,interactive-tutorials/create-a-news-researcher.md,StackAI Docs,Learn how to incorporate global news in your workflow,markdown,1
+stackai,Creating a Knowledge Base,https://docs.stackai.com/workflow-builder/knowledge-bases/creating-a-knowledge-base.md,workflow-builder/knowledge-bases/creating-a-knowledge-base.md,StackAI Docs,,markdown,1
+stackai,Crunchbase,https://docs.stackai.com/workflow-builder/apps/crunchbase.md,workflow-builder/apps/crunchbase.md,StackAI Docs,"Discover how to use the Crunchbase node in StackAI to search for company and investment data, including required inputs, configurations, and output examples.",markdown,1
+stackai,Custom API,https://docs.stackai.com/utils/custom-api.md,utils/custom-api.md,StackAI Docs,,markdown,1
+stackai,Databricks,https://docs.stackai.com/workflow-builder/apps/databricks.md,workflow-builder/apps/databricks.md,StackAI Docs,"Learn how to use the Databricks node in StackAI to run analytics and machine learning queries. See required inputs, configurations, and output examples.",markdown,1
+stackai,Default Message,https://docs.stackai.com/utils/default-message.md,utils/default-message.md,StackAI Docs,,markdown,1
+stackai,Delay,https://docs.stackai.com/utils/delay.md,utils/delay.md,StackAI Docs,Learn how to use the Delay node in StackAI workflows to pause execution for a set time.,markdown,1
+stackai,Deploy with the Export View,https://docs.stackai.com/export-options/deploy-with-the-export-view.md,export-options/deploy-with-the-export-view.md,StackAI Docs,"Export your project as a chat assistant, a form, or an app. Run your project all at once on a csv file with the Batch Interface.",markdown,1
+stackai,Deploying Your First Agent,https://docs.stackai.com/deploying-your-first-agent.md,deploying-your-first-agent.md,StackAI Docs,,markdown,1
+stackai,Detecting the First Run,https://docs.stackai.com/hacks/detecting-the-first-run.md,hacks/detecting-the-first-run.md,StackAI Docs,,markdown,1
+stackai,Document Summarization,https://docs.stackai.com/interactive-tutorials/document-summarization.md,interactive-tutorials/document-summarization.md,StackAI Docs,Build an agent to summarize documents in Stack AI,markdown,1
+stackai,Documents,https://docs.stackai.com/api-reference/documents.md,api-reference/documents.md,StackAI Docs,,markdown,1
+stackai,Dynamic Vector Store,https://docs.stackai.com/utils/dynamic-vector-store.md,utils/dynamic-vector-store.md,StackAI Docs,,markdown,1
+stackai,E2B,https://docs.stackai.com/workflow-builder/apps/e2b.md,workflow-builder/apps/e2b.md,StackAI Docs,"Learn how to use the E2B node in StackAI to execute code in a secure, sandboxed environment. Discover available actions, input/output details, and best practices.",markdown,1
+stackai,Embeddings,https://docs.stackai.com/technical-considerations/embeddings.md,technical-considerations/embeddings.md,StackAI Docs,,markdown,1
+stackai,Evaluator,https://docs.stackai.com/other-views/evaluator.md,other-views/evaluator.md,StackAI Docs,Evaluate your agent's performance with a LLM-as-a-judge,markdown,1
+stackai,Exa AI,https://docs.stackai.com/workflow-builder/apps/exa-ai.md,workflow-builder/apps/exa-ai.md,StackAI Docs,"Comprehensive guide to the Exa AI node in StackAI: Learn how to use Exa AI for internet-scale search, including action details, input/output parameters, and practical examples.",markdown,1
+stackai,Excel,https://docs.stackai.com/workflow-builder/apps/excel.md,workflow-builder/apps/excel.md,StackAI Docs,"Comprehensive guide to the Excel node in StackAI: Learn how to automate spreadsheet tasks, write data, and integrate Excel with your workflows.",markdown,1
+stackai,Exporting and Importing Projects,https://docs.stackai.com/project-management/exporting-and-importing-projects.md,project-management/exporting-and-importing-projects.md,StackAI Docs,,markdown,1
+stackai,Exposed Inputs,https://docs.stackai.com/export-options/exposed-inputs.md,export-options/exposed-inputs.md,StackAI Docs,,markdown,1
+stackai,Feature Access,https://docs.stackai.com/governance-and-security/feature-access.md,governance-and-security/feature-access.md,StackAI Docs,"As an admin, you have the ability to enforce governance standards and feature accesses",markdown,1
+stackai,Files Node,https://docs.stackai.com/workflow-builder/inputs/files-node.md,workflow-builder/inputs/files-node.md,StackAI Docs,,markdown,1
+stackai,Firecrawl,https://docs.stackai.com/workflow-builder/apps/firecrawl.md,workflow-builder/apps/firecrawl.md,StackAI Docs,"Comprehensive guide to the Firecrawl node in StackAI: discover its most common actions, input requirements, configurations, and output examples for seamless web data extraction.",markdown,1
+stackai,Folders,https://docs.stackai.com/api-reference/folders.md,api-reference/folders.md,StackAI Docs,,markdown,1
+stackai,Form,https://docs.stackai.com/export-options/form.md,export-options/form.md,StackAI Docs,,markdown,1
+stackai,Fred,https://docs.stackai.com/workflow-builder/apps/fred.md,workflow-builder/apps/fred.md,StackAI Docs,"Learn how to use the Fred node in StackAI workflows. Discover key actions, input requirements, configurations, and output examples for seamless economic data integration.",markdown,1
+stackai,GDocs,https://docs.stackai.com/workflow-builder/apps/gdocs.md,workflow-builder/apps/gdocs.md,StackAI Docs,"Learn how to automate Google Docs creation in StackAI: create new documents, set file names, add content, and organize in folders with easy integration.",markdown,1
+stackai,Gamma,https://docs.stackai.com/workflow-builder/apps/gamma.md,workflow-builder/apps/gamma.md,StackAI Docs,"Comprehensive guide to the Gamma node in StackAI: discover its primary action, input requirements, configurations, and output examples for seamless AI-powered slide generation.",markdown,1
+stackai,Get Started with Workflow Builder,https://docs.stackai.com/workflow-builder/get-started-with-workflow-builder.md,workflow-builder/get-started-with-workflow-builder.md,StackAI Docs,A guide to the Workflow View,markdown,1
+stackai,Getting Business Insights from Your Agent,https://docs.stackai.com/hacks/getting-business-insights-from-your-agent.md,hacks/getting-business-insights-from-your-agent.md,StackAI Docs,"This article discusses ways to get insights on user interactions with the AI agents, such as themes and trends in user questions.",markdown,1
+stackai,Github,https://docs.stackai.com/workflow-builder/apps/github.md,workflow-builder/apps/github.md,StackAI Docs,"Comprehensive guide to the Github node in StackAI workflows, including key actions, input requirements, configurations, and output examples.",markdown,1
+stackai,Gmail,https://docs.stackai.com/workflow-builder/apps/gmail.md,workflow-builder/apps/gmail.md,StackAI Docs,"Comprehensive guide to using the Gmail node in StackAI workflows, including available actions, required inputs, configurations, and output examples.",markdown,1
+stackai,Google Sheets,https://docs.stackai.com/workflow-builder/apps/google-sheets.md,workflow-builder/apps/google-sheets.md,StackAI Docs,This guide walks you through how to create a new connection to Google Sheets and automate your reporting and data-writing.,markdown,1
+stackai,Handling Errors & Fallback,https://docs.stackai.com/hacks/handling-errors-and-fallback.md,hacks/handling-errors-and-fallback.md,StackAI Docs,,markdown,1
+stackai,Handling Large Input Files,https://docs.stackai.com/hacks/handling-large-input-files.md,hacks/handling-large-input-files.md,StackAI Docs,,markdown,1
+stackai,Hightouch,https://docs.stackai.com/workflow-builder/apps/hightouch.md,workflow-builder/apps/hightouch.md,StackAI Docs,"Comprehensive guide to the Hightouch node in StackAI, including top actions, input and output details, and practical usage examples.",markdown,1
+stackai,How to Improve LLM Performance,https://docs.stackai.com/workflow-builder/llms/how-to-improve-llm-performance.md,workflow-builder/llms/how-to-improve-llm-performance.md,StackAI Docs,,markdown,1
+stackai,How to Use Knowledge Bases,https://docs.stackai.com/workflow-builder/knowledge-bases/how-to-use-knowledge-bases.md,workflow-builder/knowledge-bases/how-to-use-knowledge-bases.md,StackAI Docs,What is a knowledge base and how to set up a knowledge base from the workflow builder or for your organization.,markdown,1
+stackai,HubSpot,https://docs.stackai.com/workflow-builder/apps/hubspot.md,workflow-builder/apps/hubspot.md,StackAI Docs,"Comprehensive guide to using the HubSpot node in StackAI workflows, including key actions, input requirements, configurations, and output examples.",markdown,1
+stackai,HyperBrowser,https://docs.stackai.com/workflow-builder/apps/hyperbrowser.md,workflow-builder/apps/hyperbrowser.md,StackAI Docs,"Learn how to automate browser tasks with the HyperBrowser node in StackAI. Discover available actions, required inputs, configurations, and output details.",markdown,1
+stackai,IT Support Chatbot,https://docs.stackai.com/interactive-tutorials/it-support-chatbot.md,interactive-tutorials/it-support-chatbot.md,StackAI Docs,Build an IT support chatbot in Stack AI,markdown,1
+stackai,If/Else Node,https://docs.stackai.com/logic/if-else-node.md,logic/if-else-node.md,StackAI Docs,,markdown,1
+stackai,Image Input Node,https://docs.stackai.com/workflow-builder/inputs/image-input-node.md,workflow-builder/inputs/image-input-node.md,StackAI Docs,,markdown,1
+stackai,Image Node,https://docs.stackai.com/workflow-builder/outputs/image-node.md,workflow-builder/outputs/image-node.md,StackAI Docs,,markdown,1
+stackai,Input Node,https://docs.stackai.com/workflow-builder/inputs/input-node.md,workflow-builder/inputs/input-node.md,StackAI Docs,,markdown,1
+stackai,Inputs,https://docs.stackai.com/workflow-builder/inputs.md,workflow-builder/inputs.md,StackAI Docs,,markdown,1
+stackai,Instruction vs Prompt,https://docs.stackai.com/best-practices/instruction-vs-prompt.md,best-practices/instruction-vs-prompt.md,StackAI Docs,"Master LLMs: Know the difference between instruction, system prompt, and user prompt to guide AI behavior and get top results. It's not just what you ask - it's how you ask it.",markdown,1
+stackai,Jira,https://docs.stackai.com/workflow-builder/apps/jira.md,workflow-builder/apps/jira.md,StackAI Docs,"Comprehensive guide to using the Jira node in StackAI workflows, including top actions, input requirements, configurations, and output details.",markdown,1
+stackai,Knowledge Base,https://docs.stackai.com/workflow-builder/apps/knowledge-base.md,workflow-builder/apps/knowledge-base.md,StackAI Docs,"Learn how to use the Knowledge Base node in StackAI to search and retrieve information from your indexed documents, including input, configuration, and output details.",markdown,1
+stackai,Knowledge Base Nodes and Tools,https://docs.stackai.com/workflow-builder/knowledge-bases/knowledge-base-nodes-and-tools.md,workflow-builder/knowledge-bases/knowledge-base-nodes-and-tools.md,StackAI Docs,,markdown,1
+stackai,Knowledge Bases,https://docs.stackai.com/workflow-builder/knowledge-bases.md,workflow-builder/knowledge-bases.md,StackAI Docs,,markdown,1
+stackai,Knowledge Bases,https://docs.stackai.com/api-reference/knowledge-bases.md,api-reference/knowledge-bases.md,StackAI Docs,,markdown,1
+stackai,LLM Node,https://docs.stackai.com/workflow-builder/llms/llm-node.md,workflow-builder/llms/llm-node.md,StackAI Docs,,markdown,1
+stackai,LLM Provider Governance,https://docs.stackai.com/workflow-builder/llms/llm-provider-governance.md,workflow-builder/llms/llm-provider-governance.md,StackAI Docs,"Control which LLMs your organization has access to, and where information is sent & stored.",markdown,1
+stackai,LLMs,https://docs.stackai.com/workflow-builder/llms.md,workflow-builder/llms.md,StackAI Docs,,markdown,1
+stackai,LLMs Hosted on Azure & AWS Bedrock,https://docs.stackai.com/workflow-builder/llms/llms-hosted-on-azure-and-aws-bedrock.md,workflow-builder/llms/llms-hosted-on-azure-and-aws-bedrock.md,StackAI Docs,,markdown,1
+stackai,Landing Page Chatbot,https://docs.stackai.com/export-options/landing-page-chatbot.md,export-options/landing-page-chatbot.md,StackAI Docs,,markdown,1
+stackai,Linear,https://docs.stackai.com/workflow-builder/apps/linear.md,workflow-builder/apps/linear.md,StackAI Docs,This guide walks you through how to create a new connection to Linear and automate your team issue tracking and collaboration.,markdown,1
+stackai,LinkedIn,https://docs.stackai.com/workflow-builder/apps/linkedin.md,workflow-builder/apps/linkedin.md,StackAI Docs,"Comprehensive guide to the LinkedIn node in StackAI workflows, including available actions, input requirements, configurations, and output details.",markdown,1
+stackai,Local LLM,https://docs.stackai.com/workflow-builder/llms/local-llm.md,workflow-builder/llms/local-llm.md,StackAI Docs,,markdown,1
+stackai,Logic,https://docs.stackai.com/logic.md,logic.md,StackAI Docs,,markdown,1
+stackai,Loom,https://docs.stackai.com/workflow-builder/apps/loom.md,workflow-builder/apps/loom.md,StackAI Docs,"Discover how to automate video workflows with the Loom node in StackAI. Learn about available actions, required inputs, configurations, and output examples.",markdown,1
+stackai,Loop Subflow,https://docs.stackai.com/logic/loop-subflow.md,logic/loop-subflow.md,StackAI Docs,,markdown,1
+stackai,MCP,https://docs.stackai.com/workflow-builder/apps/mcp.md,workflow-builder/apps/mcp.md,StackAI Docs,"Learn how to use the MCP node in StackAI to connect and interact with Model Context Protocol servers, including input, configuration, and output details.",markdown,1
+stackai,Main Settings,https://docs.stackai.com/workflow-builder/llms/llm-node/main-settings.md,workflow-builder/llms/llm-node/main-settings.md,StackAI Docs,,markdown,1
+stackai,Make,https://docs.stackai.com/workflow-builder/apps/make.md,workflow-builder/apps/make.md,StackAI Docs,"Learn how to use the Make (Integromat) node in StackAI to trigger webhooks and automate workflows with detailed input, configuration, and output examples.",markdown,1
+stackai,Manager,https://docs.stackai.com/other-views/manager.md,other-views/manager.md,StackAI Docs,,markdown,1
+stackai,Manager,https://docs.stackai.com/api-reference/manager.md,api-reference/manager.md,StackAI Docs,,markdown,1
+stackai,Messages,https://docs.stackai.com/api-reference/messages.md,api-reference/messages.md,StackAI Docs,,markdown,1
+stackai,Microsoft Teams,https://docs.stackai.com/export-options/microsoft-teams.md,export-options/microsoft-teams.md,StackAI Docs,,markdown,1
+stackai,Miro,https://docs.stackai.com/workflow-builder/apps/miro.md,workflow-builder/apps/miro.md,StackAI Docs,"Comprehensive guide to the Miro node in StackAI: discover key actions, input requirements, configurations, and output examples for seamless Miro integration.",markdown,1
+stackai,Missive,https://docs.stackai.com/workflow-builder/apps/missive.md,workflow-builder/apps/missive.md,StackAI Docs,"Learn how to use the Missive node in StackAI to trigger workflows on incoming email and automate your team inbox with detailed input, configuration, and output examples.",markdown,1
+stackai,MongoDB,https://docs.stackai.com/workflow-builder/apps/mongodb.md,workflow-builder/apps/mongodb.md,StackAI Docs,"Learn how to use the MongoDB node in StackAI to query your MongoDB database, including required inputs, configuration, and output examples.",markdown,1
+stackai,MySQL,https://docs.stackai.com/workflow-builder/apps/mysql.md,workflow-builder/apps/mysql.md,StackAI Docs,"Learn how to use the MySQL node in StackAI to run database queries, including required inputs, configurations, and output details with practical examples.",markdown,1
+stackai,NetSuite,https://docs.stackai.com/workflow-builder/apps/netsuite.md,workflow-builder/apps/netsuite.md,StackAI Docs,,markdown,1
+stackai,New to Generative AI?,https://docs.stackai.com/new-to-generative-ai.md,new-to-generative-ai.md,StackAI Docs,Understand how it works.,markdown,1
+stackai,Notifications,https://docs.stackai.com/api-reference/notifications.md,api-reference/notifications.md,StackAI Docs,,markdown,1
+stackai,Notion,https://docs.stackai.com/workflow-builder/apps/notion.md,workflow-builder/apps/notion.md,StackAI Docs,"Learn how to automate Notion page creation with StackAI: required inputs, configuration, and output details for seamless workflow integration.",markdown,1
+stackai,On-Premise,https://docs.stackai.com/on-premise.md,on-premise.md,StackAI Docs,,markdown,1
+stackai,Oracle,https://docs.stackai.com/workflow-builder/apps/oracle.md,workflow-builder/apps/oracle.md,StackAI Docs,"Learn how to use the Oracle node in StackAI to query Oracle databases using natural language or SQL, with clear input and output examples.",markdown,1
+stackai,Orchestrating AI Agents,https://docs.stackai.com/hacks/orchestrating-ai-agents.md,hacks/orchestrating-ai-agents.md,StackAI Docs,,markdown,1
+stackai,Outlook,https://docs.stackai.com/workflow-builder/apps/outlook.md,workflow-builder/apps/outlook.md,StackAI Docs,"Learn how to automate Outlook email tasks in StackAI. Discover available actions, required inputs, configurations, and output examples for seamless workflow integration.",markdown,1
+stackai,Output Node,https://docs.stackai.com/workflow-builder/outputs/output-node.md,workflow-builder/outputs/output-node.md,StackAI Docs,,markdown,1
+stackai,Outputs,https://docs.stackai.com/workflow-builder/outputs.md,workflow-builder/outputs.md,StackAI Docs,,markdown,1
+stackai,Outreach,https://docs.stackai.com/workflow-builder/apps/outreach.md,workflow-builder/apps/outreach.md,StackAI Docs,"Learn how to use the Outreach integration node in StackAI, including available actions, input requirements, configuration, and output details.",markdown,1
+stackai,Partnerships Agent,https://docs.stackai.com/interactive-tutorials/partnerships-agent.md,interactive-tutorials/partnerships-agent.md,StackAI Docs,Build a strategic partnerships agent in Stack AI,markdown,1
+stackai,Pinecone,https://docs.stackai.com/workflow-builder/apps/pinecone.md,workflow-builder/apps/pinecone.md,StackAI Docs,The Pinecone node in your workflow is used to query a Pinecone vector database for similar vectors based on a text query.,markdown,1
+stackai,Pitchbook,https://docs.stackai.com/workflow-builder/apps/pitchbook.md,workflow-builder/apps/pitchbook.md,StackAI Docs,,markdown,1
+stackai,Platform Overview,https://docs.stackai.com/platform-overview.md,platform-overview.md,StackAI Docs,,markdown,1
+stackai,Policy Chatbot,https://docs.stackai.com/interactive-tutorials/policy-chatbot.md,interactive-tutorials/policy-chatbot.md,StackAI Docs,Build a policy chatbot in Stack AI,markdown,1
+stackai,PostgreSQL,https://docs.stackai.com/workflow-builder/apps/postgresql.md,workflow-builder/apps/postgresql.md,StackAI Docs,,markdown,1
+stackai,Power BI,https://docs.stackai.com/workflow-builder/apps/power-bi.md,workflow-builder/apps/power-bi.md,StackAI Docs,,markdown,1
+stackai,Project Controls,https://docs.stackai.com/governance-and-security/project-controls.md,governance-and-security/project-controls.md,StackAI Docs,"Use Project Controls to track versions during workflow development, and lock workflows when in production",markdown,1
+stackai,Prompt Engineering,https://docs.stackai.com/best-practices/prompt-engineering.md,best-practices/prompt-engineering.md,StackAI Docs,,markdown,1
+stackai,Prompt Library,https://docs.stackai.com/other-views/prompt-library.md,other-views/prompt-library.md,StackAI Docs,The Prompt Library gives you an overview of your saved prompts and instructions.,markdown,1
+stackai,Prompting,https://docs.stackai.com/workflow-builder/llms/llm-node/prompting.md,workflow-builder/llms/llm-node/prompting.md,StackAI Docs,,markdown,1
+stackai,Python Code,https://docs.stackai.com/logic/python-code.md,logic/python-code.md,StackAI Docs,,markdown,1
+stackai,Reducto,https://docs.stackai.com/workflow-builder/apps/reducto.md,workflow-builder/apps/reducto.md,StackAI Docs,,markdown,1
+stackai,Regex,https://docs.stackai.com/workflow-builder/apps/regex.md,workflow-builder/apps/regex.md,StackAI Docs,,markdown,1
+stackai,Replace a Node,https://docs.stackai.com/bonus-features/replace-a-node.md,bonus-features/replace-a-node.md,StackAI Docs,,markdown,1
+stackai,Role-Based Access Controls (RBAC) and Groups,https://docs.stackai.com/governance-and-security/role-based-access-controls-rbac-and-groups.md,governance-and-security/role-based-access-controls-rbac-and-groups.md,StackAI Docs,Control what users can see and do in StackAI by assigning roles.,markdown,1
+stackai,Run Flow,https://docs.stackai.com/api-reference/run-flow.md,api-reference/run-flow.md,StackAI Docs,,markdown,1
+stackai,RunwayML,https://docs.stackai.com/workflow-builder/apps/runwayml.md,workflow-builder/apps/runwayml.md,StackAI Docs,"Discover how to use the RunwayML node in StackAI to generate AI-powered images and videos with customizable prompts, models, and output settings.",markdown,1
+stackai,SAP,https://docs.stackai.com/workflow-builder/apps/sap.md,workflow-builder/apps/sap.md,StackAI Docs,"Comprehensive guide to the SAP node in StackAI: actions, required inputs, configurations, and outputs with clear examples.",markdown,1
+stackai,SEC EDGAR,https://docs.stackai.com/workflow-builder/apps/sec-edgar.md,workflow-builder/apps/sec-edgar.md,StackAI Docs,,markdown,1
+stackai,Salesforce,https://docs.stackai.com/interactive-tutorials/salesforce.md,interactive-tutorials/salesforce.md,StackAI Docs,Build a Salesforce agent in Stack AI,markdown,1
+stackai,Salesforce,https://docs.stackai.com/workflow-builder/apps/salesforce.md,workflow-builder/apps/salesforce.md,StackAI Docs,"Integrate Stack AI with Salesforce for smarter sales workflows. Automate tasks, capture leads, and enhance CRM functionality with AI-powered insights.",markdown,1
+stackai,Security,https://docs.stackai.com/export-options/security.md,export-options/security.md,StackAI Docs,,markdown,1
+stackai,Security & Privacy,https://docs.stackai.com/security-and-privacy.md,security-and-privacy.md,StackAI Docs,,markdown,1
+stackai,SerpAPI,https://docs.stackai.com/workflow-builder/apps/serpapi.md,workflow-builder/apps/serpapi.md,StackAI Docs,"SerpAPI node enables real-time web search, news, and job search capabilities within StackAI workflows, providing structured and actionable search results.",markdown,1
+stackai,ServiceNow,https://docs.stackai.com/workflow-builder/apps/servicenow.md,workflow-builder/apps/servicenow.md,StackAI Docs,"Discover how to automate ServiceNow tasks in StackAI. Learn about the most common ServiceNow actions, their required inputs, configurations, and outputs with clear examples.",markdown,1
+stackai,Setting up your Google's OAuth2 Credentials,https://docs.stackai.com/technical-considerations/setting-up-your-googles-oauth2-credentials.md,technical-considerations/setting-up-your-googles-oauth2-credentials.md,StackAI Docs,This document instructs how to get your own OAuth2 credentials to use in Google Connections with user-provided credentials.,markdown,1
+stackai,Share Workflow,https://docs.stackai.com/bonus-features/share-workflow.md,bonus-features/share-workflow.md,StackAI Docs,,markdown,1
+stackai,SharePoint,https://docs.stackai.com/workflow-builder/apps/sharepoint.md,workflow-builder/apps/sharepoint.md,StackAI Docs,"Discover how to search and retrieve files from SharePoint using StackAI, including required inputs, configurations, and output details.",markdown,1
+stackai,Shared Memory,https://docs.stackai.com/utils/shared-memory.md,utils/shared-memory.md,StackAI Docs,,markdown,1
+stackai,Sharing Projects and Backup,https://docs.stackai.com/export-options/sharing-projects-and-backup.md,export-options/sharing-projects-and-backup.md,StackAI Docs,,markdown,1
+stackai,Skip a Node,https://docs.stackai.com/bonus-features/skip-a-node.md,bonus-features/skip-a-node.md,StackAI Docs,,markdown,1
+stackai,Slack,https://docs.stackai.com/workflow-builder/apps/slack.md,workflow-builder/apps/slack.md,StackAI Docs,,markdown,1
+stackai,Slack (Custom App),https://docs.stackai.com/workflow-builder/apps/slack-custom-app.md,workflow-builder/apps/slack-custom-app.md,StackAI Docs,,markdown,1
+stackai,Slack App,https://docs.stackai.com/export-options/slack-app.md,export-options/slack-app.md,StackAI Docs,Integrate your chat agent as a chat app in Slack.,markdown,1
+stackai,Slackbot Guide,https://docs.stackai.com/interactive-tutorials/slackbot-guide.md,interactive-tutorials/slackbot-guide.md,StackAI Docs,Learn how to configure the Slack bot for StackAI,markdown,1
+stackai,Smartsheet,https://docs.stackai.com/workflow-builder/apps/smartsheet.md,workflow-builder/apps/smartsheet.md,StackAI Docs,,markdown,1
+stackai,Snowflake,https://docs.stackai.com/workflow-builder/apps/snowflake.md,workflow-builder/apps/snowflake.md,StackAI Docs,This guide walks you through how to create a new connection to a Snowflake account,markdown,1
+stackai,Specific Knowledge Base Features,https://docs.stackai.com/workflow-builder/knowledge-bases/specific-knowledge-base-features.md,workflow-builder/knowledge-bases/specific-knowledge-base-features.md,StackAI Docs,,markdown,1
+stackai,Stack AI Curriculum,https://docs.stackai.com/stack-ai-curriculum/stack-ai-curriculum.md,stack-ai-curriculum/stack-ai-curriculum.md,StackAI Docs,"Curriculum and learning paths for building, integrating, and operating StackAI workflows.",markdown,1
+stackai,Stack AI Documentation Map,https://docs.stackai.com/stack-ai-curriculum/stack-ai-documentation-map.md,stack-ai-curriculum/stack-ai-documentation-map.md,StackAI Docs,Use this page to navigate the Stack AI documentation and find the right guide fast.,markdown,1
+stackai,StackAI,https://docs.stackai.com/workflow-builder/apps/stackai.md,workflow-builder/apps/stackai.md,StackAI Docs,,markdown,1
+stackai,StackAI Academy,https://docs.stackai.com/stackai-academy.md,stackai-academy.md,StackAI Docs,,markdown,1
+stackai,StackAI Project Node,https://docs.stackai.com/utils/stackai-project-node.md,utils/stackai-project-node.md,StackAI Docs,,markdown,1
+stackai,Sticky Note,https://docs.stackai.com/utils/sticky-note.md,utils/sticky-note.md,StackAI Docs,,markdown,1
+stackai,Stripe,https://docs.stackai.com/workflow-builder/apps/stripe.md,workflow-builder/apps/stripe.md,StackAI Docs,,markdown,1
+stackai,Synapse,https://docs.stackai.com/workflow-builder/apps/synapse.md,workflow-builder/apps/synapse.md,StackAI Docs,"Learn how to use the Synapse node in StackAI to query your Synapse database using natural language or SQL, with clear input and output examples.",markdown,1
+stackai,Template Node,https://docs.stackai.com/workflow-builder/outputs/template-node.md,workflow-builder/outputs/template-node.md,StackAI Docs,,markdown,1
+stackai,Templates,https://docs.stackai.com/workflow-builder/get-started-with-workflow-builder/templates.md,workflow-builder/get-started-with-workflow-builder/templates.md,StackAI Docs,,markdown,1
+stackai,Term Extraction,https://docs.stackai.com/interactive-tutorials/term-extraction.md,interactive-tutorials/term-extraction.md,StackAI Docs,Build a term extraction agent in Stack AI,markdown,1
+stackai,Tools,https://docs.stackai.com/workflow-builder/llms/llm-node/tools.md,workflow-builder/llms/llm-node/tools.md,StackAI Docs,,markdown,1
+stackai,Tools,https://docs.stackai.com/api-reference/tools.md,api-reference/tools.md,StackAI Docs,,markdown,1
+stackai,Trigger Node,https://docs.stackai.com/workflow-builder/inputs/trigger-node.md,workflow-builder/inputs/trigger-node.md,StackAI Docs,,markdown,1
+stackai,Triggers,https://docs.stackai.com/api-reference/triggers.md,api-reference/triggers.md,StackAI Docs,,markdown,1
+stackai,Troubleshooting a Workflow,https://docs.stackai.com/hacks/troubleshooting-a-workflow.md,hacks/troubleshooting-a-workflow.md,StackAI Docs,,markdown,1
+stackai,Typeform,https://docs.stackai.com/workflow-builder/apps/typeform.md,workflow-builder/apps/typeform.md,StackAI Docs,"Comprehensive guide to Typeform integration in StackAI, including available actions, input and output details, and practical usage examples.",markdown,1
+stackai,URL Input Node,https://docs.stackai.com/workflow-builder/inputs/url-input-node.md,workflow-builder/inputs/url-input-node.md,StackAI Docs,,markdown,1
+stackai,Using Multiple LLMs,https://docs.stackai.com/best-practices/using-multiple-llms.md,best-practices/using-multiple-llms.md,StackAI Docs,,markdown,1
+stackai,Utils,https://docs.stackai.com/utils.md,utils.md,StackAI Docs,,markdown,1
+stackai,Vlm,https://docs.stackai.com/workflow-builder/apps/vlm.md,workflow-builder/apps/vlm.md,StackAI Docs,,markdown,1
+stackai,Weaviate,https://docs.stackai.com/workflow-builder/apps/weaviate.md,workflow-builder/apps/weaviate.md,StackAI Docs,,markdown,1
+stackai,Web Research,https://docs.stackai.com/interactive-tutorials/web-research.md,interactive-tutorials/web-research.md,StackAI Docs,Build a web research agent in Stack AI,markdown,1
+stackai,Web Search,https://docs.stackai.com/workflow-builder/apps/web-search.md,workflow-builder/apps/web-search.md,StackAI Docs,,markdown,1
+stackai,What Makes StackAI Unique,https://docs.stackai.com/what-makes-stackai-unique.md,what-makes-stackai-unique.md,StackAI Docs,Quickly deploy agents for your enterprise company with a no-code platform anyone can use.,markdown,1
+stackai,WhatsApp / SMS with Twilio,https://docs.stackai.com/export-options/whatsapp-sms-with-twilio.md,export-options/whatsapp-sms-with-twilio.md,StackAI Docs,,markdown,1
+stackai,Whitelisting StackAI in Microsoft Entra,https://docs.stackai.com/technical-considerations/whitelisting-stackai-in-microsoft-entra.md,technical-considerations/whitelisting-stackai-in-microsoft-entra.md,StackAI Docs,,markdown,1
+stackai,Wolfram Alpha,https://docs.stackai.com/workflow-builder/apps/wolfram-alpha.md,workflow-builder/apps/wolfram-alpha.md,StackAI Docs,,markdown,1
+stackai,Workday,https://docs.stackai.com/workflow-builder/apps/workday.md,workflow-builder/apps/workday.md,StackAI Docs,,markdown,1
+stackai,Workspace and Folder Access,https://docs.stackai.com/governance-and-security/workspace-and-folder-access.md,governance-and-security/workspace-and-folder-access.md,StackAI Docs,Use private folders to control which teams can see specific projects.,markdown,1
+stackai,Yahoo Finance,https://docs.stackai.com/workflow-builder/apps/yahoo-finance.md,workflow-builder/apps/yahoo-finance.md,StackAI Docs,,markdown,1
+stackai,Youtube,https://docs.stackai.com/workflow-builder/apps/youtube.md,workflow-builder/apps/youtube.md,StackAI Docs,,markdown,1
+stackai,Zapier,https://docs.stackai.com/workflow-builder/apps/zapier.md,workflow-builder/apps/zapier.md,StackAI Docs,,markdown,1
+stackai,Zendesk,https://docs.stackai.com/workflow-builder/apps/zendesk.md,workflow-builder/apps/zendesk.md,StackAI Docs,,markdown,1

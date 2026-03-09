@@ -1,0 +1,763 @@
+platform_id,title,url,rel_path,section,description,content_type,is_markdown
+statsig,.NET Client SDK,https://docs.statsig.com/client/DotNet.md,client/DotNet.md,Docs,Statsig's SDK for Experimentation and Feature Flags in .NET applications.,markdown,1
+statsig,.NET Server SDK,https://docs.statsig.com/server-core/dotnet-core.md,server-core/dotnet-core.md,Docs,Statsig's Next-gen .NET Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,A/B Test Email Campaigns,https://docs.statsig.com/guides/email-campaign-test.md,guides/email-campaign-test.md,Docs,,markdown,1
+statsig,A/B Testing on Shopify,https://docs.statsig.com/guides/shopify-ab-test.md,guides/shopify-ab-test.md,Docs,,markdown,1
+statsig,A/B Testing with Webflow and Visual Editor,https://docs.statsig.com/guides/webflow-sidecar-ab-test.md,guides/webflow-sidecar-ab-test.md,Docs,,markdown,1
+statsig,AI Development with Statsig,https://docs.statsig.com/integrations/ai_development_with_statsig.md,integrations/ai_development_with_statsig.md,Docs,Use the Statsig MCP server across coding agents to trivially killswitch code and add critical logging.,markdown,1
+statsig,AI Evals Overview,https://docs.statsig.com/ai-evals/overview.md,ai-evals/overview.md,Docs,,markdown,1
+statsig,"AI Governance, Security & Privacy",https://docs.statsig.com/compliance/ai_governance_security_privacy.md,compliance/ai_governance_security_privacy.md,Docs,,markdown,1
+statsig,AI Model Client,https://docs.statsig.com/integrations/azureai/model-client.md,integrations/azureai/model-client.md,Docs,,markdown,1
+statsig,API Keys,https://docs.statsig.com/access-management/api-keys.md,access-management/api-keys.md,Docs,,markdown,1
+statsig,API Proxy,https://docs.statsig.com/infrastructure/api_proxy/introduction.md,infrastructure/api_proxy/introduction.md,Docs,,markdown,1
+statsig,Abandon Experiment,https://docs.statsig.com/api-reference/experiments/abandon-experiment.md,api-reference/experiments/abandon-experiment.md,Docs,,markdown,1
+statsig,Abandon an Experiment,https://docs.statsig.com/experiments/ending/abandon.md,experiments/ending/abandon.md,Docs,Learn how to abandon experiments and understand the implications for user assignment.,markdown,1
+statsig,Abort Pipeline Trigger,https://docs.statsig.com/api-reference/release-pipelines/abort-pipeline-trigger.md,api-reference/release-pipelines/abort-pipeline-trigger.md,Docs,,markdown,1
+statsig,About Warehouse Native,https://docs.statsig.com/statsig-warehouse-native/introduction.md,statsig-warehouse-native/introduction.md,Docs,,markdown,1
+statsig,Add Gate Overrides,https://docs.statsig.com/api-reference/gates/add-gate-overrides.md,api-reference/gates/add-gate-overrides.md,Docs,,markdown,1
+statsig,Add Gate Rule,https://docs.statsig.com/api-reference/gates/add-gate-rule.md,api-reference/gates/add-gate-rule.md,Docs,,markdown,1
+statsig,Add Holdout Overrides,https://docs.statsig.com/api-reference/holdouts/add-holdout-overrides.md,api-reference/holdouts/add-holdout-overrides.md,Docs,,markdown,1
+statsig,Add IDs to Segment,https://docs.statsig.com/api-reference/segments/add-ids-to-segment.md,api-reference/segments/add-ids-to-segment.md,Docs,This endpoint is rate limited to 900 requests /15m or 12 requests /10s.,markdown,1
+statsig,Add IDs to User Store ID List,https://docs.statsig.com/api-reference/segments/add-ids-to-user-store-id-list.md,api-reference/segments/add-ids-to-user-store-id-list.md,Docs,This endpoint has a limit of 1000 ids per request,markdown,1
+statsig,Add Layer Overrides,https://docs.statsig.com/api-reference/layers/add-layer-overrides.md,api-reference/layers/add-layer-overrides.md,Docs,,markdown,1
+statsig,Add Widgets to Dashboard,https://docs.statsig.com/api-reference/dashboards/add-widgets-to-dashboard.md,api-reference/dashboards/add-widgets-to-dashboard.md,Docs,,markdown,1
+statsig,Adding ID Lists,https://docs.statsig.com/segments/add-id-list.md,segments/add-id-list.md,Docs,Learn how to create and manage ID List segments for targeting specific users by their identifiers,markdown,1
+statsig,Adding Rules,https://docs.statsig.com/dynamic-config/add-rule.md,dynamic-config/add-rule.md,Docs,Learn how to add targeting rules to dynamic configs to control which users receive specific configurations,markdown,1
+statsig,Adding Rules,https://docs.statsig.com/segments/add-rule.md,segments/add-rule.md,Docs,Learn how to create rules that define which users are included in a segment,markdown,1
+statsig,Advanced Bandit Usage,https://docs.statsig.com/autotune/using-bandits.md,autotune/using-bandits.md,Docs,,markdown,1
+statsig,Advanced Configurations,https://docs.statsig.com/guides/sidecar-experiments/advanced-configurations.md,guides/sidecar-experiments/advanced-configurations.md,Docs,"Configure advanced Sidecar features including Single Page App support, targeting, segmentation, consent management, and cross-domain tracking.",markdown,1
+statsig,Advanced Configurations,https://docs.statsig.com/guides/sidecar-experiments/advanced-configurations-v3.md,guides/sidecar-experiments/advanced-configurations-v3.md,Docs,,markdown,1
+statsig,Agent Skills Repository,https://docs.statsig.com/integrations/agent-skills.md,integrations/agent-skills.md,Docs,Use the public Statsig agent-skills repository to extend your coding agents with reusable Statsig workflows and capabilities.,markdown,1
+statsig,Aggregated Impact,https://docs.statsig.com/statsig-warehouse-native/features/exploring-results/aggregated-impact.md,statsig-warehouse-native/features/exploring-results/aggregated-impact.md,Docs,,markdown,1
+statsig,Akamai Edge KV,https://docs.statsig.com/integrations/akamai.md,integrations/akamai.md,Docs,,markdown,1
+statsig,Alerts Overview,https://docs.statsig.com/product-analytics/alerts-overview.md,product-analytics/alerts-overview.md,Docs,,markdown,1
+statsig,Amplitude,https://docs.statsig.com/integrations/data-connectors/amplitude.md,integrations/data-connectors/amplitude.md,Docs,,markdown,1
+statsig,Android Client SDK,https://docs.statsig.com/client/Android.md,client/Android.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Java & Kotlin Android applications.,markdown,1
+statsig,Android On Device Evaluation SDK,https://docs.statsig.com/client/androidOnDeviceEvaluationSDK.md,client/androidOnDeviceEvaluationSDK.md,Docs,Statsig's Android SDK for on-device evaluation.,markdown,1
+statsig,Approve Pipeline Trigger Phase,https://docs.statsig.com/api-reference/release-pipelines/approve-pipeline-trigger-phase.md,api-reference/release-pipelines/approve-pipeline-trigger-phase.md,Docs,,markdown,1
+statsig,Archive Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/archive-dynamic-config.md,api-reference/dynamic-configs/archive-dynamic-config.md,Docs,,markdown,1
+statsig,Archive Experiment,https://docs.statsig.com/api-reference/experiments/archive-experiment.md,api-reference/experiments/archive-experiment.md,Docs,,markdown,1
+statsig,Archive Gate,https://docs.statsig.com/api-reference/gates/archive-gate.md,api-reference/gates/archive-gate.md,Docs,,markdown,1
+statsig,Archive Segment,https://docs.statsig.com/api-reference/segments/archive-segment.md,api-reference/segments/archive-segment.md,Docs,,markdown,1
+statsig,Archiving and Deleting Metrics,https://docs.statsig.com/metrics/archiving-metrics.md,metrics/archiving-metrics.md,Docs,Manage the end-of-life for metrics through archiving and deletion options in Statsig.,markdown,1
+statsig,Assignment Sources,https://docs.statsig.com/statsig-warehouse-native/configuration/assignment-sources.md,statsig-warehouse-native/configuration/assignment-sources.md,Docs,,markdown,1
+statsig,Athena Connection,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/athena.md,statsig-warehouse-native/connecting-your-warehouse/athena.md,Docs,,markdown,1
+statsig,Athena Ingestion,https://docs.statsig.com/data-warehouse-ingestion/athena.md,data-warehouse-ingestion/athena.md,Docs,,markdown,1
+statsig,Auto-generated Metrics,https://docs.statsig.com/metrics/raw-event-metrics.md,metrics/raw-event-metrics.md,Docs,Learn how Statsig automatically generates event_count metrics from your custom events for monitoring and experimentation.,markdown,1
+statsig,Autocapture Metrics,https://docs.statsig.com/webanalytics/autocapture.md,webanalytics/autocapture.md,Docs,"Comprehensive guide to Statsig's autocapture functionality for web analytics, including automatically captured events, metadata attributes, and configuration options.",markdown,1
+statsig,Autotune,https://docs.statsig.com/autotune/monitoring.md,autotune/monitoring.md,Docs,,markdown,1
+statsig,Autotune (Bandits),https://docs.statsig.com/autotune/overview.md,autotune/overview.md,Docs,Autotune and Autotune AI automatically weigh explore versus exploit to deliver the best-performing variant for a single metric.,markdown,1
+statsig,Autotune (Beta),https://docs.statsig.com/statsig-warehouse-native/features/autotune.md,statsig-warehouse-native/features/autotune.md,Docs,,markdown,1
+statsig,Azure AI,https://docs.statsig.com/integrations/azureai/introduction.md,integrations/azureai/introduction.md,Docs,,markdown,1
+statsig,Azure Metrics Upload (Deprecated),https://docs.statsig.com/integrations/data-imports/azure_upload.md,integrations/data-imports/azure_upload.md,Docs,,markdown,1
+statsig,Backfill Ingestion,https://docs.statsig.com/api-reference/ingestions/backfill-ingestion.md,api-reference/ingestions/backfill-ingestion.md,Docs,,markdown,1
+statsig,Bandit FAQs,https://docs.statsig.com/autotune/bandit-faq.md,autotune/bandit-faq.md,Docs,,markdown,1
+statsig,Bayesian Experiments,https://docs.statsig.com/experiments/advanced-setup/bayesian.md,experiments/advanced-setup/bayesian.md,Docs,"Learn about Bayesian A/B testing on Statsig, including informative priors and implementation details.",markdown,1
+statsig,Benjamini–Hochberg,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/benjamini-hochberg-procedure.md,statsig-warehouse-native/features/statistics/methodologies/benjamini-hochberg-procedure.md,Docs,,markdown,1
+statsig,Benjamini–Hochberg Procedure,https://docs.statsig.com/experiments/statistical-methods/methodologies/benjamini-hochberg-procedure.md,experiments/statistical-methods/methodologies/benjamini-hochberg-procedure.md,Docs,,markdown,1
+statsig,Best Practices and Avoiding False Positives,https://docs.statsig.com/experiments/interpreting-results/best-practices.md,experiments/interpreting-results/best-practices.md,Docs,,markdown,1
+statsig,Best Practices and Avoiding False Positives,https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/best-practices.md,statsig-warehouse-native/features/interpreting-results/best-practices.md,Docs,,markdown,1
+statsig,Best practices for Feature Gates,https://docs.statsig.com/feature-flags/best-practices.md,feature-flags/best-practices.md,Docs,"Learn implementation, development, collaboration, and governance best practices for using feature gates effectively with Statsig.",markdown,1
+statsig,BigQuery,https://docs.statsig.com/data-warehouse-ingestion/bigquery.md,data-warehouse-ingestion/bigquery.md,Docs,,markdown,1
+statsig,BigQuery (Deprecated),https://docs.statsig.com/integrations/data-imports/bigquery.md,integrations/data-imports/bigquery.md,Docs,,markdown,1
+statsig,Bigquery Connection,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/bigquery.md,statsig-warehouse-native/connecting-your-warehouse/bigquery.md,Docs,,markdown,1
+statsig,Bonferroni Correction,https://docs.statsig.com/experiments/statistical-methods/methodologies/bonferroni-correction.md,experiments/statistical-methods/methodologies/bonferroni-correction.md,Docs,,markdown,1
+statsig,Bonferroni Correction,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/bonferroni-correction.md,statsig-warehouse-native/features/statistics/methodologies/bonferroni-correction.md,Docs,,markdown,1
+statsig,Bootstrapping Your Experimentation Program,https://docs.statsig.com/statsig-warehouse-native/guides/experimentation-program.md,statsig-warehouse-native/guides/experimentation-program.md,Docs,,markdown,1
+statsig,Bot Traffic,https://docs.statsig.com/experiments/monitoring/bots.md,experiments/monitoring/bots.md,Docs,Learn how Statsig filters bot traffic from experiments to ensure clean analytics data.,markdown,1
+statsig,Braze,https://docs.statsig.com/integrations/data-connectors/braze.md,integrations/data-connectors/braze.md,Docs,,markdown,1
+statsig,Build Your First Feature,https://docs.statsig.com/guides/first-feature.md,guides/first-feature.md,Docs,"Walk through creating a feature gate, targeting audiences, and rolling out your first feature with the JavaScript SDK.",markdown,1
+statsig,Build your first Device-level Experiment,https://docs.statsig.com/guides/first-device-level-experiment.md,guides/first-device-level-experiment.md,Docs,,markdown,1
+statsig,Bulk Assign Target Apps,https://docs.statsig.com/api-reference/target-app/bulk-assign-target-apps.md,api-reference/target-app/bulk-assign-target-apps.md,Docs,,markdown,1
+statsig,C++ Client SDK,https://docs.statsig.com/client/CPP.md,client/CPP.md,Docs,Statsig's SDK for Experimentation and Feature Flags in C++ applications.,markdown,1
+statsig,C++ Server SDK,https://docs.statsig.com/server-core/cpp-core.md,server-core/cpp-core.md,Docs,Statsig's Next-gen Cpp Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,C++ Server SDK,https://docs.statsig.com/server/cpp.md,server/cpp.md,Docs,Statsig's Server SDK for C++ applications,markdown,1
+statsig,CDN Edge Testing for Cached Resources,https://docs.statsig.com/guides/cdn-edge-testing.md,guides/cdn-edge-testing.md,Docs,,markdown,1
+statsig,CLI Session Replay,https://docs.statsig.com/session-replay/cli-session-replay.md,session-replay/cli-session-replay.md,Docs,,markdown,1
+statsig,CUPED,https://docs.statsig.com/experiments/statistical-methods/methodologies/cuped.md,experiments/statistical-methods/methodologies/cuped.md,Docs,,markdown,1
+statsig,CUPED,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/cuped.md,statsig-warehouse-native/features/statistics/methodologies/cuped.md,Docs,,markdown,1
+statsig,CURE,https://docs.statsig.com/statsig-warehouse-native/cure/introduction.md,statsig-warehouse-native/cure/introduction.md,Docs,,markdown,1
+statsig,Cancel archive a metric,https://docs.statsig.com/api-reference/metrics/cancel-archive-a-metric.md,api-reference/metrics/cancel-archive-a-metric.md,Docs,,markdown,1
+statsig,Capturing Metrics,https://docs.statsig.com/integrations/azureai/capturing-metrics.md,integrations/azureai/capturing-metrics.md,Docs,,markdown,1
+statsig,Census,https://docs.statsig.com/integrations/data-connectors/census.md,integrations/data-connectors/census.md,Docs,,markdown,1
+statsig,Change Validation,https://docs.statsig.com/api-reference/change-validation/change-validation.md,api-reference/change-validation/change-validation.md,Docs,See how change validation works [here](https://docs.statsig.com/guides/setting-up-reviews#configuring-custom-approval-workflows-pre-commit-webhooks),markdown,1
+statsig,Check Feature Gate(s),https://docs.statsig.com/api-reference/feature-gates/check-feature-gates.md,api-reference/feature-gates/check-feature-gates.md,Docs,Evaluates one or more feature gates for a user and returns pass/fail results. Automatically logs exposure events for analytics.,markdown,1
+statsig,Clickhouse,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/clickhouse.md,statsig-warehouse-native/connecting-your-warehouse/clickhouse.md,Docs,,markdown,1
+statsig,Client Persistent Assignment,https://docs.statsig.com/client/concepts/persistent_assignment.md,client/concepts/persistent_assignment.md,Docs,,markdown,1
+statsig,Client vs Server SDKs,https://docs.statsig.com/sdks/client-vs-server.md,sdks/client-vs-server.md,Docs,,markdown,1
+statsig,Cloudflare KV,https://docs.statsig.com/integrations/cloudflare.md,integrations/cloudflare.md,Docs,,markdown,1
+statsig,Cloudflare Workers AI,https://docs.statsig.com/integrations/workersai.md,integrations/workersai.md,Docs,,markdown,1
+statsig,Cohort Metrics,https://docs.statsig.com/statsig-warehouse-native/features/cohort-metrics.md,statsig-warehouse-native/features/cohort-metrics.md,Docs,Cohort metrics are a way to analyze the impact of an experiment in a certain time frame per experimental unit,markdown,1
+statsig,Commands in Statsig CLI,https://docs.statsig.com/statsigcli/commands.md,statsigcli/commands.md,Docs,,markdown,1
+statsig,Commit Dynamic Config Review,https://docs.statsig.com/api-reference/dynamic-configs/commit-dynamic-config-review.md,api-reference/dynamic-configs/commit-dynamic-config-review.md,Docs,,markdown,1
+statsig,Commit Experiment Review,https://docs.statsig.com/api-reference/experiments/commit-experiment-review.md,api-reference/experiments/commit-experiment-review.md,Docs,,markdown,1
+statsig,Commit Gate Review,https://docs.statsig.com/api-reference/gates/commit-gate-review.md,api-reference/gates/commit-gate-review.md,Docs,,markdown,1
+statsig,Commit Segment Review,https://docs.statsig.com/api-reference/segments/commit-segment-review.md,api-reference/segments/commit-segment-review.md,Docs,,markdown,1
+statsig,Comparing Warehouse Native and Cloud,https://docs.statsig.com/statsig-warehouse-native/native-vs-cloud.md,statsig-warehouse-native/native-vs-cloud.md,Docs,Understand the different Statsig products,markdown,1
+statsig,Completions,https://docs.statsig.com/integrations/azureai/completions.md,integrations/azureai/completions.md,Docs,,markdown,1
+statsig,Composite Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/composite.md,statsig-warehouse-native/metrics/composite.md,Docs,Composite metrics add or subtract 2+ aggregated metric sources to produce a single result.,markdown,1
+statsig,Conclude Experiment & Defer Decision,https://docs.statsig.com/experiments/ending/conclude-experiment-defer-decision.md,experiments/ending/conclude-experiment-defer-decision.md,Docs,Learn how to conclude an experiment while deferring the decision to ship changes.,markdown,1
+statsig,Confidence Intervals,https://docs.statsig.com/experiments/statistical-methods/confidence-intervals.md,experiments/statistical-methods/confidence-intervals.md,Docs,,markdown,1
+statsig,Confidence Intervals,https://docs.statsig.com/statsig-warehouse-native/features/statistics/confidence-intervals.md,statsig-warehouse-native/features/statistics/confidence-intervals.md,Docs,,markdown,1
+statsig,Config History,https://docs.statsig.com/guides/config-history.md,guides/config-history.md,Docs,,markdown,1
+statsig,Configure Statsig Session Replay,https://docs.statsig.com/session-replay/configure.md,session-replay/configure.md,Docs,,markdown,1
+statsig,Configuring Experiments,https://docs.statsig.com/statsig-warehouse-native/features/configure-an-experiment.md,statsig-warehouse-native/features/configure-an-experiment.md,Docs,,markdown,1
+statsig,Configuring Experiments,https://docs.statsig.com/statsig-warehouse-native/features/experiment-options.md,statsig-warehouse-native/features/experiment-options.md,Docs,,markdown,1
+statsig,Connect Your Warehouse,https://docs.statsig.com/statsig-warehouse-native/guides/connect.md,statsig-warehouse-native/guides/connect.md,Docs,,markdown,1
+statsig,Console API Overview,https://docs.statsig.com/console-api/introduction.md,console-api/introduction.md,Docs,,markdown,1
+statsig,Contextual Bandit (Autotune AI),https://docs.statsig.com/autotune/contextual/introduction.md,autotune/contextual/introduction.md,Docs,,markdown,1
+statsig,Contextual Bandit Methodology,https://docs.statsig.com/autotune/contextual/methodology.md,autotune/contextual/methodology.md,Docs,,markdown,1
+statsig,Control Panel,https://docs.statsig.com/control-panel/overview.md,control-panel/overview.md,Docs,Track and manage features at scale,markdown,1
+statsig,Count Distinct Metrics,https://docs.statsig.com/metrics/count-distinct.md,metrics/count-distinct.md,Docs,Count distinct metrics compute an approximate unique values at unit-level using HyperLogLog++ sketches,markdown,1
+statsig,Count Distinct Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/count-distinct.md,statsig-warehouse-native/metrics/count-distinct.md,Docs,"Count distinct metrics calculate the unique values observed in a column of a metric source. This is calculated per-unit, so the total is the number of unique unit-value pairs.",markdown,1
+statsig,Count Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/count.md,statsig-warehouse-native/metrics/count.md,Docs,Count metrics count the records in a metric source.,markdown,1
+statsig,Create Assignment Source,https://docs.statsig.com/api-reference/experiments/create-assignment-source.md,api-reference/experiments/create-assignment-source.md,Docs,,markdown,1
+statsig,Create Autotune,https://docs.statsig.com/api-reference/autotunes/create-autotune.md,api-reference/autotunes/create-autotune.md,Docs,,markdown,1
+statsig,Create Dashboard,https://docs.statsig.com/api-reference/dashboards/create-dashboard.md,api-reference/dashboards/create-dashboard.md,Docs,,markdown,1
+statsig,Create Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/create-dynamic-config.md,api-reference/dynamic-configs/create-dynamic-config.md,Docs,,markdown,1
+statsig,Create Entity Property Source,https://docs.statsig.com/api-reference/experiments/create-entity-property-source.md,api-reference/experiments/create-entity-property-source.md,Docs,,markdown,1
+statsig,Create Experiment,https://docs.statsig.com/api-reference/experiments/create-experiment.md,api-reference/experiments/create-experiment.md,Docs,,markdown,1
+statsig,Create Gate,https://docs.statsig.com/api-reference/gates/create-gate.md,api-reference/gates/create-gate.md,Docs,,markdown,1
+statsig,Create Ingestion Databricks,https://docs.statsig.com/api-reference/ingestions/create-ingestion-databricks.md,api-reference/ingestions/create-ingestion-databricks.md,Docs,,markdown,1
+statsig,Create Ingestion Source,https://docs.statsig.com/api-reference/ingestions/create-ingestion-source.md,api-reference/ingestions/create-ingestion-source.md,Docs,,markdown,1
+statsig,Create Key,https://docs.statsig.com/api-reference/keys/create-key.md,api-reference/keys/create-key.md,Docs,,markdown,1
+statsig,Create Metric,https://docs.statsig.com/api-reference/metrics/create-metric.md,api-reference/metrics/create-metric.md,Docs,,markdown,1
+statsig,Create Metric Source,https://docs.statsig.com/api-reference/metrics/create-metric-source.md,api-reference/metrics/create-metric-source.md,Docs,,markdown,1
+statsig,Create Param Store,https://docs.statsig.com/api-reference/param-store/create-param-store.md,api-reference/param-store/create-param-store.md,Docs,,markdown,1
+statsig,Create Pipeline,https://docs.statsig.com/api-reference/release-pipelines/create-pipeline.md,api-reference/release-pipelines/create-pipeline.md,Docs,,markdown,1
+statsig,Create Prompt,https://docs.statsig.com/api-reference/prompts/create-prompt.md,api-reference/prompts/create-prompt.md,Docs,,markdown,1
+statsig,Create Prompt Version,https://docs.statsig.com/api-reference/prompts/create-prompt-version.md,api-reference/prompts/create-prompt-version.md,Docs,,markdown,1
+statsig,Create Qualifying Event,https://docs.statsig.com/api-reference/experiments-warehouse-native/create-qualifying-event.md,api-reference/experiments-warehouse-native/create-qualifying-event.md,Docs,,markdown,1
+statsig,Create Role,https://docs.statsig.com/api-reference/roles/create-role.md,api-reference/roles/create-role.md,Docs,,markdown,1
+statsig,Create Segment,https://docs.statsig.com/api-reference/segments/create-segment.md,api-reference/segments/create-segment.md,Docs,,markdown,1
+statsig,Create Tag,https://docs.statsig.com/api-reference/tags/create-tag.md,api-reference/tags/create-tag.md,Docs,,markdown,1
+statsig,Create Target App,https://docs.statsig.com/api-reference/target-app/create-target-app.md,api-reference/target-app/create-target-app.md,Docs,,markdown,1
+statsig,Create Team,https://docs.statsig.com/api-reference/users/create-team.md,api-reference/users/create-team.md,Docs,,markdown,1
+statsig,Create Unit ID Type,https://docs.statsig.com/api-reference/unit-id-types/create-unit-id-type.md,api-reference/unit-id-types/create-unit-id-type.md,Docs,,markdown,1
+statsig,Create a Feature Gate,https://docs.statsig.com/feature-flags/create.md,feature-flags/create.md,Docs,"This guide walks through how to create a Feature Gate in the Statsig console, how to add an evaluation rule to a Feature Gate, how to implement the Feature Gate in your code, examples of common Feature Gate setups, and a list of all Feature Gate targeting conditions available in Statsig.",markdown,1
+statsig,Create a Layer,https://docs.statsig.com/api-reference/layers/create-a-layer.md,api-reference/layers/create-a-layer.md,Docs,,markdown,1
+statsig,Create a Safeguard,https://docs.statsig.com/feature-flags/safeguards-create.md,feature-flags/safeguards-create.md,Docs,Learn how to create a Safeguard on one or multiple targeting rules within a Feature Gate to monitor regressions and automatically take action when alerts fire.,markdown,1
+statsig,Create a dynamic config,https://docs.statsig.com/dynamic-config/create-new.md,dynamic-config/create-new.md,Docs,Learn how to create a new dynamic config in the Statsig console,markdown,1
+statsig,Create a segment,https://docs.statsig.com/segments/create-new.md,segments/create-new.md,Docs,Learn how to create a new segment in the Statsig console for targeting specific user groups,markdown,1
+statsig,Create an Experiment,https://docs.statsig.com/experiments/create-new.md,experiments/create-new.md,Docs,"Learn how to create and configure a new experiment in the Statsig console, including scorecard setup and allocation targeting.",markdown,1
+statsig,Create and Manage Release Pipelines,https://docs.statsig.com/release-pipeline/create-and-manage.md,release-pipeline/create-and-manage.md,Docs,"Learn how to create, configure, and manage Release Pipelines for controlled feature rollouts",markdown,1
+statsig,Create holdout,https://docs.statsig.com/api-reference/holdouts/create-holdout.md,api-reference/holdouts/create-holdout.md,Docs,,markdown,1
+statsig,Create your first feature flag,https://docs.statsig.com/guides/check-gate.md,guides/check-gate.md,Docs,,markdown,1
+statsig,Creating Custom Metrics,https://docs.statsig.com/metrics/create.md,metrics/create.md,Docs,"Learn how to create custom metrics from raw events using Statsig's metric types including event count, user count, and more.",markdown,1
+statsig,Creating Metric Tags,https://docs.statsig.com/metrics/create-metric-tags.md,metrics/create-metric-tags.md,Docs,Organize and group your metrics using tags to create collections for easier experiment analysis and monitoring.,markdown,1
+statsig,Creating Your First Experiment,https://docs.statsig.com/guides/sidecar-experiments/creating-experiments.md,guides/sidecar-experiments/creating-experiments.md,Docs,Learn how to create and configure A/B experiments using Sidecar without writing code or deploying to production.,markdown,1
+statsig,"Custom ""Explore"" Queries",https://docs.statsig.com/experiments/interpreting-results/custom-queries.md,experiments/interpreting-results/custom-queries.md,Docs,,markdown,1
+statsig,"Custom ""Explore"" Queries",https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/custom-queries.md,statsig-warehouse-native/features/interpreting-results/custom-queries.md,Docs,,markdown,1
+statsig,Custom DAU Metric Creation Guide,https://docs.statsig.com/metrics/custom-dau.md,metrics/custom-dau.md,Docs,Step-by-step guide to create custom Daily Active User (DAU) metrics tailored to your specific business needs.,markdown,1
+statsig,Custom Metrics,https://docs.statsig.com/metrics/custom-metrics.md,metrics/custom-metrics.md,Docs,Create custom metrics by filtering and aggregating events based on event metadata and properties.,markdown,1
+statsig,Custom Proxy for Statsig API,https://docs.statsig.com/infrastructure/api_proxy/custom_proxy.md,infrastructure/api_proxy/custom_proxy.md,Docs,,markdown,1
+statsig,Dart Client SDK,https://docs.statsig.com/client/Dart.md,client/Dart.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Dart & Flutter applications.,markdown,1
+statsig,Dashboards,https://docs.statsig.com/product-analytics/dashboards.md,product-analytics/dashboards.md,Docs,"The most effective way to consume, share, and save the insights that matter most for your product",markdown,1
+statsig,Data & Semantic Layer,https://docs.statsig.com/statsig-warehouse-native/configuration/data-and-semantic-layer.md,statsig-warehouse-native/configuration/data-and-semantic-layer.md,Docs,,markdown,1
+statsig,Data Best Practices,https://docs.statsig.com/statsig-warehouse-native/guides/best-practices.md,statsig-warehouse-native/guides/best-practices.md,Docs,Best Practices for using Statsig in your warehouse,markdown,1
+statsig,Data Mapping,https://docs.statsig.com/data-warehouse-ingestion/data_mapping.md,data-warehouse-ingestion/data_mapping.md,Docs,,markdown,1
+statsig,Data Privacy for Mobile,https://docs.statsig.com/compliance/data_privacy_for_mobile.md,compliance/data_privacy_for_mobile.md,Docs,,markdown,1
+statsig,Data Warehouse Exports,https://docs.statsig.com/integrations/data-exports/data_warehouse_exports.md,integrations/data-exports/data_warehouse_exports.md,Docs,,markdown,1
+statsig,Data Warehouse Ingestion,https://docs.statsig.com/data-warehouse-ingestion/introduction.md,data-warehouse-ingestion/introduction.md,Docs,,markdown,1
+statsig,Databricks,https://docs.statsig.com/data-warehouse-ingestion/databricks.md,data-warehouse-ingestion/databricks.md,Docs,,markdown,1
+statsig,Databricks Connection,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/databricks.md,statsig-warehouse-native/connecting-your-warehouse/databricks.md,Docs,,markdown,1
+statsig,Datadog,https://docs.statsig.com/integrations/datadog.md,integrations/datadog.md,Docs,,markdown,1
+statsig,Datadog Triggers,https://docs.statsig.com/integrations/triggers/datadog.md,integrations/triggers/datadog.md,Docs,,markdown,1
+statsig,Deactivate Key,https://docs.statsig.com/api-reference/keys/deactivate-key.md,api-reference/keys/deactivate-key.md,Docs,,markdown,1
+statsig,Debug Statsig Session Replay,https://docs.statsig.com/session-replay/debug.md,session-replay/debug.md,Docs,,markdown,1
+statsig,Decision Framework,https://docs.statsig.com/experiments/templates/decision-framework.md,experiments/templates/decision-framework.md,Docs,,markdown,1
+statsig,Delete Assignment Source,https://docs.statsig.com/api-reference/experiments/delete-assignment-source.md,api-reference/experiments/delete-assignment-source.md,Docs,,markdown,1
+statsig,Delete Autotune,https://docs.statsig.com/api-reference/autotunes/delete-autotune.md,api-reference/autotunes/delete-autotune.md,Docs,,markdown,1
+statsig,Delete Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/delete-dynamic-config.md,api-reference/dynamic-configs/delete-dynamic-config.md,Docs,,markdown,1
+statsig,Delete Dynamic Config Rule,https://docs.statsig.com/api-reference/dynamic-configs/delete-dynamic-config-rule.md,api-reference/dynamic-configs/delete-dynamic-config-rule.md,Docs,,markdown,1
+statsig,Delete Entity Property Source,https://docs.statsig.com/api-reference/experiments/delete-entity-property-source.md,api-reference/experiments/delete-entity-property-source.md,Docs,,markdown,1
+statsig,Delete Experiment Overrides,https://docs.statsig.com/api-reference/experiments/delete-experiment-overrides.md,api-reference/experiments/delete-experiment-overrides.md,Docs,,markdown,1
+statsig,Delete Gate Overrides,https://docs.statsig.com/api-reference/gates/delete-gate-overrides.md,api-reference/gates/delete-gate-overrides.md,Docs,,markdown,1
+statsig,Delete Gate Rule,https://docs.statsig.com/api-reference/gates/delete-gate-rule.md,api-reference/gates/delete-gate-rule.md,Docs,,markdown,1
+statsig,Delete Gates,https://docs.statsig.com/api-reference/gates/delete-gates.md,api-reference/gates/delete-gates.md,Docs,,markdown,1
+statsig,Delete Ingestion Source,https://docs.statsig.com/api-reference/ingestions/delete-ingestion-source.md,api-reference/ingestions/delete-ingestion-source.md,Docs,,markdown,1
+statsig,Delete Key,https://docs.statsig.com/api-reference/keys/delete-key.md,api-reference/keys/delete-key.md,Docs,,markdown,1
+statsig,Delete Layer Overrides,https://docs.statsig.com/api-reference/layers/delete-layer-overrides.md,api-reference/layers/delete-layer-overrides.md,Docs,,markdown,1
+statsig,Delete Metric Source,https://docs.statsig.com/api-reference/metrics/delete-metric-source.md,api-reference/metrics/delete-metric-source.md,Docs,,markdown,1
+statsig,Delete Param Store,https://docs.statsig.com/api-reference/param-store/delete-param-store.md,api-reference/param-store/delete-param-store.md,Docs,,markdown,1
+statsig,Delete Pipeline,https://docs.statsig.com/api-reference/release-pipelines/delete-pipeline.md,api-reference/release-pipelines/delete-pipeline.md,Docs,,markdown,1
+statsig,Delete Qualifying Event,https://docs.statsig.com/api-reference/experiments-warehouse-native/delete-qualifying-event.md,api-reference/experiments-warehouse-native/delete-qualifying-event.md,Docs,,markdown,1
+statsig,Delete Role,https://docs.statsig.com/api-reference/roles/delete-role.md,api-reference/roles/delete-role.md,Docs,,markdown,1
+statsig,Delete Segment,https://docs.statsig.com/api-reference/segments/delete-segment.md,api-reference/segments/delete-segment.md,Docs,,markdown,1
+statsig,Delete Tag,https://docs.statsig.com/api-reference/tags/delete-tag.md,api-reference/tags/delete-tag.md,Docs,,markdown,1
+statsig,Delete Target App,https://docs.statsig.com/api-reference/target-app/delete-target-app.md,api-reference/target-app/delete-target-app.md,Docs,,markdown,1
+statsig,Delete Team,https://docs.statsig.com/api-reference/users/delete-team.md,api-reference/users/delete-team.md,Docs,,markdown,1
+statsig,Delete Unit ID Type,https://docs.statsig.com/api-reference/unit-id-types/delete-unit-id-type.md,api-reference/unit-id-types/delete-unit-id-type.md,Docs,,markdown,1
+statsig,Delete a layer,https://docs.statsig.com/api-reference/layers/delete-a-layer.md,api-reference/layers/delete-a-layer.md,Docs,,markdown,1
+statsig,Delete a metric,https://docs.statsig.com/api-reference/metrics/delete-a-metric.md,api-reference/metrics/delete-a-metric.md,Docs,,markdown,1
+statsig,Delete holdout by id,https://docs.statsig.com/api-reference/holdouts/delete-holdout-by-id.md,api-reference/holdouts/delete-holdout-by-id.md,Docs,,markdown,1
+statsig,Delete scimgroups,https://docs.statsig.com/api-reference/scim-groups/delete-scimgroups.md,api-reference/scim-groups/delete-scimgroups.md,Docs,,markdown,1
+statsig,Deleted Experiment,https://docs.statsig.com/api-reference/experiments/deleted-experiment.md,api-reference/experiments/deleted-experiment.md,Docs,,markdown,1
+statsig,Delta Method,https://docs.statsig.com/experiments/statistical-methods/methodologies/delta-method.md,experiments/statistical-methods/methodologies/delta-method.md,Docs,,markdown,1
+statsig,Delta Method,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/delta-method.md,statsig-warehouse-native/features/statistics/methodologies/delta-method.md,Docs,,markdown,1
+statsig,Deprecating Event_dau Metric,https://docs.statsig.com/metrics/deprecate-event-dau.md,metrics/deprecate-event-dau.md,Docs,Important changes to auto-generated event_dau metrics and how to maintain DAU tracking for your events.,markdown,1
+statsig,Deprecation Notices,https://docs.statsig.com/server/deprecation-notices.md,server/deprecation-notices.md,Docs,,markdown,1
+statsig,Differential Impact Detection,https://docs.statsig.com/experiments/exploring-results/differential-impact-detection.md,experiments/exploring-results/differential-impact-detection.md,Docs,Learn how Statsig automatically flags experiments with extreme differential impacts on sub-populations.,markdown,1
+statsig,Differential Impact Detection,https://docs.statsig.com/statsig-warehouse-native/features/differential-impact.md,statsig-warehouse-native/features/differential-impact.md,Docs,Learn how Statsig automatically flags experiments with extreme differential impacts on sub-populations.,markdown,1
+statsig,Dimension Analysis,https://docs.statsig.com/statsig-warehouse-native/configuration/dimensional-analysis.md,statsig-warehouse-native/configuration/dimensional-analysis.md,Docs,"A powerful way to understand who or what is causing a metric movement, dimension analysis lets you break down an experiment result by unit or action.",markdown,1
+statsig,Disable Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/disable-dynamic-config.md,api-reference/dynamic-configs/disable-dynamic-config.md,Docs,,markdown,1
+statsig,Disable Experiment Groups,https://docs.statsig.com/api-reference/experiments/disable-experiment-groups.md,api-reference/experiments/disable-experiment-groups.md,Docs,,markdown,1
+statsig,Disable Gate,https://docs.statsig.com/api-reference/gates/disable-gate.md,api-reference/gates/disable-gate.md,Docs,,markdown,1
+statsig,Disable a Group,https://docs.statsig.com/experiments/implementation/disable-group.md,experiments/implementation/disable-group.md,Docs,Learn how to disable poorly performing experiment groups while keeping other test groups running.,markdown,1
+statsig,Discussions in Statsig,https://docs.statsig.com/access-management/discussions.md,access-management/discussions.md,Docs,,markdown,1
+statsig,Distribution,https://docs.statsig.com/product-analytics/distribution.md,product-analytics/distribution.md,Docs,Visualize the range of user experiences across your product,markdown,1
+statsig,Dynamic Config,https://docs.statsig.com/dynamic-config/overview.md,dynamic-config/overview.md,Docs,Dynamic configs replace hard-coded values in your application with JSON defined on the server.,markdown,1
+statsig,Early Diagnostics,https://docs.statsig.com/statsig-warehouse-native/features/freshness.md,statsig-warehouse-native/features/freshness.md,Docs,Data Freshness,markdown,1
+statsig,"Egress, Privacy, & Storage",https://docs.statsig.com/statsig-warehouse-native/analysis-tools/data-privacy.md,statsig-warehouse-native/analysis-tools/data-privacy.md,Docs,Understand how Statsig uses your warehouse,markdown,1
+statsig,Elixir Server SDK,https://docs.statsig.com/server-core/elixir-core.md,server-core/elixir-core.md,Docs,Statsig's Next-gen Elixir Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,Email AB Testing with Customer.io,https://docs.statsig.com/guides/customer-io-email-abtest.md,guides/customer-io-email-abtest.md,Docs,,markdown,1
+statsig,Email AB Testing with SendGrid,https://docs.statsig.com/guides/sendgrid-email-abtest.md,guides/sendgrid-email-abtest.md,Docs,,markdown,1
+statsig,Enable Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/enable-dynamic-config.md,api-reference/dynamic-configs/enable-dynamic-config.md,Docs,,markdown,1
+statsig,Enable Experiment Groups,https://docs.statsig.com/api-reference/experiments/enable-experiment-groups.md,api-reference/experiments/enable-experiment-groups.md,Docs,,markdown,1
+statsig,Enable Gate,https://docs.statsig.com/api-reference/gates/enable-gate.md,api-reference/gates/enable-gate.md,Docs,,markdown,1
+statsig,Ending an Experiment,https://docs.statsig.com/experiments/ending/ending-experiment.md,experiments/ending/ending-experiment.md,Docs,Learn how to properly end experiments and make informed decisions based on your results.,markdown,1
+statsig,Entity Properties,https://docs.statsig.com/statsig-warehouse-native/configuration/entity-properties.md,statsig-warehouse-native/configuration/entity-properties.md,Docs,"Entity Properties are categorical details about an entity (e.g. a user) in an experiment, which you can use across all experiments to filter or group experiment results in the Explore section. Create these at Data -> Entity Properties.",markdown,1
+statsig,Environment-based Evaluation,https://docs.statsig.com/guides/using-environments.md,guides/using-environments.md,Docs,,markdown,1
+statsig,Event Filtering,https://docs.statsig.com/integrations/event_filtering.md,integrations/event_filtering.md,Docs,,markdown,1
+statsig,Event Property,https://docs.statsig.com/metrics/metric-dimensions.md,metrics/metric-dimensions.md,Docs,Break down metrics into dimensions for detailed analysis using event properties and metadata fields.,markdown,1
+statsig,Event Webhook,https://docs.statsig.com/integrations/event_webhook.md,integrations/event_webhook.md,Docs,,markdown,1
+statsig,Events Mode on Logs Explorer,https://docs.statsig.com/infra-analytics/events-mode-logs-explorer.md,infra-analytics/events-mode-logs-explorer.md,Docs,,markdown,1
+statsig,Experiment Overrides,https://docs.statsig.com/experiments/setup/overrides.md,experiments/setup/overrides.md,Docs,Learn how to override group allocation for experiments during development and testing.,markdown,1
+statsig,Experiment Policy,https://docs.statsig.com/access-management/org-admin/experiment_policy.md,access-management/org-admin/experiment_policy.md,Docs,,markdown,1
+statsig,Experiment Quality Score,https://docs.statsig.com/experiments/setup/quality-score.md,experiments/setup/quality-score.md,Docs,"Learn how to assess and improve the quality and trustworthiness of your experiments with Statsig's quality scoring system.""",markdown,1
+statsig,Experiment Quality Score,https://docs.statsig.com/statsig-warehouse-native/features/quality-score.md,statsig-warehouse-native/features/quality-score.md,Docs,Learn how to assess and improve the quality and trustworthiness of your experiments with Statsig's quality scoring system.,markdown,1
+statsig,Experiment Result Exports,https://docs.statsig.com/integrations/data-exports/experiment_result_exports.md,integrations/data-exports/experiment_result_exports.md,Docs,,markdown,1
+statsig,Experiment on custom Unit ID types,https://docs.statsig.com/guides/experiment-on-custom-id-types.md,guides/experiment-on-custom-id-types.md,Docs,,markdown,1
+statsig,Experiments Overview,https://docs.statsig.com/experiments/overview.md,experiments/overview.md,Docs,"Learn the fundamentals of experimentation with Statsig, including key concepts, randomization units, and statistical significance.",markdown,1
+statsig,Expo Client SDK,https://docs.statsig.com/client/Expo.md,client/Expo.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Expo applications.,markdown,1
+statsig,Export Pulse Results to Your Warehouse in Warehouse Native,https://docs.statsig.com/experiments/interpreting-results/access-whn.md,experiments/interpreting-results/access-whn.md,Docs,,markdown,1
+statsig,Exporting Pulse Reports,https://docs.statsig.com/experiments/interpreting-results/export.md,experiments/interpreting-results/export.md,Docs,,markdown,1
+statsig,FAQ,https://docs.statsig.com/faq.md,faq.md,Docs,"Answers to common questions about Statsig's SDKs, experiments, gates, billing, and platform usage.",markdown,1
+statsig,FAQ & Troubleshooting,https://docs.statsig.com/data-warehouse-ingestion/faq.md,data-warehouse-ingestion/faq.md,Docs,,markdown,1
+statsig,Fabric,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/fabric.md,statsig-warehouse-native/connecting-your-warehouse/fabric.md,Docs,,markdown,1
+statsig,Fastly,https://docs.statsig.com/integrations/fastly.md,integrations/fastly.md,Docs,,markdown,1
+statsig,Feature Flags,https://docs.statsig.com/feature-flags/overview.md,feature-flags/overview.md,Docs,"Feature Gates, commonly known as feature flags, allow you to toggle the behavior of your product in real time without deploying new code.",markdown,1
+statsig,Feature Gate overrides,https://docs.statsig.com/feature-flags/overrides.md,feature-flags/overrides.md,Docs,"During development, it can be useful to explicitly state which users should pass or fail a given feature gate. This is where overrides come in.",markdown,1
+statsig,Feature Gate rule criteria,https://docs.statsig.com/feature-flags/conditions.md,feature-flags/conditions.md,Docs,Statsig feature gates contain a list of rules that are evaluated in order from top to bottom. This page describes in more detail how these rules are evaluated and lists all currently supported conditions.,markdown,1
+statsig,Feature Gates Policy,https://docs.statsig.com/access-management/org-admin/gates_policy.md,access-management/org-admin/gates_policy.md,Docs,,markdown,1
+statsig,Fieller Intervals,https://docs.statsig.com/experiments/statistical-methods/methodologies/fieller-intervals.md,experiments/statistical-methods/methodologies/fieller-intervals.md,Docs,,markdown,1
+statsig,Fieller Intervals,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/fieller-intervals.md,statsig-warehouse-native/features/statistics/methodologies/fieller-intervals.md,Docs,,markdown,1
+statsig,Filter Exposures,https://docs.statsig.com/statsig-warehouse-native/features/filtering-exposures.md,statsig-warehouse-native/features/filtering-exposures.md,Docs,,markdown,1
+statsig,Finish Experiment Early,https://docs.statsig.com/api-reference/autotunes/finish-experiment-early.md,api-reference/autotunes/finish-experiment-early.md,Docs,,markdown,1
+statsig,Finish Experiment Early,https://docs.statsig.com/api-reference/experiments/finish-experiment-early.md,api-reference/experiments/finish-experiment-early.md,Docs,,markdown,1
+statsig,First or Latest Value Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/latest-value.md,statsig-warehouse-native/metrics/latest-value.md,Docs,"First (or Latest) Value metrics calculate the first/latest value of a metric source for each unit, and then average it over the experiment population.",markdown,1
+statsig,Fivetran,https://docs.statsig.com/integrations/data-connectors/fivetran.md,integrations/data-connectors/fivetran.md,Docs,,markdown,1
+statsig,Forward Proxy,https://docs.statsig.com/server/concepts/forward_proxy.md,server/concepts/forward_proxy.md,Docs,,markdown,1
+statsig,Forwarded Data,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/forwarded-data.md,statsig-warehouse-native/connecting-your-warehouse/forwarded-data.md,Docs,,markdown,1
+statsig,Frequentist Sequential Testing,https://docs.statsig.com/experiments/advanced-setup/sequential-testing.md,experiments/advanced-setup/sequential-testing.md,Docs,Learn how sequential testing addresses the peeking problem in A/B tests and enables early decision making with statistical rigor.,markdown,1
+statsig,Frequently Asked Questions on Using Pulse,https://docs.statsig.com/experiments/interpreting-results/faq.md,experiments/interpreting-results/faq.md,Docs,,markdown,1
+statsig,Full Reloads,https://docs.statsig.com/statsig-warehouse-native/features/full-reloads.md,statsig-warehouse-native/features/full-reloads.md,Docs,,markdown,1
+statsig,Fully Roll Out Pipeline Trigger,https://docs.statsig.com/api-reference/release-pipelines/fully-roll-out-pipeline-trigger.md,api-reference/release-pipelines/fully-roll-out-pipeline-trigger.md,Docs,,markdown,1
+statsig,Fully Update Autotune,https://docs.statsig.com/api-reference/autotunes/fully-update-autotune.md,api-reference/autotunes/fully-update-autotune.md,Docs,Update all properties of the experiment,markdown,1
+statsig,Fully Update Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/fully-update-dynamic-config.md,api-reference/dynamic-configs/fully-update-dynamic-config.md,Docs,,markdown,1
+statsig,Fully Update Experiment,https://docs.statsig.com/api-reference/experiments/fully-update-experiment.md,api-reference/experiments/fully-update-experiment.md,Docs,,markdown,1
+statsig,Fully Update Gates,https://docs.statsig.com/api-reference/gates/fully-update-gates.md,api-reference/gates/fully-update-gates.md,Docs,,markdown,1
+statsig,Funnel Charts,https://docs.statsig.com/product-analytics/funnels.md,product-analytics/funnels.md,Docs,Provide a granular understanding of what portion of users are completing each step of a journey you define,markdown,1
+statsig,Funnel Metrics,https://docs.statsig.com/metrics/create-user-funnels.md,metrics/create-user-funnels.md,Docs,Create custom funnel metrics to track user conversion rates through multi-step processes.,markdown,1
+statsig,Funnel++,https://docs.statsig.com/statsig-warehouse-native/metrics/funnel.md,statsig-warehouse-native/metrics/funnel.md,Docs,,markdown,1
+statsig,Geotesting Methodology,https://docs.statsig.com/statsig-warehouse-native/geotests/methodology.md,statsig-warehouse-native/geotests/methodology.md,Docs,,markdown,1
+statsig,Geotests,https://docs.statsig.com/statsig-warehouse-native/geotests/introduction.md,statsig-warehouse-native/geotests/introduction.md,Docs,,markdown,1
+statsig,Get Company Info,https://docs.statsig.com/api-reference/company/get-company-info.md,api-reference/company/get-company-info.md,Docs,,markdown,1
+statsig,Get Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/get-dynamic-config.md,api-reference/dynamic-configs/get-dynamic-config.md,Docs,,markdown,1
+statsig,Get Dynamic Config Rules,https://docs.statsig.com/api-reference/dynamic-configs/get-dynamic-config-rules.md,api-reference/dynamic-configs/get-dynamic-config-rules.md,Docs,,markdown,1
+statsig,Get Dynamic Config or Experiment,https://docs.statsig.com/api-reference/dynamic-configs/get-dynamic-config-or-experiment.md,api-reference/dynamic-configs/get-dynamic-config-or-experiment.md,Docs,Fetches configuration values for a dynamic config or experiment. Works for both types - the system automatically determines which type based on the name. Automatically logs exposure events.,markdown,1
+statsig,Get Entity Property Source,https://docs.statsig.com/api-reference/experiments/get-entity-property-source.md,api-reference/experiments/get-entity-property-source.md,Docs,,markdown,1
+statsig,Get Environments,https://docs.statsig.com/api-reference/environments/get-environments.md,api-reference/environments/get-environments.md,Docs,,markdown,1
+statsig,Get Experiment,https://docs.statsig.com/api-reference/experiments/get-experiment.md,api-reference/experiments/get-experiment.md,Docs,,markdown,1
+statsig,Get Experiment Context,https://docs.statsig.com/api-reference/experiments/get-experiment-context.md,api-reference/experiments/get-experiment-context.md,Docs,,markdown,1
+statsig,Get Experiment Overrides,https://docs.statsig.com/api-reference/experiments/get-experiment-overrides.md,api-reference/experiments/get-experiment-overrides.md,Docs,,markdown,1
+statsig,Get Gate Override,https://docs.statsig.com/api-reference/gates/get-gate-override.md,api-reference/gates/get-gate-override.md,Docs,,markdown,1
+statsig,Get ID List Metadata,https://docs.statsig.com/api-reference/segments/get-id-list-metadata.md,api-reference/segments/get-id-list-metadata.md,Docs,This endpoint gets the metadata of the ID List.,markdown,1
+statsig,Get IDs in a Segment,https://docs.statsig.com/api-reference/segments/get-ids-in-a-segment.md,api-reference/segments/get-ids-in-a-segment.md,Docs,This endpoint is rate limited to 100,markdown,1
+statsig,Get Ingestion Event Count,https://docs.statsig.com/api-reference/ingestions/get-ingestion-event-count.md,api-reference/ingestions/get-ingestion-event-count.md,Docs,,markdown,1
+statsig,Get Ingestion Event Delta Ledger,https://docs.statsig.com/api-reference/ingestions/get-ingestion-event-delta-ledger.md,api-reference/ingestions/get-ingestion-event-delta-ledger.md,Docs,,markdown,1
+statsig,Get Layer Overrides,https://docs.statsig.com/api-reference/layers/get-layer-overrides.md,api-reference/layers/get-layer-overrides.md,Docs,,markdown,1
+statsig,Get Layer Parameters,https://docs.statsig.com/api-reference/layers/get-layer-parameters.md,api-reference/layers/get-layer-parameters.md,Docs,Fetches parameter values from a layer. Layers allow you to share parameters across multiple experiments. Automatically logs exposure events.,markdown,1
+statsig,Get Layers,https://docs.statsig.com/api-reference/layers/get-layers.md,api-reference/layers/get-layers.md,Docs,,markdown,1
+statsig,Get Param Store,https://docs.statsig.com/api-reference/param-store/get-param-store.md,api-reference/param-store/get-param-store.md,Docs,,markdown,1
+statsig,Get Pipeline,https://docs.statsig.com/api-reference/release-pipelines/get-pipeline.md,api-reference/release-pipelines/get-pipeline.md,Docs,,markdown,1
+statsig,Get Pipeline Trigger,https://docs.statsig.com/api-reference/release-pipelines/get-pipeline-trigger.md,api-reference/release-pipelines/get-pipeline-trigger.md,Docs,,markdown,1
+statsig,Get Project Info,https://docs.statsig.com/api-reference/project/get-project-info.md,api-reference/project/get-project-info.md,Docs,,markdown,1
+statsig,Get Project Settings,https://docs.statsig.com/api-reference/settings/get-project-settings.md,api-reference/settings/get-project-settings.md,Docs,,markdown,1
+statsig,Get Prompt,https://docs.statsig.com/api-reference/prompts/get-prompt.md,api-reference/prompts/get-prompt.md,Docs,,markdown,1
+statsig,Get Pulse Load History Details (Warehouse Native),https://docs.statsig.com/api-reference/experiments/get-pulse-load-history-details-warehouse-native.md,api-reference/experiments/get-pulse-load-history-details-warehouse-native.md,Docs,,markdown,1
+statsig,Get Ranked List for Contextual Bandit,https://docs.statsig.com/api-reference/autotune/get-ranked-list-for-contextual-bandit.md,api-reference/autotune/get-ranked-list-for-contextual-bandit.md,Docs,Returns a ranked list of variants for a contextual multi-armed bandit (autotune) experiment. The ranking is based on predicted performance.,markdown,1
+statsig,Get Report in CSV format,https://docs.statsig.com/api-reference/usage/get-report-in-csv-format.md,api-reference/usage/get-report-in-csv-format.md,Docs,,markdown,1
+statsig,Get Reports,https://docs.statsig.com/api-reference/reports/get-reports.md,api-reference/reports/get-reports.md,Docs,,markdown,1
+statsig,Get Reviews Settings,https://docs.statsig.com/api-reference/settings/get-reviews-settings.md,api-reference/settings/get-reviews-settings.md,Docs,,markdown,1
+statsig,Get Role,https://docs.statsig.com/api-reference/roles/get-role.md,api-reference/roles/get-role.md,Docs,,markdown,1
+statsig,Get Roles Settings,https://docs.statsig.com/api-reference/settings/get-roles-settings.md,api-reference/settings/get-roles-settings.md,Docs,,markdown,1
+statsig,Get SQL for a metric,https://docs.statsig.com/api-reference/metrics/get-sql-for-a-metric.md,api-reference/metrics/get-sql-for-a-metric.md,Docs,,markdown,1
+statsig,Get Segment,https://docs.statsig.com/api-reference/segments/get-segment.md,api-reference/segments/get-segment.md,Docs,,markdown,1
+statsig,Get Specific Dynamic Config Rule,https://docs.statsig.com/api-reference/dynamic-configs/get-specific-dynamic-config-rule.md,api-reference/dynamic-configs/get-specific-dynamic-config-rule.md,Docs,,markdown,1
+statsig,Get Started With Autotune,https://docs.statsig.com/autotune/setup.md,autotune/setup.md,Docs,,markdown,1
+statsig,Get Started With CURE,https://docs.statsig.com/statsig-warehouse-native/cure/cure-setup.md,statsig-warehouse-native/cure/cure-setup.md,Docs,,markdown,1
+statsig,Get Started with Autotune AI,https://docs.statsig.com/autotune/contextual/getting-started.md,autotune/contextual/getting-started.md,Docs,,markdown,1
+statsig,Get Started with Geotests,https://docs.statsig.com/statsig-warehouse-native/geotests/geotests-setup.md,statsig-warehouse-native/geotests/geotests-setup.md,Docs,,markdown,1
+statsig,Get Team,https://docs.statsig.com/api-reference/users/get-team.md,api-reference/users/get-team.md,Docs,,markdown,1
+statsig,Get Teams Settings,https://docs.statsig.com/api-reference/settings/get-teams-settings.md,api-reference/settings/get-teams-settings.md,Docs,,markdown,1
+statsig,Get Unit ID Type,https://docs.statsig.com/api-reference/unit-id-types/get-unit-id-type.md,api-reference/unit-id-types/get-unit-id-type.md,Docs,,markdown,1
+statsig,Get holdout by id,https://docs.statsig.com/api-reference/holdouts/get-holdout-by-id.md,api-reference/holdouts/get-holdout-by-id.md,Docs,,markdown,1
+statsig,Get metrics using event name,https://docs.statsig.com/api-reference/events/get-metrics-using-event-name.md,api-reference/events/get-metrics-using-event-name.md,Docs,,markdown,1
+statsig,Get one layer,https://docs.statsig.com/api-reference/layers/get-one-layer.md,api-reference/layers/get-one-layer.md,Docs,,markdown,1
+statsig,Get scimgroups,https://docs.statsig.com/api-reference/scim-groups/get-scimgroups.md,api-reference/scim-groups/get-scimgroups.md,Docs,,markdown,1
+statsig,Get scimgroups 1,https://docs.statsig.com/api-reference/scim-groups/get-scimgroups-1.md,api-reference/scim-groups/get-scimgroups-1.md,Docs,,markdown,1
+statsig,Get scimresourcetypes,https://docs.statsig.com/api-reference/scim-settings/get-scimresourcetypes.md,api-reference/scim-settings/get-scimresourcetypes.md,Docs,,markdown,1
+statsig,Get scimschemas,https://docs.statsig.com/api-reference/scim-settings/get-scimschemas.md,api-reference/scim-settings/get-scimschemas.md,Docs,,markdown,1
+statsig,Get scimserviceproviderconfig,https://docs.statsig.com/api-reference/scim-settings/get-scimserviceproviderconfig.md,api-reference/scim-settings/get-scimserviceproviderconfig.md,Docs,,markdown,1
+statsig,Get scimusers,https://docs.statsig.com/api-reference/scim-users/get-scimusers.md,api-reference/scim-users/get-scimusers.md,Docs,,markdown,1
+statsig,Get scimusers 1,https://docs.statsig.com/api-reference/scim-users/get-scimusers-1.md,api-reference/scim-users/get-scimusers-1.md,Docs,,markdown,1
+statsig,Get specific events,https://docs.statsig.com/api-reference/events/get-specific-events.md,api-reference/events/get-specific-events.md,Docs,,markdown,1
+statsig,Get started with the Statsig SDK,https://docs.statsig.com/sdks/quickstart.md,sdks/quickstart.md,Docs,Get data flowing into Statsig with only a few lines of code.,markdown,1
+statsig,Get user by ID,https://docs.statsig.com/api-reference/users/get-user-by-id.md,api-reference/users/get-user-by-id.md,Docs,,markdown,1
+statsig,Get user by email,https://docs.statsig.com/api-reference/users/get-user-by-email.md,api-reference/users/get-user-by-email.md,Docs,,markdown,1
+statsig,Getting Started,https://docs.statsig.com/integrations/azureai/getting-started.md,integrations/azureai/getting-started.md,Docs,,markdown,1
+statsig,Getting Started with OTEL + Statsig,https://docs.statsig.com/infra-analytics/getting-started.md,infra-analytics/getting-started.md,Docs,"Setup and send OpenTelemetry telemetry to Statsig for Infra Analytics (Logs Explorer, Metrics Explorer, Alerts).",markdown,1
+statsig,Getting the Group,https://docs.statsig.com/experiments/implementation/getting-group.md,experiments/implementation/getting-group.md,Docs,Learn why using experiment parameters is better than checking group names in code.,markdown,1
+statsig,GitLab Code References,https://docs.statsig.com/integrations/gitlab_code_references.md,integrations/gitlab_code_references.md,Docs,,markdown,1
+statsig,Github AI Integration,https://docs.statsig.com/integrations/github-ai-integration.md,integrations/github-ai-integration.md,Docs,,markdown,1
+statsig,Github Code References,https://docs.statsig.com/integrations/github_code_references.md,integrations/github_code_references.md,Docs,,markdown,1
+statsig,Go Server Core SDK (Beta),https://docs.statsig.com/server-core/go-core.md,server-core/go-core.md,Docs,Statsig's next-gen Go Server SDK built on our [Server Core](/server-core) framework,markdown,1
+statsig,Google Analytics,https://docs.statsig.com/integrations/data-connectors/google-analytics.md,integrations/data-connectors/google-analytics.md,Docs,,markdown,1
+statsig,Google Tag Manager (GTM),https://docs.statsig.com/integrations/gtm.md,integrations/gtm.md,Docs,,markdown,1
+statsig,Guide to Contentful,https://docs.statsig.com/guides/contentful.md,guides/contentful.md,Docs,,markdown,1
+statsig,Guide to General CMS Integrations,https://docs.statsig.com/guides/cms-integrations.md,guides/cms-integrations.md,Docs,,markdown,1
+statsig,Guided Tutorial,https://docs.statsig.com/guides/first-dynamic-config.md,guides/first-dynamic-config.md,Docs,A step-by-step tutorial to create your first dynamic config for building a flexible homepage banner,markdown,1
+statsig,HTML Snippet,https://docs.statsig.com/client/html-snippet.md,client/html-snippet.md,Docs,Add Statsig to web pages with an HTML script tag,markdown,1
+statsig,HTTP API,https://docs.statsig.com/http-api/overview.md,http-api/overview.md,Docs,,markdown,1
+statsig,Heap,https://docs.statsig.com/integrations/data-connectors/heap.md,integrations/data-connectors/heap.md,Docs,,markdown,1
+statsig,Hightouch,https://docs.statsig.com/integrations/data-connectors/hightouch.md,integrations/data-connectors/hightouch.md,Docs,,markdown,1
+statsig,Holdouts,https://docs.statsig.com/experiments/holdouts-introduction.md,experiments/holdouts-introduction.md,Docs,,markdown,1
+statsig,How Evaluation Works,https://docs.statsig.com/sdks/how-evaluation-works.md,sdks/how-evaluation-works.md,Docs,,markdown,1
+statsig,How Metrics Work on Statsig,https://docs.statsig.com/metrics/how-metrics-work.md,metrics/how-metrics-work.md,Docs,Understand the fundamentals of how metrics are calculated and used in Statsig experiments and feature gates.,markdown,1
+statsig,"How to Read Experiment Results (Formerly ""Pulse"")",https://docs.statsig.com/experiments/interpreting-results/read-results.md,experiments/interpreting-results/read-results.md,Docs,,markdown,1
+statsig,How to Run a Playground Evaluation,https://docs.statsig.com/statsig-warehouse-native/guides/playground_eval.md,statsig-warehouse-native/guides/playground_eval.md,Docs,,markdown,1
+statsig,ID Resolution (ID Stitching),https://docs.statsig.com/statsig-warehouse-native/features/id-resolution.md,statsig-warehouse-native/features/id-resolution.md,Docs,Map cross-platform IDs in experiment analysis and analyze anonymous user experiments,markdown,1
+statsig,Identify Users,https://docs.statsig.com/sdks/identify-users.md,sdks/identify-users.md,Docs,,markdown,1
+statsig,Implement an Experiment,https://docs.statsig.com/experiments/implementation/implement.md,experiments/implementation/implement.md,Docs,"Learn how to deploy an experiment by pulling configurations, logging events, testing, and launching.",markdown,1
+statsig,Imports Overview (Deprecated),https://docs.statsig.com/integrations/data-imports/overview.md,integrations/data-imports/overview.md,Docs,,markdown,1
+statsig,Incremental Reloads,https://docs.statsig.com/statsig-warehouse-native/features/incremental-reloads.md,statsig-warehouse-native/features/incremental-reloads.md,Docs,,markdown,1
+statsig,Infra Analytics Overview,https://docs.statsig.com/infra-analytics/overview.md,infra-analytics/overview.md,Docs,Monitor and debug the health of your services directly inside Statsig,markdown,1
+statsig,Infrastructure Ops Overview,https://docs.statsig.com/infrastructure/introduction.md,infrastructure/introduction.md,Docs,"The foundation that enables reliable feature flagging, experimentation, and analytics at enterprise scale.",markdown,1
+statsig,Ingesting Cloudflare Logs and Metrics into Statsig,https://docs.statsig.com/server/concepts/cloudflare.md,server/concepts/cloudflare.md,Docs,,markdown,1
+statsig,Ingesting Metrics,https://docs.statsig.com/metrics/ingest.md,metrics/ingest.md,Docs,Import precomputed metrics from your data warehouse using Statsig's connector integrations.,markdown,1
+statsig,Ingesting Open Telemetry Data,https://docs.statsig.com/server/concepts/open_telemetry.md,server/concepts/open_telemetry.md,Docs,,markdown,1
+statsig,Initial Setup Guide of your Workspace,https://docs.statsig.com/access-management/guide.md,access-management/guide.md,Docs,,markdown,1
+statsig,Initializing SDKs,https://docs.statsig.com/client/concepts/initialize.md,client/concepts/initialize.md,Docs,,markdown,1
+statsig,Install Statsig Session Replay,https://docs.statsig.com/session-replay/install.md,session-replay/install.md,Docs,,markdown,1
+statsig,Integrating Sidecar with GTM for tracking,https://docs.statsig.com/guides/sidecar-experiments/integrating-gtm.md,guides/sidecar-experiments/integrating-gtm.md,Docs,Set up Google Tag Manager integration with Sidecar to automatically send GTM-tagged events to Statsig for experiment tracking.,markdown,1
+statsig,Integrating Statsig with Framer,https://docs.statsig.com/guides/framer-analytics.md,guides/framer-analytics.md,Docs,,markdown,1
+statsig,Integrations Overview,https://docs.statsig.com/integrations/introduction.md,integrations/introduction.md,Docs,,markdown,1
+statsig,Interaction Detection,https://docs.statsig.com/experiments/exploring-results/interaction-detection.md,experiments/exploring-results/interaction-detection.md,Docs,Learn how to detect interactions between overlapping experiments and understand their impact.,markdown,1
+statsig,Invite users,https://docs.statsig.com/api-reference/users/invite-users.md,api-reference/users/invite-users.md,Docs,"Invite a list of users with assigned roles and teams. To avoid spamming, invitation emails are not sent. Invitee will see invitation notification in-app after logging in.",markdown,1
+statsig,Java Server SDK,https://docs.statsig.com/server-core/java-core.md,server-core/java-core.md,Docs,Statsig's next-gen Java Server SDK built on our [Server Core](/server-core) framework,markdown,1
+statsig,JavaScript Client SDK (Web),https://docs.statsig.com/client/javascript-sdk.md,client/javascript-sdk.md,Docs,Statsig's JavaScript SDK for browser and React applications.,markdown,1
+statsig,JavaScript On-Device Evaluation Client SDK,https://docs.statsig.com/client/jsOnDeviceEvaluationSDK.md,client/jsOnDeviceEvaluationSDK.md,Docs,Statsig's JavaScript SDK for on-device evaluation with browser and Node.js applications.,markdown,1
+statsig,Jira,https://docs.statsig.com/integrations/jira.md,integrations/jira.md,Docs,,markdown,1
+statsig,Launch Gate,https://docs.statsig.com/api-reference/gates/launch-gate.md,api-reference/gates/launch-gate.md,Docs,,markdown,1
+statsig,LaunchDarkly Migration Guide,https://docs.statsig.com/guides/migrate-from-launchdarkly.md,guides/migrate-from-launchdarkly.md,Docs,,markdown,1
+statsig,Layers,https://docs.statsig.com/experiments/layers-overview.md,experiments/layers-overview.md,Docs,Group related experiments into mutually exclusive universes and share parameters without code churn.,markdown,1
+statsig,Legacy .NET Server SDK,https://docs.statsig.com/server/dotnet.md,server/dotnet.md,Docs,Statsig's Legacy Server SDK for .NET applications,markdown,1
+statsig,Legacy Erlang/Elixir Server SDK,https://docs.statsig.com/server/erlang.md,server/erlang.md,Docs,Statsig's Legacy Server SDK for Erlang and Elixir applications,markdown,1
+statsig,Legacy Go Server SDK,https://docs.statsig.com/server/go.md,server/go.md,Docs,Statsig's legacy Server SDK for Go applications; use Go Core for new projects,markdown,1
+statsig,Legacy Java/Kotlin Server SDK,https://docs.statsig.com/server/java.md,server/java.md,Docs,Statsig's Legacy Server SDK for Java and Kotlin applications,markdown,1
+statsig,Legacy Node.js Server SDK,https://docs.statsig.com/server/nodejsServerSDK.md,server/nodejsServerSDK.md,Docs,Statsig's Legacy Server SDK for Node.js applications,markdown,1
+statsig,Legacy PHP Server SDK,https://docs.statsig.com/server/php.md,server/php.md,Docs,Statsig's Legacy Server SDK for PHP applications,markdown,1
+statsig,Legacy Python Server SDK,https://docs.statsig.com/server/pythonSDK.md,server/pythonSDK.md,Docs,Statsig's Legacy Server SDK for Python applications,markdown,1
+statsig,Legacy Rust Server SDK,https://docs.statsig.com/server/rust.md,server/rust.md,Docs,Statsig's Legacy Server SDK for Rust applications,markdown,1
+statsig,Legacy Server SDKs,https://docs.statsig.com/server-core/legacy-sdks.md,server-core/legacy-sdks.md,Docs,"Statsig's long-lived Server SDKs, which are transitioning to the Server Core framework",markdown,1
+statsig,Lifecycle,https://docs.statsig.com/product-analytics/lifecycle.md,product-analytics/lifecycle.md,Docs,"Understand how users start, return, remain, and churn over time",markdown,1
+statsig,Lineage: List Experiment related to Layer,https://docs.statsig.com/api-reference/layers/lineage:-list-experiment-related-to-layer.md,api-reference/layers/lineage:-list-experiment-related-to-layer.md,Docs,,markdown,1
+statsig,Lineage: List experiments related to Metric,https://docs.statsig.com/api-reference/metrics/lineage:-list-experiments-related-to-metric.md,api-reference/metrics/lineage:-list-experiments-related-to-metric.md,Docs,,markdown,1
+statsig,List All Metric Values,https://docs.statsig.com/api-reference/metrics/list-all-metric-values.md,api-reference/metrics/list-all-metric-values.md,Docs,List all metric values,markdown,1
+statsig,List Assignment Sources,https://docs.statsig.com/api-reference/experiments/list-assignment-sources.md,api-reference/experiments/list-assignment-sources.md,Docs,,markdown,1
+statsig,List Audit Logs,https://docs.statsig.com/api-reference/audit-logs/list-audit-logs.md,api-reference/audit-logs/list-audit-logs.md,Docs,,markdown,1
+statsig,List Autotune,https://docs.statsig.com/api-reference/autotunes/list-autotune.md,api-reference/autotunes/list-autotune.md,Docs,,markdown,1
+statsig,List Dynamic Config References,https://docs.statsig.com/api-reference/gates/list-dynamic-config-references.md,api-reference/gates/list-dynamic-config-references.md,Docs,,markdown,1
+statsig,List Dynamic Config Versions,https://docs.statsig.com/api-reference/dynamic-configs/list-dynamic-config-versions.md,api-reference/dynamic-configs/list-dynamic-config-versions.md,Docs,,markdown,1
+statsig,List Dynamic Configs,https://docs.statsig.com/api-reference/dynamic-configs/list-dynamic-configs.md,api-reference/dynamic-configs/list-dynamic-configs.md,Docs,,markdown,1
+statsig,List Entity Property Sources,https://docs.statsig.com/api-reference/experiments/list-entity-property-sources.md,api-reference/experiments/list-entity-property-sources.md,Docs,,markdown,1
+statsig,List Events,https://docs.statsig.com/api-reference/events/list-events.md,api-reference/events/list-events.md,Docs,,markdown,1
+statsig,List Experiment References,https://docs.statsig.com/api-reference/gates/list-experiment-references.md,api-reference/gates/list-experiment-references.md,Docs,,markdown,1
+statsig,List Experiment Versions,https://docs.statsig.com/api-reference/experiments/list-experiment-versions.md,api-reference/experiments/list-experiment-versions.md,Docs,,markdown,1
+statsig,List Experiments,https://docs.statsig.com/api-reference/experiments/list-experiments.md,api-reference/experiments/list-experiments.md,Docs,,markdown,1
+statsig,List Gate References,https://docs.statsig.com/api-reference/gates/list-gate-references.md,api-reference/gates/list-gate-references.md,Docs,,markdown,1
+statsig,List Gate Versions,https://docs.statsig.com/api-reference/gates/list-gate-versions.md,api-reference/gates/list-gate-versions.md,Docs,,markdown,1
+statsig,List Gates,https://docs.statsig.com/api-reference/gates/list-gates.md,api-reference/gates/list-gates.md,Docs,,markdown,1
+statsig,List Holdouts,https://docs.statsig.com/api-reference/holdouts/list-holdouts.md,api-reference/holdouts/list-holdouts.md,Docs,,markdown,1
+statsig,List Ingestion Runs,https://docs.statsig.com/api-reference/ingestions/list-ingestion-runs.md,api-reference/ingestions/list-ingestion-runs.md,Docs,,markdown,1
+statsig,List Ingestions Status,https://docs.statsig.com/api-reference/ingestions/list-ingestions-status.md,api-reference/ingestions/list-ingestions-status.md,Docs,,markdown,1
+statsig,List Keys,https://docs.statsig.com/api-reference/keys/list-keys.md,api-reference/keys/list-keys.md,Docs,,markdown,1
+statsig,List Param Stores,https://docs.statsig.com/api-reference/param-store/list-param-stores.md,api-reference/param-store/list-param-stores.md,Docs,,markdown,1
+statsig,List Pipeline Triggers,https://docs.statsig.com/api-reference/release-pipelines/list-pipeline-triggers.md,api-reference/release-pipelines/list-pipeline-triggers.md,Docs,,markdown,1
+statsig,List Pipelines,https://docs.statsig.com/api-reference/release-pipelines/list-pipelines.md,api-reference/release-pipelines/list-pipelines.md,Docs,,markdown,1
+statsig,List Prompts,https://docs.statsig.com/api-reference/prompts/list-prompts.md,api-reference/prompts/list-prompts.md,Docs,,markdown,1
+statsig,List Roles,https://docs.statsig.com/api-reference/roles/list-roles.md,api-reference/roles/list-roles.md,Docs,,markdown,1
+statsig,List Segments,https://docs.statsig.com/api-reference/segments/list-segments.md,api-reference/segments/list-segments.md,Docs,,markdown,1
+statsig,List Tags,https://docs.statsig.com/api-reference/tags/list-tags.md,api-reference/tags/list-tags.md,Docs,,markdown,1
+statsig,List Target Apps,https://docs.statsig.com/api-reference/target-app/list-target-apps.md,api-reference/target-app/list-target-apps.md,Docs,,markdown,1
+statsig,List Teams,https://docs.statsig.com/api-reference/users/list-teams.md,api-reference/users/list-teams.md,Docs,,markdown,1
+statsig,List Topline Alerts,https://docs.statsig.com/api-reference/alerts/list-topline-alerts.md,api-reference/alerts/list-topline-alerts.md,Docs,,markdown,1
+statsig,List Unit ID Types,https://docs.statsig.com/api-reference/unit-id-types/list-unit-id-types.md,api-reference/unit-id-types/list-unit-id-types.md,Docs,,markdown,1
+statsig,List Users,https://docs.statsig.com/api-reference/users/list-users.md,api-reference/users/list-users.md,Docs,,markdown,1
+statsig,List all Metrics,https://docs.statsig.com/api-reference/metrics/list-all-metrics.md,api-reference/metrics/list-all-metrics.md,Docs,,markdown,1
+statsig,List metric source,https://docs.statsig.com/api-reference/metrics/list-metric-source.md,api-reference/metrics/list-metric-source.md,Docs,,markdown,1
+statsig,List qualifying event,https://docs.statsig.com/api-reference/experiments-warehouse-native/list-qualifying-event.md,api-reference/experiments-warehouse-native/list-qualifying-event.md,Docs,,markdown,1
+statsig,Load Pulse (Warehouse Native),https://docs.statsig.com/api-reference/experiments/load-pulse-warehouse-native.md,api-reference/experiments/load-pulse-warehouse-native.md,Docs,,markdown,1
+statsig,Load Pulse Gate,https://docs.statsig.com/api-reference/gates/load-pulse-gate.md,api-reference/gates/load-pulse-gate.md,Docs,,markdown,1
+statsig,Loading Pulse,https://docs.statsig.com/statsig-warehouse-native/features/reloads.md,statsig-warehouse-native/features/reloads.md,Docs,,markdown,1
+statsig,Local Eval Adapter,https://docs.statsig.com/client/concepts/local-eval-adapter.md,client/concepts/local-eval-adapter.md,Docs,,markdown,1
+statsig,Local Metrics,https://docs.statsig.com/metrics/local-metrics.md,metrics/local-metrics.md,Docs,Create metrics that are scoped to individual experiments or gates without adding them to the project-wide catalog.,markdown,1
+statsig,Log Custom Events,https://docs.statsig.com/api-reference/events/log-custom-events.md,api-reference/events/log-custom-events.md,Docs,Logs one or more custom events for analytics and metric calculation. Events are used to measure experiment outcomes and user behavior.,markdown,1
+statsig,Log Custom Exposure Events,https://docs.statsig.com/api-reference/events/log-custom-exposure-events.md,api-reference/events/log-custom-exposure-events.md,Docs,"Manually logs exposure events for experiments or feature gates. Useful for analytics-only experiments, delayed exposure logging, or when automatic exposure logging is disabled.",markdown,1
+statsig,Log Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/log.md,statsig-warehouse-native/metrics/log.md,Docs,"Log metrics are a special case of [Sum](./sum) and [Count](./count) metrics, where the unit-level metric value is logged before calculating pulse results. This can be configured in the advanced settings of Sum or Count metrics. This defaults to taking the natural log, but a custom base can be specified.",markdown,1
+statsig,Log your first custom event,https://docs.statsig.com/guides/logging-events.md,guides/logging-events.md,Docs,,markdown,1
+statsig,Logs Explorer Overview,https://docs.statsig.com/infra-analytics/logs-explorer.md,infra-analytics/logs-explorer.md,Docs,Search and analyze all of your product’s logs in one place.,markdown,1
+statsig,Macros,https://docs.statsig.com/statsig-warehouse-native/configuration/query-tools.md,statsig-warehouse-native/configuration/query-tools.md,Docs,,markdown,1
+statsig,Make a Decision,https://docs.statsig.com/experiments/ending/make-decision.md,experiments/ending/make-decision.md,Docs,"Learn how to analyze experiment results and make informed decisions about launching, abandoning, or continuing experiments.",markdown,1
+statsig,Manage a Safeguard,https://docs.statsig.com/feature-flags/safeguards-manage.md,feature-flags/safeguards-manage.md,Docs,Learn how to view and manage safeguards for your feature flags,markdown,1
+statsig,Manage an Ongoing Release Pipeline,https://docs.statsig.com/release-pipeline/actions.md,release-pipeline/actions.md,Docs,"Learn how to control and manage release pipelines in progress using various actions like approve, pause, skip, and abort",markdown,1
+statsig,Managing Experiments With Terraform,https://docs.statsig.com/integrations/terraform/terraform_experiment.md,integrations/terraform/terraform_experiment.md,Docs,,markdown,1
+statsig,Managing Feature Gate lifecycles,https://docs.statsig.com/feature-flags/feature-flags-lifecycle.md,feature-flags/feature-flags-lifecycle.md,Docs,Learn how to manage feature gates through different phases of their lifecycle - from testing to full rollout to cleanup and archival.,markdown,1
+statsig,Managing Gates With Terraform,https://docs.statsig.com/integrations/terraform/terraform_gate.md,integrations/terraform/terraform_gate.md,Docs,,markdown,1
+statsig,Managing SRM,https://docs.statsig.com/experiments/monitoring/srm.md,experiments/monitoring/srm.md,Docs,,markdown,1
+statsig,Max/Min Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/max-min.md,statsig-warehouse-native/metrics/max-min.md,Docs,Max metrics calculate the maximum of a column from the metric source at the unit level. Min Metrics calculate the minimum of a column from the metric source at the unit level.,markdown,1
+statsig,Mean Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/mean.md,statsig-warehouse-native/metrics/mean.md,Docs,Mean metrics calculate the mean value of a numeric column in a metric source.,markdown,1
+statsig,Measuring Experiments,https://docs.statsig.com/guides/sidecar-experiments/measuring-experiments.md,guides/sidecar-experiments/measuring-experiments.md,Docs,"Learn how to measure experiment results using autocapture, manual tracking API, and post-experiment callbacks for analytics integrations.",markdown,1
+statsig,Measuring multiple rollout stages,https://docs.statsig.com/feature-flags/multiple-rollout-stages.md,feature-flags/multiple-rollout-stages.md,Docs,Learn how Statsig handles continuous analysis and multi-stage feature flag rollouts for comprehensive measurement and experimentation.,markdown,1
+statsig,Meta-Analysis,https://docs.statsig.com/experiments/exploring-results/meta-analysis.md,experiments/exploring-results/meta-analysis.md,Docs,,markdown,1
+statsig,Meta-Analysis,https://docs.statsig.com/statsig-warehouse-native/features/meta-analysis.md,statsig-warehouse-native/features/meta-analysis.md,Docs,,markdown,1
+statsig,Methodology,https://docs.statsig.com/autotune/multi-armed-bandit.md,autotune/multi-armed-bandit.md,Docs,,markdown,1
+statsig,Metric Deltas,https://docs.statsig.com/experiments/statistical-methods/metric-deltas.md,experiments/statistical-methods/metric-deltas.md,Docs,Learn how Statsig computes metric deltas to compare absolute and relative differences between experiment groups.,markdown,1
+statsig,Metric Deltas,https://docs.statsig.com/statsig-warehouse-native/features/statistics/metric-deltas.md,statsig-warehouse-native/features/statistics/metric-deltas.md,Docs,,markdown,1
+statsig,Metric Directionality,https://docs.statsig.com/metrics/directionality.md,metrics/directionality.md,Docs,Configure whether increases or decreases in metric values should be considered positive or negative in experiments.,markdown,1
+statsig,Metric Drill-Down,https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/metric-drill-down.md,statsig-warehouse-native/features/interpreting-results/metric-drill-down.md,Docs,,markdown,1
+statsig,Metric Drilldown Charts,https://docs.statsig.com/product-analytics/drilldown.md,product-analytics/drilldown.md,Docs,A versatile tool for understanding customer behavior and trends within your product,markdown,1
+statsig,Metric Examples,https://docs.statsig.com/statsig-warehouse-native/configuration/metric-examples.md,statsig-warehouse-native/configuration/metric-examples.md,Docs,,markdown,1
+statsig,Metric Family,https://docs.statsig.com/metrics/metric-family.md,metrics/metric-family.md,Docs,Making it easier to manage metric variant.,markdown,1
+statsig,Metric Insights and Aggregated Impact,https://docs.statsig.com/experiments/exploring-results/aggregated-impact.md,experiments/exploring-results/aggregated-impact.md,Docs,,markdown,1
+statsig,Metric Reloads,https://docs.statsig.com/statsig-warehouse-native/features/metric-reloads.md,statsig-warehouse-native/features/metric-reloads.md,Docs,,markdown,1
+statsig,Metric Sources,https://docs.statsig.com/statsig-warehouse-native/configuration/metric-sources.md,statsig-warehouse-native/configuration/metric-sources.md,Docs,,markdown,1
+statsig,Metrics 201 - Creating Custom Metrics,https://docs.statsig.com/metrics/201.md,metrics/201.md,Docs,"Learn to create your own metrics and organize them as your project grows, including customizing DAU definitions.",markdown,1
+statsig,Metrics 301 - Real-time Analytics,https://docs.statsig.com/metrics/301.md,metrics/301.md,Docs,"Advanced guide to real-time events analysis, user funnels, and user flows in Statsig.",markdown,1
+statsig,Metrics Dashboard,https://docs.statsig.com/metrics/console.md,metrics/console.md,Docs,Explore your metrics and events through the Statsig console with real-time visualization and organization tools.,markdown,1
+statsig,Metrics Overview,https://docs.statsig.com/metrics/101.md,metrics/101.md,Docs,Basic concepts to help you set up essential product metrics in Statsig.,markdown,1
+statsig,Metrics Overview,https://docs.statsig.com/statsig-warehouse-native/configuration/metrics.md,statsig-warehouse-native/configuration/metrics.md,Docs,,markdown,1
+statsig,Metrics User Guide,https://docs.statsig.com/metrics/introduction.md,metrics/introduction.md,Docs,"Learn about Statsig's comprehensive metrics system, from raw events to precomputed metrics and real-time analytics.",markdown,1
+statsig,Mex On Warehouse Native,https://docs.statsig.com/statsig-warehouse-native/features/mex-on-warehouse-native.md,statsig-warehouse-native/features/mex-on-warehouse-native.md,Docs,,markdown,1
+statsig,Migrate your analytics data from Amplitude,https://docs.statsig.com/guides/migrate-from-amplitude.md,guides/migrate-from-amplitude.md,Docs,,markdown,1
+statsig,Migrate your analytics data from Mixpanel,https://docs.statsig.com/guides/migrate-from-mixpanel.md,guides/migrate-from-mixpanel.md,Docs,,markdown,1
+statsig,Migrating to @statsig/js-client,https://docs.statsig.com/client/migration-guides/MigrationFromOldJsClient.md,client/migration-guides/MigrationFromOldJsClient.md,Docs,Learn how to migrate from the legacy statsig-js SDK to the new @statsig/js-client SDK,markdown,1
+statsig,Migrating to @statsig/react-bindings,https://docs.statsig.com/client/migration-guides/MigrationFromOldReact.md,client/migration-guides/MigrationFromOldReact.md,Docs,Learn how to migrate from the legacy statsig-react package to the new @statsig/react-bindings,markdown,1
+statsig,Migration Overview,https://docs.statsig.com/guides/migration-overview.md,guides/migration-overview.md,Docs,,markdown,1
+statsig,Mixpanel,https://docs.statsig.com/integrations/data-connectors/mixpanel.md,integrations/data-connectors/mixpanel.md,Docs,,markdown,1
+statsig,Monitor an Experiment,https://docs.statsig.com/experiments/monitor.md,experiments/monitor.md,Docs,"Track health checks, exposures, and diagnostics for active experiments in Statsig Cloud.",markdown,1
+statsig,Monitoring the SDK,https://docs.statsig.com/infrastructure/sdk-monitoring.md,infrastructure/sdk-monitoring.md,Docs,,markdown,1
+statsig,Monitoring your Contextual MAB,https://docs.statsig.com/autotune/contextual/monitoring.md,autotune/contextual/monitoring.md,Docs,,markdown,1
+statsig,Next.js Client SDK,https://docs.statsig.com/client/Next.md,client/Next.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Next.js applications.,markdown,1
+statsig,Node AI SDK,https://docs.statsig.com/ai-evals/node.md,ai-evals/node.md,Docs,Statsig's Node SDK for AI Application Configuration & Telemetry,markdown,1
+statsig,Node Server SDK,https://docs.statsig.com/server-core/node-core.md,server-core/node-core.md,Docs,Statsig's next-gen Node Server SDK built on our [Server Core](/server-core) framework,markdown,1
+statsig,Normalized Metrics (aka Clustered Experiments),https://docs.statsig.com/statsig-warehouse-native/metrics/normalized-metrics.md,statsig-warehouse-native/metrics/normalized-metrics.md,Docs,,markdown,1
+statsig,Offline Evals,https://docs.statsig.com/ai-evals/offline-evals.md,ai-evals/offline-evals.md,Docs,,markdown,1
+statsig,Okta SCIM Org Roles,https://docs.statsig.com/access-management/scim/okta_scim_org_roles.md,access-management/scim/okta_scim_org_roles.md,Docs,,markdown,1
+statsig,Okta SCIM Setup,https://docs.statsig.com/access-management/scim/okta_scim_setup.md,access-management/scim/okta_scim_setup.md,Docs,,markdown,1
+statsig,Okta SCIM Team Management,https://docs.statsig.com/access-management/scim/okta_scim_team_management.md,access-management/scim/okta_scim_team_management.md,Docs,,markdown,1
+statsig,Okta SCIM Troubleshooting,https://docs.statsig.com/access-management/scim/okta_scim_troubleshooting.md,access-management/scim/okta_scim_troubleshooting.md,Docs,,markdown,1
+statsig,Okta SCIM User and Project/Role Management,https://docs.statsig.com/access-management/scim/okta_scim_user_management.md,access-management/scim/okta_scim_user_management.md,Docs,,markdown,1
+statsig,On Device Client SDKs,https://docs.statsig.com/client/onDeviceOverview.md,client/onDeviceOverview.md,Docs,,markdown,1
+statsig,One-Sample Test,https://docs.statsig.com/experiments/statistical-methods/methodologies/one-sample-test.md,experiments/statistical-methods/methodologies/one-sample-test.md,Docs,,markdown,1
+statsig,One-Sided Test,https://docs.statsig.com/experiments/statistical-methods/methodologies/one-sided-test.md,experiments/statistical-methods/methodologies/one-sided-test.md,Docs,,markdown,1
+statsig,One-Sided Tests,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/one-sided-test.md,statsig-warehouse-native/features/statistics/methodologies/one-sided-test.md,Docs,,markdown,1
+statsig,Online Evals,https://docs.statsig.com/ai-evals/online-evals.md,ai-evals/online-evals.md,Docs,,markdown,1
+statsig,Open Source Script,https://docs.statsig.com/guides/open-source-script.md,guides/open-source-script.md,Docs,,markdown,1
+statsig,OpenAI,https://docs.statsig.com/integrations/openai.md,integrations/openai.md,Docs,,markdown,1
+statsig,Organization Policies,https://docs.statsig.com/access-management/org-admin/organization_policies.md,access-management/org-admin/organization_policies.md,Docs,,markdown,1
+statsig,Organization Settings & Administration,https://docs.statsig.com/access-management/organizations.md,access-management/organizations.md,Docs,,markdown,1
+statsig,Other Features,https://docs.statsig.com/statsig-warehouse-native/features/other-useful-features.md,statsig-warehouse-native/features/other-useful-features.md,Docs,,markdown,1
+statsig,Other Warehouses,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/other.md,statsig-warehouse-native/connecting-your-warehouse/other.md,Docs,,markdown,1
+statsig,Overview,https://docs.statsig.com/integrations/mcp/overview.md,integrations/mcp/overview.md,Docs,"The Statsig MCP (Model Context Protocol) server brings the power of Statsig into tools like Codex, Cursor, and Claude Code. With this setup, you can ask questions, explore experiments, and access your Statsig data using AI.",markdown,1
+statsig,PHP Server SDK,https://docs.statsig.com/server-core/php-core.md,server-core/php-core.md,Docs,Statsig's Next-gen PHP Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,Parameter Stores,https://docs.statsig.com/client/concepts/parameter-stores.md,client/concepts/parameter-stores.md,Docs,,markdown,1
+statsig,Paranoid about uptime? 10 things to do!,https://docs.statsig.com/guides/uptime.md,guides/uptime.md,Docs,,markdown,1
+statsig,Partially Update Autotune,https://docs.statsig.com/api-reference/autotunes/partially-update-autotune.md,api-reference/autotunes/partially-update-autotune.md,Docs,Update selected properties of the experiment,markdown,1
+statsig,Partially Update Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/partially-update-dynamic-config.md,api-reference/dynamic-configs/partially-update-dynamic-config.md,Docs,,markdown,1
+statsig,Partially Update Experiment,https://docs.statsig.com/api-reference/experiments/partially-update-experiment.md,api-reference/experiments/partially-update-experiment.md,Docs,,markdown,1
+statsig,Partially Update Experiment Overrides,https://docs.statsig.com/api-reference/experiments/partially-update-experiment-overrides.md,api-reference/experiments/partially-update-experiment-overrides.md,Docs,,markdown,1
+statsig,Partially Update Gates,https://docs.statsig.com/api-reference/gates/partially-update-gates.md,api-reference/gates/partially-update-gates.md,Docs,,markdown,1
+statsig,Partially update a layer,https://docs.statsig.com/api-reference/layers/partially-update-a-layer.md,api-reference/layers/partially-update-a-layer.md,Docs,,markdown,1
+statsig,Partially update holdout by id,https://docs.statsig.com/api-reference/holdouts/partially-update-holdout-by-id.md,api-reference/holdouts/partially-update-holdout-by-id.md,Docs,You can pass in only the data you want to update.,markdown,1
+statsig,Participating Units,https://docs.statsig.com/experiments/interpreting-results/participating-units.md,experiments/interpreting-results/participating-units.md,Docs,,markdown,1
+statsig,Participating Units,https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/participating-units.md,statsig-warehouse-native/features/interpreting-results/participating-units.md,Docs,,markdown,1
+statsig,Patch Assignment Source,https://docs.statsig.com/api-reference/experiments/patch-assignment-source.md,api-reference/experiments/patch-assignment-source.md,Docs,,markdown,1
+statsig,Patch Entity Property Source,https://docs.statsig.com/api-reference/experiments/patch-entity-property-source.md,api-reference/experiments/patch-entity-property-source.md,Docs,,markdown,1
+statsig,Patch scimgroups,https://docs.statsig.com/api-reference/scim-groups/patch-scimgroups.md,api-reference/scim-groups/patch-scimgroups.md,Docs,,markdown,1
+statsig,Patch scimusers,https://docs.statsig.com/api-reference/scim-users/patch-scimusers.md,api-reference/scim-users/patch-scimusers.md,Docs,,markdown,1
+statsig,Pause Pipeline Trigger,https://docs.statsig.com/api-reference/release-pipelines/pause-pipeline-trigger.md,api-reference/release-pipelines/pause-pipeline-trigger.md,Docs,,markdown,1
+statsig,Percentile Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/percentile.md,statsig-warehouse-native/metrics/percentile.md,Docs,,markdown,1
+statsig,Permanent and Stale Gates,https://docs.statsig.com/feature-flags/permanent-and-stale-gates.md,feature-flags/permanent-and-stale-gates.md,Docs,Learn how to manage feature gates lifecycle with Types to track flags ready for cleanup or permanent integration,markdown,1
+statsig,Pipeline Overview,https://docs.statsig.com/statsig-warehouse-native/analysis-tools/pipeline-overview.md,statsig-warehouse-native/analysis-tools/pipeline-overview.md,Docs,Understand what we're running on your warehouse,markdown,1
+statsig,Platform Overview,https://docs.statsig.com/understanding-platform.md,understanding-platform.md,Docs,Learn what Statsig is used for and how to set it up with our Cloud and Warehouse Native deployment models,markdown,1
+statsig,Post Assignment Source,https://docs.statsig.com/api-reference/experiments/post-assignment-source.md,api-reference/experiments/post-assignment-source.md,Docs,,markdown,1
+statsig,Post Entity Property Source,https://docs.statsig.com/api-reference/experiments/post-entity-property-source.md,api-reference/experiments/post-entity-property-source.md,Docs,,markdown,1
+statsig,Post scimgroups,https://docs.statsig.com/api-reference/scim-groups/post-scimgroups.md,api-reference/scim-groups/post-scimgroups.md,Docs,,markdown,1
+statsig,Post scimusers,https://docs.statsig.com/api-reference/scim-users/post-scimusers.md,api-reference/scim-users/post-scimusers.md,Docs,,markdown,1
+statsig,Power Analysis,https://docs.statsig.com/experiments/power-analysis.md,experiments/power-analysis.md,Docs,Learn how to use Statsig's Power Analysis Calculator to determine experiment parameters needed for statistically significant results.,markdown,1
+statsig,Power Analysis,https://docs.statsig.com/statsig-warehouse-native/features/power-analysis.md,statsig-warehouse-native/features/power-analysis.md,Docs,Determine your experiment duration with confidence,markdown,1
+statsig,Practical Use Cases,https://docs.statsig.com/statsig-warehouse-native/features/use-case.md,statsig-warehouse-native/features/use-case.md,Docs,,markdown,1
+statsig,Pre-Experiment Bias,https://docs.statsig.com/experiments/statistical-methods/pre-experiment-bias.md,experiments/statistical-methods/pre-experiment-bias.md,Docs,,markdown,1
+statsig,Pre-Experiment Bias,https://docs.statsig.com/statsig-warehouse-native/features/statistics/pre-experiment-bias.md,statsig-warehouse-native/features/statistics/pre-experiment-bias.md,Docs,,markdown,1
+statsig,Pre-Post Results,https://docs.statsig.com/feature-flags/pre-post-results.md,feature-flags/pre-post-results.md,Docs,Learn how to use Pre-Post Results to analyze feature impact when traditional A/B testing isn't possible,markdown,1
+statsig,Pre-commit Webhooks,https://docs.statsig.com/guides/pre-commit-webhooks.md,guides/pre-commit-webhooks.md,Docs,,markdown,1
+statsig,Precomputed Metrics,https://docs.statsig.com/metrics/precomputed-metrics.md,metrics/precomputed-metrics.md,Docs,"Import existing metrics from cloud data warehouses like Snowflake, BigQuery, and Redshift for experiment analysis.",markdown,1
+statsig,Privacy Options for Session Replay,https://docs.statsig.com/session-replay/privacy.md,session-replay/privacy.md,Docs,,markdown,1
+statsig,Product Analytics Overview,https://docs.statsig.com/product-analytics/overview.md,product-analytics/overview.md,Docs,Understand how your users experience and interact with your product through the analysis of product data,markdown,1
+statsig,Project Access Management,https://docs.statsig.com/access-management/projects.md,access-management/projects.md,Docs,,markdown,1
+statsig,Prompts & Graders,https://docs.statsig.com/ai-evals/prompts.md,ai-evals/prompts.md,Docs,,markdown,1
+statsig,Pulse,https://docs.statsig.com/experiments/interpreting-results/drill-down.md,experiments/interpreting-results/drill-down.md,Docs,,markdown,1
+statsig,Pulse FAQs,https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/faq.md,statsig-warehouse-native/features/interpreting-results/faq.md,Docs,,markdown,1
+statsig,Pulse Load History (Warehouse Native),https://docs.statsig.com/api-reference/experiments/pulse-load-history-warehouse-native.md,api-reference/experiments/pulse-load-history-warehouse-native.md,Docs,,markdown,1
+statsig,Pulse Load History (Warehouse Native),https://docs.statsig.com/api-reference/gates/pulse-load-history-warehouse-native.md,api-reference/gates/pulse-load-history-warehouse-native.md,Docs,,markdown,1
+statsig,Pulse Metrics,https://docs.statsig.com/metrics/pulse.md,metrics/pulse.md,Docs,Learn how different metric types are computed and interpreted in Pulse experiment results.,markdown,1
+statsig,Pulumi,https://docs.statsig.com/integrations/pulumi.md,integrations/pulumi.md,Docs,,markdown,1
+statsig,Put scimgroups,https://docs.statsig.com/api-reference/scim-groups/put-scimgroups.md,api-reference/scim-groups/put-scimgroups.md,Docs,,markdown,1
+statsig,Put scimusers,https://docs.statsig.com/api-reference/scim-users/put-scimusers.md,api-reference/scim-users/put-scimusers.md,Docs,,markdown,1
+statsig,Python AI SDK,https://docs.statsig.com/ai-evals/python.md,ai-evals/python.md,Docs,Statsig's Python SDK for AI Application Configuration & Telemetry,markdown,1
+statsig,Python Server SDK,https://docs.statsig.com/server-core/python-core.md,server-core/python-core.md,Docs,Statsig's Next-gen Python Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,Qualifying Events,https://docs.statsig.com/statsig-warehouse-native/configuration/qualifying-events.md,statsig-warehouse-native/configuration/qualifying-events.md,Docs,,markdown,1
+statsig,Query Syntax for Logs Explorer,https://docs.statsig.com/infra-analytics/logs-explorer-queries.md,infra-analytics/logs-explorer-queries.md,Docs,"Filter, group, and visualize logs with precision.",markdown,1
+statsig,Ratio Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/ratio.md,statsig-warehouse-native/metrics/ratio.md,Docs,"Ratio metrics measure the ratio of two metrics (Count, Sum, Count Distinct, or Unit Count).",markdown,1
+statsig,Raw Events,https://docs.statsig.com/metrics/raw-events.md,metrics/raw-events.md,Docs,Learn how Statsig uses exposure events and custom events from your application to compute metrics and generate experiment results.,markdown,1
+statsig,React Client SDK,https://docs.statsig.com/client/React.md,client/React.md,Docs,"Use Statsig in React apps with hooks, providers, and optional plugins for session replay and auto capture.",markdown,1
+statsig,React Native Client SDK,https://docs.statsig.com/client/ReactNative.md,client/ReactNative.md,Docs,Statsig's SDK for Experimentation and Feature Flags in React Native applications.,markdown,1
+statsig,React Native On-Device Evaluation,https://docs.statsig.com/client/ReactNativeOnDeviceEvaluation.md,client/ReactNativeOnDeviceEvaluation.md,Docs,Statsig's React Native SDK for on-device evaluation with React Native applications.,markdown,1
+statsig,Read Autotune,https://docs.statsig.com/api-reference/autotunes/read-autotune.md,api-reference/autotunes/read-autotune.md,Docs,,markdown,1
+statsig,Read Dashboard,https://docs.statsig.com/api-reference/dashboards/read-dashboard.md,api-reference/dashboards/read-dashboard.md,Docs,,markdown,1
+statsig,Read Exposure Event Count,https://docs.statsig.com/api-reference/configs/read-exposure-event-count.md,api-reference/configs/read-exposure-event-count.md,Docs,Get the count of exposure events recently received by Statsig.,markdown,1
+statsig,Read Gate,https://docs.statsig.com/api-reference/gates/read-gate.md,api-reference/gates/read-gate.md,Docs,,markdown,1
+statsig,Read Gate Checks,https://docs.statsig.com/api-reference/gates/read-gate-checks.md,api-reference/gates/read-gate-checks.md,Docs,,markdown,1
+statsig,Read Gate Rules,https://docs.statsig.com/api-reference/gates/read-gate-rules.md,api-reference/gates/read-gate-rules.md,Docs,,markdown,1
+statsig,Read Holdout Overrides,https://docs.statsig.com/api-reference/holdouts/read-holdout-overrides.md,api-reference/holdouts/read-holdout-overrides.md,Docs,,markdown,1
+statsig,Read Ingestion,https://docs.statsig.com/api-reference/ingestions/read-ingestion.md,api-reference/ingestions/read-ingestion.md,Docs,,markdown,1
+statsig,Read Ingestion Run,https://docs.statsig.com/api-reference/ingestions/read-ingestion-run.md,api-reference/ingestions/read-ingestion-run.md,Docs,,markdown,1
+statsig,Read Ingestion Schedule,https://docs.statsig.com/api-reference/ingestions/read-ingestion-schedule.md,api-reference/ingestions/read-ingestion-schedule.md,Docs,,markdown,1
+statsig,Read Key,https://docs.statsig.com/api-reference/keys/read-key.md,api-reference/keys/read-key.md,Docs,,markdown,1
+statsig,Read Metric Definition,https://docs.statsig.com/api-reference/metrics/read-metric-definition.md,api-reference/metrics/read-metric-definition.md,Docs,,markdown,1
+statsig,Read Metric Definition by Name,https://docs.statsig.com/api-reference/metrics/read-metric-definition-by-name.md,api-reference/metrics/read-metric-definition-by-name.md,Docs,,markdown,1
+statsig,Read Metric Source,https://docs.statsig.com/api-reference/metrics/read-metric-source.md,api-reference/metrics/read-metric-source.md,Docs,,markdown,1
+statsig,Read Metric Source Metrics,https://docs.statsig.com/api-reference/metrics/read-metric-source-metrics.md,api-reference/metrics/read-metric-source-metrics.md,Docs,,markdown,1
+statsig,Read Qualifying Event,https://docs.statsig.com/api-reference/experiments-warehouse-native/read-qualifying-event.md,api-reference/experiments-warehouse-native/read-qualifying-event.md,Docs,,markdown,1
+statsig,Read Results,https://docs.statsig.com/statsig-warehouse-native/features/interpreting-results/read-results.md,statsig-warehouse-native/features/interpreting-results/read-results.md,Docs,,markdown,1
+statsig,Read Single Metric Value,https://docs.statsig.com/api-reference/metrics/read-single-metric-value.md,api-reference/metrics/read-single-metric-value.md,Docs,,markdown,1
+statsig,Read Tag,https://docs.statsig.com/api-reference/tags/read-tag.md,api-reference/tags/read-tag.md,Docs,,markdown,1
+statsig,Read Target App,https://docs.statsig.com/api-reference/target-app/read-target-app.md,api-reference/target-app/read-target-app.md,Docs,,markdown,1
+statsig,Reconciling Results Between Experimentation Platforms,https://docs.statsig.com/experiments/interpreting-results/reconciling-experiment-results.md,experiments/interpreting-results/reconciling-experiment-results.md,Docs,Learn how to reconcile differences in experiment results between different analysis platforms.,markdown,1
+statsig,Redshift,https://docs.statsig.com/data-warehouse-ingestion/redshift.md,data-warehouse-ingestion/redshift.md,Docs,,markdown,1
+statsig,Redshift (Deprecated),https://docs.statsig.com/integrations/data-imports/redshift.md,integrations/data-imports/redshift.md,Docs,,markdown,1
+statsig,Redshift Connection,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/redshift.md,statsig-warehouse-native/connecting-your-warehouse/redshift.md,Docs,,markdown,1
+statsig,Release Pipeline Overview,https://docs.statsig.com/release-pipeline/overview.md,release-pipeline/overview.md,Docs,"Learn about Release Pipelines for sophisticated, multi-stage rollout strategies across environments",markdown,1
+statsig,Reliability FAQs,https://docs.statsig.com/infrastructure/reliability-faq.md,infrastructure/reliability-faq.md,Docs,,markdown,1
+statsig,Reload metric data,https://docs.statsig.com/api-reference/metrics/reload-metric-data.md,api-reference/metrics/reload-metric-data.md,Docs,,markdown,1
+statsig,Remove Holdout Overrides,https://docs.statsig.com/api-reference/holdouts/remove-holdout-overrides.md,api-reference/holdouts/remove-holdout-overrides.md,Docs,Remove selected ids from an id list,markdown,1
+statsig,Remove IDs from Segment,https://docs.statsig.com/api-reference/segments/remove-ids-from-segment.md,api-reference/segments/remove-ids-from-segment.md,Docs,This endpoint is rate limited to 900 requests /15m or 12 requests /10s.,markdown,1
+statsig,Remove IDs from User Store ID List,https://docs.statsig.com/api-reference/segments/remove-ids-from-user-store-id-list.md,api-reference/segments/remove-ids-from-user-store-id-list.md,Docs,This endpoint has a limit of 1000 ids per request,markdown,1
+statsig,Replace Widgets on Dashboard,https://docs.statsig.com/api-reference/dashboards/replace-widgets-on-dashboard.md,api-reference/dashboards/replace-widgets-on-dashboard.md,Docs,,markdown,1
+statsig,Reports,https://docs.statsig.com/statsig-warehouse-native/features/reports.md,statsig-warehouse-native/features/reports.md,Docs,,markdown,1
+statsig,Reset Experiment,https://docs.statsig.com/api-reference/autotunes/reset-experiment.md,api-reference/autotunes/reset-experiment.md,Docs,,markdown,1
+statsig,Reset Experiment,https://docs.statsig.com/api-reference/experiments/reset-experiment.md,api-reference/experiments/reset-experiment.md,Docs,,markdown,1
+statsig,Reset ID List Segment,https://docs.statsig.com/api-reference/segments/reset-id-list-segment.md,api-reference/segments/reset-id-list-segment.md,Docs,Warning: Not atomic for big ID lists (> 1000),markdown,1
+statsig,Resolve Metric Rollout Alert,https://docs.statsig.com/api-reference/experiments/resolve-metric-rollout-alert.md,api-reference/experiments/resolve-metric-rollout-alert.md,Docs,,markdown,1
+statsig,Resolve Metric Rollout Alert,https://docs.statsig.com/api-reference/gates/resolve-metric-rollout-alert.md,api-reference/gates/resolve-metric-rollout-alert.md,Docs,,markdown,1
+statsig,Restart As New Experiment,https://docs.statsig.com/api-reference/experiments/restart-as-new-experiment.md,api-reference/experiments/restart-as-new-experiment.md,Docs,,markdown,1
+statsig,Retention Chart,https://docs.statsig.com/product-analytics/retention.md,product-analytics/retention.md,Docs,Help you understand how effectively your product or service maintains user interest and engagement over time,markdown,1
+statsig,Retention Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/retention.md,statsig-warehouse-native/metrics/retention.md,Docs,Retention metrics measure the rolling retention rate across a configured time window for a given event - or between two different events.,markdown,1
+statsig,Retrieve Pulse Results,https://docs.statsig.com/api-reference/gates/retrieve-pulse-results.md,api-reference/gates/retrieve-pulse-results.md,Docs,,markdown,1
+statsig,Retrieve Pulse Results,https://docs.statsig.com/api-reference/holdouts/retrieve-pulse-results.md,api-reference/holdouts/retrieve-pulse-results.md,Docs,,markdown,1
+statsig,Retrieve Pulse Results (Beta),https://docs.statsig.com/api-reference/experiments/retrieve-pulse-results-beta.md,api-reference/experiments/retrieve-pulse-results-beta.md,Docs,,markdown,1
+statsig,Retrieve cumulative exposures,https://docs.statsig.com/api-reference/experiments/retrieve-cumulative-exposures.md,api-reference/experiments/retrieve-cumulative-exposures.md,Docs,,markdown,1
+statsig,RevenueCat,https://docs.statsig.com/integrations/data-connectors/revenuecat.md,integrations/data-connectors/revenuecat.md,Docs,,markdown,1
+statsig,Roku Client SDK,https://docs.statsig.com/client/Roku.md,client/Roku.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Roku applications.,markdown,1
+statsig,Roles,https://docs.statsig.com/statsig-warehouse-native/features/roles-and-access.md,statsig-warehouse-native/features/roles-and-access.md,Docs,,markdown,1
+statsig,Rollout Alerts,https://docs.statsig.com/metrics/rollout-alerts.md,metrics/rollout-alerts.md,Docs,Get notified when experiments or feature rollouts cause metric regressions beyond preset thresholds.,markdown,1
+statsig,Rotate Key,https://docs.statsig.com/api-reference/keys/rotate-key.md,api-reference/keys/rotate-key.md,Docs,,markdown,1
+statsig,Ruby Server SDK,https://docs.statsig.com/server/ruby.md,server/ruby.md,Docs,Statsig's Server SDK for Ruby applications,markdown,1
+statsig,RudderStack,https://docs.statsig.com/integrations/data-connectors/rudderstack.md,integrations/data-connectors/rudderstack.md,Docs,,markdown,1
+statsig,Run your first A/B test,https://docs.statsig.com/guides/abn-tests.md,guides/abn-tests.md,Docs,,markdown,1
+statsig,Running A/B Tests,https://docs.statsig.com/integrations/azureai/running-experiments.md,integrations/azureai/running-experiments.md,Docs,,markdown,1
+statsig,"Running Analysis Across Unit Types, AKA Cluster Experiments",https://docs.statsig.com/metrics/different-id.md,metrics/different-id.md,Docs,Learn how to run analysis when the experiment assignment unit differs from the analysis unit.,markdown,1
+statsig,Running Email Experiments,https://docs.statsig.com/statsig-warehouse-native/guides/email-experiments.md,statsig-warehouse-native/guides/email-experiments.md,Docs,,markdown,1
+statsig,Running a Warehouse Native POC,https://docs.statsig.com/statsig-warehouse-native/guides/running_a_poc.md,statsig-warehouse-native/guides/running_a_poc.md,Docs,"How to plan a proof of concept with Statsig Warehouse Native (WHN), including the components of our solution, steps required to successfully lead a proof of concept & validation/next steps to productionize",markdown,1
+statsig,Running an A/A Test,https://docs.statsig.com/experiments/types/aa-test.md,experiments/types/aa-test.md,Docs,Learn how to run A/A tests to validate your experimentation setup and ensure proper metrics configuration.,markdown,1
+statsig,Running an A/A Test using Sidecar,https://docs.statsig.com/guides/aa-sidecar.md,guides/aa-sidecar.md,Docs,Learn how to run an A/A test with Statsig Sidecar to validate your experimentation setup and metrics configuration.,markdown,1
+statsig,Rust Server SDK,https://docs.statsig.com/server-core/rust-core.md,server-core/rust-core.md,Docs,Statsig's Next-gen Rust Server SDK built in our [Server Core](/server-core) framework,markdown,1
+statsig,S3,https://docs.statsig.com/data-warehouse-ingestion/s3.md,data-warehouse-ingestion/s3.md,Docs,,markdown,1
+statsig,SCIM API Overview,https://docs.statsig.com/access-management/scim/scim-endpoints.md,access-management/scim/scim-endpoints.md,Docs,,markdown,1
+statsig,SCIM Concepts,https://docs.statsig.com/access-management/scim/concepts.md,access-management/scim/concepts.md,Docs,,markdown,1
+statsig,SCIM User Provisioning,https://docs.statsig.com/access-management/scim/overview.md,access-management/scim/overview.md,Docs,,markdown,1
+statsig,SDK Debugging,https://docs.statsig.com/sdks/debugging.md,sdks/debugging.md,Docs,"Troubleshoot Statsig SDK evaluations using diagnostics, evaluation reasons, and targeted logging.",markdown,1
+statsig,SDK Overview,https://docs.statsig.com/sdks/getting-started.md,sdks/getting-started.md,Docs,,markdown,1
+statsig,SDK Support Policy,https://docs.statsig.com/sdks/support.md,sdks/support.md,Docs,,markdown,1
+statsig,SEO Experimentation with Statsig,https://docs.statsig.com/experiments/types/seo-testing.md,experiments/types/seo-testing.md,Docs,Learn how to run SEO experiments to test landing page designs and optimize organic traffic performance.,markdown,1
+statsig,SRM Checks,https://docs.statsig.com/stats-engine/methodologies/srm-checks.md,stats-engine/methodologies/srm-checks.md,Docs,Understand how Statsig detects sample ratio mismatch (SRM) and how to debug skewed traffic splits.,markdown,1
+statsig,SRM Checks,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/srm-checks.md,statsig-warehouse-native/features/statistics/methodologies/srm-checks.md,Docs,,markdown,1
+statsig,SSO with Google as your IdP,https://docs.statsig.com/access-management/sso/google.md,access-management/sso/google.md,Docs,,markdown,1
+statsig,Safeguards,https://docs.statsig.com/feature-flags/safeguards-overview.md,feature-flags/safeguards-overview.md,Docs,Ship with confidence by automatically monitoring critical metrics and intervening in Feature Gate rollouts when risk thresholds are exceeded,markdown,1
+statsig,Schedule Experiment Start,https://docs.statsig.com/api-reference/experiments/schedule-experiment-start.md,api-reference/experiments/schedule-experiment-start.md,Docs,,markdown,1
+statsig,Schedule a metric archive,https://docs.statsig.com/api-reference/metrics/schedule-a-metric-archive.md,api-reference/metrics/schedule-a-metric-archive.md,Docs,,markdown,1
+statsig,Scheduled Reloads,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/scheduled-reloads.md,statsig-warehouse-native/connecting-your-warehouse/scheduled-reloads.md,Docs,,markdown,1
+statsig,Scheduled Rollouts,https://docs.statsig.com/feature-flags/scheduled-rollouts.md,feature-flags/scheduled-rollouts.md,Docs,Pre-set time-based feature rollout schedules that execute automatically,markdown,1
+statsig,Segment,https://docs.statsig.com/integrations/data-connectors/segment.md,integrations/data-connectors/segment.md,Docs,,markdown,1
+statsig,Segments,https://docs.statsig.com/segments/overview.md,segments/overview.md,Docs,Learn how to create and use segments to define reusable sets of users for targeting across features and dynamic configs,markdown,1
+statsig,Semantic Layer Sync,https://docs.statsig.com/statsig-warehouse-native/configuration/semantic-layer-sync.md,statsig-warehouse-native/configuration/semantic-layer-sync.md,Docs,,markdown,1
+statsig,Sequential Probability Ratio Tests,https://docs.statsig.com/experiments/advanced-setup/sprt.md,experiments/advanced-setup/sprt.md,Docs,Learn about SPRT methodology for faster A/B test decision making with no penalties for peeking.,markdown,1
+statsig,Server Core Overview,https://docs.statsig.com/server-core/index.md,server-core/index.md,Docs,"Learn about Statsig Server Core, our second generation of Server SDKs with improved performance and features",markdown,1
+statsig,Server Data Stores  / Data Adapter,https://docs.statsig.com/server/concepts/data_store.md,server/concepts/data_store.md,Docs,,markdown,1
+statsig,Server Persistent Assignment,https://docs.statsig.com/server/concepts/persistent_assignment.md,server/concepts/persistent_assignment.md,Docs,,markdown,1
+statsig,Serverless,https://docs.statsig.com/integrations/serverless.md,integrations/serverless.md,Docs,,markdown,1
+statsig,Session Replay Overview,https://docs.statsig.com/session-replay/overview.md,session-replay/overview.md,Docs,,markdown,1
+statsig,Setting up Reviews for Team Workflows,https://docs.statsig.com/guides/setting-up-reviews.md,guides/setting-up-reviews.md,Docs,,markdown,1
+statsig,Setting up Sidecar,https://docs.statsig.com/guides/sidecar-experiments/setup.md,guides/sidecar-experiments/setup.md,Docs,Learn how to install and configure the Statsig Sidecar Chrome extension and integrate it with your website.,markdown,1
+statsig,Setup Checklist,https://docs.statsig.com/statsig-warehouse-native/guides/checklist.md,statsig-warehouse-native/guides/checklist.md,Docs,,markdown,1
+statsig,Single Sign-On With Entra ID/Azure AD/Office 365,https://docs.statsig.com/access-management/sso/azuread.md,access-management/sso/azuread.md,Docs,,markdown,1
+statsig,Single Sign-On With OIDC,https://docs.statsig.com/access-management/sso/overview.md,access-management/sso/overview.md,Docs,,markdown,1
+statsig,Single Sign-On With Okta,https://docs.statsig.com/access-management/sso/okta_sso.md,access-management/sso/okta_sso.md,Docs,,markdown,1
+statsig,Skip to Pipeline Trigger Phase,https://docs.statsig.com/api-reference/release-pipelines/skip-to-pipeline-trigger-phase.md,api-reference/release-pipelines/skip-to-pipeline-trigger-phase.md,Docs,,markdown,1
+statsig,Slack Notifications,https://docs.statsig.com/integrations/slack.md,integrations/slack.md,Docs,"The Statsig Slack integration lets you receive updates where your team already works. You can connect Slack to get **project-level**, **team-level**, or **personal notifications**.",markdown,1
+statsig,Slicing by User Properties,https://docs.statsig.com/experiments/interpreting-results/userproperties.md,experiments/interpreting-results/userproperties.md,Docs,,markdown,1
+statsig,Snowflake,https://docs.statsig.com/data-warehouse-ingestion/snowflake.md,data-warehouse-ingestion/snowflake.md,Docs,,markdown,1
+statsig,Snowflake (Deprecated),https://docs.statsig.com/integrations/data-imports/snowflake.md,integrations/data-imports/snowflake.md,Docs,,markdown,1
+statsig,Snowflake Connection,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/snowflake.md,statsig-warehouse-native/connecting-your-warehouse/snowflake.md,Docs,,markdown,1
+statsig,Standard Error & Mean Variance,https://docs.statsig.com/experiments/statistical-methods/variance.md,experiments/statistical-methods/variance.md,Docs,,markdown,1
+statsig,Standard Error & Mean Variance,https://docs.statsig.com/statsig-warehouse-native/features/statistics/variance.md,statsig-warehouse-native/features/statistics/variance.md,Docs,,markdown,1
+statsig,Start Autotune Experiment,https://docs.statsig.com/api-reference/autotunes/start-autotune-experiment.md,api-reference/autotunes/start-autotune-experiment.md,Docs,,markdown,1
+statsig,Start Experiment,https://docs.statsig.com/api-reference/experiments/start-experiment.md,api-reference/experiments/start-experiment.md,Docs,,markdown,1
+statsig,Start Prompt Version Evaluation Job,https://docs.statsig.com/api-reference/prompts/start-prompt-version-evaluation-job.md,api-reference/prompts/start-prompt-version-evaluation-job.md,Docs,,markdown,1
+statsig,"Statsig CLI (""Siggy"")",https://docs.statsig.com/statsigcli/introduction.md,statsigcli/introduction.md,Docs,,markdown,1
+statsig,Statsig ChatGPT App,https://docs.statsig.com/integrations/mcp/chatgpt-connector.md,integrations/mcp/chatgpt-connector.md,Docs,Learn how to talk directly to Statsig from within OpenAI's ChatGPT.,markdown,1
+statsig,Statsig Domains,https://docs.statsig.com/infrastructure/statsig_domains.md,infrastructure/statsig_domains.md,Docs,,markdown,1
+statsig,Statsig ID Resolver,https://docs.statsig.com/guides/statsig-id-resolver.md,guides/statsig-id-resolver.md,Docs,,markdown,1
+statsig,Statsig IP Ranges,https://docs.statsig.com/infrastructure/statsig_ip_ranges.md,infrastructure/statsig_ip_ranges.md,Docs,,markdown,1
+statsig,Statsig Lite,https://docs.statsig.com/integrations/statsiglite.md,integrations/statsiglite.md,Docs,,markdown,1
+statsig,Statsig MCP with Claude Code,https://docs.statsig.com/integrations/mcp/claude-code.md,integrations/mcp/claude-code.md,Docs,Learn how to set up the Statsig MCP server in Claude Code.,markdown,1
+statsig,Statsig MCP with Codex,https://docs.statsig.com/integrations/mcp/codex.md,integrations/mcp/codex.md,Docs,"Learn how to set up the Statsig MCP server using Codex CLI, IDE extension, or App.",markdown,1
+statsig,Statsig MCP with Cursor,https://docs.statsig.com/integrations/mcp/cursor.md,integrations/mcp/cursor.md,Docs,Learn how to set up the Statsig MCP server in Cursor IDE.,markdown,1
+statsig,Statsig MCP with Other MCP-Compatible Clients,https://docs.statsig.com/integrations/mcp/manual-setup.md,integrations/mcp/manual-setup.md,Docs,Learn how to manually configure the Statsig MCP server for any MCP-compatible tool.,markdown,1
+statsig,Statsig Managed API Proxy,https://docs.statsig.com/infrastructure/api_proxy/managed-proxy.md,infrastructure/api_proxy/managed-proxy.md,Docs,,markdown,1
+statsig,Statsig Overview,https://docs.statsig.com/welcome.md,welcome.md,Docs,"Ship, measure, & learn with the same tools as the world's largest Tech companies. Run thousands of A/B tests, safely rollout features, & dive deep on user behavior in a single, unified platform.",markdown,1
+statsig,Statsig Terraform Provider,https://docs.statsig.com/integrations/terraform/introduction.md,integrations/terraform/introduction.md,Docs,,markdown,1
+statsig,Statsig Visual Editor (Low-code Experiments),https://docs.statsig.com/guides/sidecar-experiments/introduction.md,guides/sidecar-experiments/introduction.md,Docs,"Learn about Statsig Sidecar, a low-code tool that simplifies A/B testing, enabling marketers to independently execute experiments with ease.",markdown,1
+statsig,Statsig Web Analytics Overview,https://docs.statsig.com/webanalytics/overview.md,webanalytics/overview.md,Docs,,markdown,1
+statsig,Statsig in Angular,https://docs.statsig.com/client/Angular.md,client/Angular.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Angular applications.,markdown,1
+statsig,Stitch,https://docs.statsig.com/integrations/data-connectors/stitch.md,integrations/data-connectors/stitch.md,Docs,,markdown,1
+statsig,Stop Assignments,https://docs.statsig.com/experiments/ending/stop-assignments.md,experiments/ending/stop-assignments.md,Docs,Learn how to stop enrolling new users into your experiment while continuing to analyze existing users.,markdown,1
+statsig,Stratified Sampling,https://docs.statsig.com/experiments/advanced-setup/stratified-sampling.md,experiments/advanced-setup/stratified-sampling.md,Docs,Learn how stratified sampling reduces variance and improves experiment reliability in low volume or high variance scenarios.,markdown,1
+statsig,Stratified Sampling,https://docs.statsig.com/statsig-warehouse-native/features/stratified-sampling.md,statsig-warehouse-native/features/stratified-sampling.md,Docs,Learn how stratified sampling reduces variance and improves experiment reliability in low volume or high variance scenarios.,markdown,1
+statsig,Sum Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/sum.md,statsig-warehouse-native/metrics/sum.md,Docs,Sum metrics calculate the sum of a numeric column in a metric source.,markdown,1
+statsig,Support Options,https://docs.statsig.com/support-options.md,support-options.md,Docs,Learn about Statsig's support channels and compare support plans like Premium Support.,markdown,1
+statsig,Swift On Device Evaluation SDK,https://docs.statsig.com/client/swiftOnDeviceEvaluationSDK.md,client/swiftOnDeviceEvaluationSDK.md,Docs,"Statsig's Swift SDK for on-device evaluation with iOS, macOS, tvOS, and watchOS.",markdown,1
+statsig,Switchback Tests,https://docs.statsig.com/experiments/types/switchback-tests.md,experiments/types/switchback-tests.md,Docs,Learn about switchback testing methodology and how to set up switchback experiments for marketplaces and network effect scenarios.,markdown,1
+statsig,Switchback V2,https://docs.statsig.com/experiments/types/switchback-v2.md,experiments/types/switchback-v2.md,Docs,,markdown,1
+statsig,Synapse,https://docs.statsig.com/data-warehouse-ingestion/synapse.md,data-warehouse-ingestion/synapse.md,Docs,,markdown,1
+statsig,Synthetic A/A Test,https://docs.statsig.com/statsig-warehouse-native/guides/aatest.md,statsig-warehouse-native/guides/aatest.md,Docs,,markdown,1
+statsig,Tags & Teams,https://docs.statsig.com/statsig-warehouse-native/configuration/tags-and-teams.md,statsig-warehouse-native/configuration/tags-and-teams.md,Docs,,markdown,1
+statsig,Tags in Statsig,https://docs.statsig.com/access-management/tags.md,access-management/tags.md,Docs,,markdown,1
+statsig,Taking your experiments to production,https://docs.statsig.com/guides/sidecar-experiments/publishing-experiments.md,guides/sidecar-experiments/publishing-experiments.md,Docs,"Learn how to publish, QA, and launch your Sidecar experiments in production with step-by-step guidance.",markdown,1
+statsig,Target Apps,https://docs.statsig.com/sdks/target-apps.md,sdks/target-apps.md,Docs,,markdown,1
+statsig,Targeting,https://docs.statsig.com/statsig-warehouse-native/features/targeting.md,statsig-warehouse-native/features/targeting.md,Docs,,markdown,1
+statsig,Teams,https://docs.statsig.com/access-management/teams.md,access-management/teams.md,Docs,,markdown,1
+statsig,Templates,https://docs.statsig.com/experiments/templates/templates.md,experiments/templates/templates.md,Docs,,markdown,1
+statsig,Test your Feature Gate,https://docs.statsig.com/feature-flags/test-gate.md,feature-flags/test-gate.md,Docs,"Learn how to validate your feature gate using built-in tools, test apps, and live diagnostics in the Statsig console",markdown,1
+statsig,Testing your Gates/Experiments,https://docs.statsig.com/guides/testing.md,guides/testing.md,Docs,,markdown,1
+statsig,Text Embeddings,https://docs.statsig.com/integrations/azureai/embeddings.md,integrations/azureai/embeddings.md,Docs,,markdown,1
+statsig,Topline Alerts,https://docs.statsig.com/product-analytics/topline-alerts.md,product-analytics/topline-alerts.md,Docs,Get notified when metrics shift beyond a fixed threshold or relative change in value.,markdown,1
+statsig,Topline Alerts with Logs,https://docs.statsig.com/infra-analytics/topline-alerts-logs.md,infra-analytics/topline-alerts-logs.md,Docs,Detect infrastructure regressions by evaluating logs in real time,markdown,1
+statsig,Topline and Projected Impact,https://docs.statsig.com/experiments/statistical-methods/topline-impact.md,experiments/statistical-methods/topline-impact.md,Docs,,markdown,1
+statsig,Topline and Projected Impact,https://docs.statsig.com/statsig-warehouse-native/features/statistics/topline-impact.md,statsig-warehouse-native/features/statistics/topline-impact.md,Docs,,markdown,1
+statsig,Traces Explorer Quick Start,https://docs.statsig.com/infra-analytics/send-traces.md,infra-analytics/send-traces.md,Docs,Minimal OTLP/HTTP examples for exporting traces to Statsig's Traces Explorer across popular languages.,markdown,1
+statsig,Trigger a Release Pipeline,https://docs.statsig.com/release-pipeline/trigger.md,release-pipeline/trigger.md,Docs,Learn how to attach pipelines to features and trigger controlled rollouts,markdown,1
+statsig,Trino,https://docs.statsig.com/statsig-warehouse-native/connecting-your-warehouse/trino.md,statsig-warehouse-native/connecting-your-warehouse/trino.md,Docs,,markdown,1
+statsig,Turbo Mode,https://docs.statsig.com/statsig-warehouse-native/features/turbo.md,statsig-warehouse-native/features/turbo.md,Docs,Use turbo mode to reduce cost,markdown,1
+statsig,Types of Experiments,https://docs.statsig.com/statsig-warehouse-native/features/types-of-experiments.md,statsig-warehouse-native/features/types-of-experiments.md,Docs,Statsig offers many forms of Experiment Analysis,markdown,1
+statsig,UI-Based Tool,https://docs.statsig.com/guides/ui-based-tool.md,guides/ui-based-tool.md,Docs,,markdown,1
+statsig,Unarchive Dynamic Config,https://docs.statsig.com/api-reference/dynamic-configs/unarchive-dynamic-config.md,api-reference/dynamic-configs/unarchive-dynamic-config.md,Docs,,markdown,1
+statsig,Unarchive Experiment,https://docs.statsig.com/api-reference/experiments/unarchive-experiment.md,api-reference/experiments/unarchive-experiment.md,Docs,,markdown,1
+statsig,Unarchive Gate,https://docs.statsig.com/api-reference/gates/unarchive-gate.md,api-reference/gates/unarchive-gate.md,Docs,,markdown,1
+statsig,Unarchive a metric,https://docs.statsig.com/api-reference/metrics/unarchive-a-metric.md,api-reference/metrics/unarchive-a-metric.md,Docs,,markdown,1
+statsig,Understanding Experiments,https://docs.statsig.com/statsig-warehouse-native/features/understanding-experiments.md,statsig-warehouse-native/features/understanding-experiments.md,Docs,,markdown,1
+statsig,Unit Count (Daily Participation) Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/unit-count-rate.md,statsig-warehouse-native/metrics/unit-count-rate.md,Docs,Unit count metrics with the daily participation rate rollup type measure the fraction of days that the user participated in an action during the experiment.,markdown,1
+statsig,Unit Count (Latest Value) Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/unit-count-latest.md,statsig-warehouse-native/metrics/unit-count-latest.md,Docs,Unit count metrics with the latest rollup type measure if a unit participated on the last observed day.,markdown,1
+statsig,Unit Count (One-Time Event) Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/unit-count-once.md,statsig-warehouse-native/metrics/unit-count-once.md,Docs,Unit count metrics with the one-time event rollup type measure if a unit performed an action any time after being exposed to the experiment.,markdown,1
+statsig,Unit Count (Window) Metrics,https://docs.statsig.com/statsig-warehouse-native/metrics/unit-count-window.md,statsig-warehouse-native/metrics/unit-count-window.md,Docs,Unit count metrics with the windowed event rollup type measure if a unit performed an action in a specific period of time after first being exposed to the experiment.,markdown,1
+statsig,Unity SDK,https://docs.statsig.com/client/Unity.md,client/Unity.md,Docs,Statsig's SDK for Experimentation and Feature Flags in Unity applications.,markdown,1
+statsig,Unpause Pipeline Trigger,https://docs.statsig.com/api-reference/release-pipelines/unpause-pipeline-trigger.md,api-reference/release-pipelines/unpause-pipeline-trigger.md,Docs,,markdown,1
+statsig,Update Dynamic Config Rule By Id,https://docs.statsig.com/api-reference/dynamic-configs/update-dynamic-config-rule-by-id.md,api-reference/dynamic-configs/update-dynamic-config-rule-by-id.md,Docs,,markdown,1
+statsig,Update Environments,https://docs.statsig.com/api-reference/environments/update-environments.md,api-reference/environments/update-environments.md,Docs,,markdown,1
+statsig,Update Experiment Overrides,https://docs.statsig.com/api-reference/experiments/update-experiment-overrides.md,api-reference/experiments/update-experiment-overrides.md,Docs,,markdown,1
+statsig,Update Gate Overrides,https://docs.statsig.com/api-reference/gates/update-gate-overrides.md,api-reference/gates/update-gate-overrides.md,Docs,,markdown,1
+statsig,Update Gate Rules,https://docs.statsig.com/api-reference/gates/update-gate-rules.md,api-reference/gates/update-gate-rules.md,Docs,Update all given rules. It does NOT create or delete if you add more rules and remove rules in the rules object.,markdown,1
+statsig,Update Holdout Overrides,https://docs.statsig.com/api-reference/holdouts/update-holdout-overrides.md,api-reference/holdouts/update-holdout-overrides.md,Docs,,markdown,1
+statsig,Update Ingestion Schedule,https://docs.statsig.com/api-reference/ingestions/update-ingestion-schedule.md,api-reference/ingestions/update-ingestion-schedule.md,Docs,,markdown,1
+statsig,Update Ingestion Source,https://docs.statsig.com/api-reference/ingestions/update-ingestion-source.md,api-reference/ingestions/update-ingestion-source.md,Docs,,markdown,1
+statsig,Update Key,https://docs.statsig.com/api-reference/keys/update-key.md,api-reference/keys/update-key.md,Docs,,markdown,1
+statsig,Update Layer Overrides,https://docs.statsig.com/api-reference/layers/update-layer-overrides.md,api-reference/layers/update-layer-overrides.md,Docs,,markdown,1
+statsig,Update Metric Source,https://docs.statsig.com/api-reference/metrics/update-metric-source.md,api-reference/metrics/update-metric-source.md,Docs,,markdown,1
+statsig,Update Param Store,https://docs.statsig.com/api-reference/param-store/update-param-store.md,api-reference/param-store/update-param-store.md,Docs,,markdown,1
+statsig,Update Pipeline,https://docs.statsig.com/api-reference/release-pipelines/update-pipeline.md,api-reference/release-pipelines/update-pipeline.md,Docs,,markdown,1
+statsig,Update Project Settings,https://docs.statsig.com/api-reference/settings/update-project-settings.md,api-reference/settings/update-project-settings.md,Docs,,markdown,1
+statsig,Update Prompt (partial),https://docs.statsig.com/api-reference/prompts/update-prompt-partial.md,api-reference/prompts/update-prompt-partial.md,Docs,,markdown,1
+statsig,Update Qualifying Event,https://docs.statsig.com/api-reference/experiments-warehouse-native/update-qualifying-event.md,api-reference/experiments-warehouse-native/update-qualifying-event.md,Docs,,markdown,1
+statsig,Update Reviews Settings,https://docs.statsig.com/api-reference/settings/update-reviews-settings.md,api-reference/settings/update-reviews-settings.md,Docs,,markdown,1
+statsig,Update Role,https://docs.statsig.com/api-reference/roles/update-role.md,api-reference/roles/update-role.md,Docs,,markdown,1
+statsig,Update Roles Settings,https://docs.statsig.com/api-reference/settings/update-roles-settings.md,api-reference/settings/update-roles-settings.md,Docs,,markdown,1
+statsig,Update Segment Rules,https://docs.statsig.com/api-reference/segments/update-segment-rules.md,api-reference/segments/update-segment-rules.md,Docs,,markdown,1
+statsig,Update Tag,https://docs.statsig.com/api-reference/tags/update-tag.md,api-reference/tags/update-tag.md,Docs,,markdown,1
+statsig,Update Target App,https://docs.statsig.com/api-reference/target-app/update-target-app.md,api-reference/target-app/update-target-app.md,Docs,,markdown,1
+statsig,Update Teams Settings,https://docs.statsig.com/api-reference/settings/update-teams-settings.md,api-reference/settings/update-teams-settings.md,Docs,,markdown,1
+statsig,Update Unit ID Type,https://docs.statsig.com/api-reference/unit-id-types/update-unit-id-type.md,api-reference/unit-id-types/update-unit-id-type.md,Docs,,markdown,1
+statsig,Update Warehouse Connection Parameters,https://docs.statsig.com/api-reference/warehouse-connections/update-warehouse-connection-parameters.md,api-reference/warehouse-connections/update-warehouse-connection-parameters.md,Docs,,markdown,1
+statsig,Update a layer,https://docs.statsig.com/api-reference/layers/update-a-layer.md,api-reference/layers/update-a-layer.md,Docs,,markdown,1
+statsig,Update a metric,https://docs.statsig.com/api-reference/metrics/update-a-metric.md,api-reference/metrics/update-a-metric.md,Docs,,markdown,1
+statsig,Update change validation message,https://docs.statsig.com/api-reference/change-validation/update-change-validation-message.md,api-reference/change-validation/update-change-validation-message.md,Docs,,markdown,1
+statsig,Update holdout by id,https://docs.statsig.com/api-reference/holdouts/update-holdout-by-id.md,api-reference/holdouts/update-holdout-by-id.md,Docs,,markdown,1
+statsig,Update team,https://docs.statsig.com/api-reference/users/update-team.md,api-reference/users/update-team.md,Docs,Replace the team definition. Use GET to fetch current data if you intend to add fields without overwriting existing values.,markdown,1
+statsig,Update user,https://docs.statsig.com/api-reference/users/update-user.md,api-reference/users/update-user.md,Docs,,markdown,1
+statsig,User (StatsigUser) Object,https://docs.statsig.com/sdks/user.md,sdks/user.md,Docs,,markdown,1
+statsig,User Accounting Metrics (DAU/WAU/etc.),https://docs.statsig.com/metrics/user.md,metrics/user.md,Docs,"Understand and customize how Statsig calculates standard user engagement metrics like DAU, retention, and stickiness.",markdown,1
+statsig,User Data Deletion Requests API,https://docs.statsig.com/compliance/user_data_deletion_requests.md,compliance/user_data_deletion_requests.md,Docs,,markdown,1
+statsig,User Flows,https://docs.statsig.com/metrics/create-user-flows.md,metrics/create-user-flows.md,Docs,Visualize customer journeys through your application using Statsig's User Flows feature.,markdown,1
+statsig,User Journeys,https://docs.statsig.com/product-analytics/user-journeys.md,product-analytics/user-journeys.md,Docs,Shows you the many paths users are taking through your product so you can better understand the end-user experience,markdown,1
+statsig,User Property,https://docs.statsig.com/metrics/user-property.md,metrics/user-property.md,Docs,Break down experiment results by user properties like subscription tier or platform to gain deeper insights.,markdown,1
+statsig,Users Tab,https://docs.statsig.com/product-analytics/users-tab.md,product-analytics/users-tab.md,Docs,An event-by-event level understanding of how users are leveraging your product,markdown,1
+statsig,Using Private Attributes,https://docs.statsig.com/guides/private-attributes.md,guides/private-attributes.md,Docs,,markdown,1
+statsig,Using a schema,https://docs.statsig.com/dynamic-config/enforce-schema.md,dynamic-config/enforce-schema.md,Docs,Learn how to use JSON Schema to enforce consistent return values for dynamic config rules,markdown,1
+statsig,Using a segment,https://docs.statsig.com/segments/implement.md,segments/implement.md,Docs,Learn how to use segments to target users in feature gates and dynamic configs,markdown,1
+statsig,Variance Reduction,https://docs.statsig.com/experiments/statistical-methods/variance-reduction.md,experiments/statistical-methods/variance-reduction.md,Docs,,markdown,1
+statsig,Variance Reduction,https://docs.statsig.com/statsig-warehouse-native/features/statistics/variance-reduction.md,statsig-warehouse-native/features/statistics/variance-reduction.md,Docs,,markdown,1
+statsig,Vercel,https://docs.statsig.com/integrations/vercel.md,integrations/vercel.md,Docs,,markdown,1
+statsig,Verified Metrics,https://docs.statsig.com/metrics/verified.md,metrics/verified.md,Docs,"Mark trusted, curated metrics as verified to help teams identify reliable metrics for experiments.",markdown,1
+statsig,View SQL,https://docs.statsig.com/statsig-warehouse-native/guides/sql.md,statsig-warehouse-native/guides/sql.md,Docs,,markdown,1
+statsig,Viewing Feature Gate exposures,https://docs.statsig.com/feature-flags/view-exposures.md,feature-flags/view-exposures.md,Docs,"Monitor feature impact by viewing gate exposures, balanced gates, and metric lifts in Statsig console",markdown,1
+statsig,Visual Editor Setup & Usage,https://docs.statsig.com/guides/sidecar-experiments/sidecar-v3.md,guides/sidecar-experiments/sidecar-v3.md,Docs,,markdown,1
+statsig,WHN Console API,https://docs.statsig.com/statsig-warehouse-native/configuration/console-api.md,statsig-warehouse-native/configuration/console-api.md,Docs,,markdown,1
+statsig,WHN Statistics Overview,https://docs.statsig.com/statsig-warehouse-native/features/statistics.md,statsig-warehouse-native/features/statistics.md,Docs,,markdown,1
+statsig,WHN Usage-Based Pricing Model,https://docs.statsig.com/access-management/pricing.md,access-management/pricing.md,Docs,,markdown,1
+statsig,Walkthrough guide for Gate Management with CLI,https://docs.statsig.com/statsigcli/gate-management.md,statsigcli/gate-management.md,Docs,,markdown,1
+statsig,Warehouse Costs,https://docs.statsig.com/statsig-warehouse-native/guides/costs.md,statsig-warehouse-native/guides/costs.md,Docs,How you can manage costs with statsig,markdown,1
+statsig,Warehouse Native Debugging Guide,https://docs.statsig.com/statsig-warehouse-native/guides/debugging.md,statsig-warehouse-native/guides/debugging.md,Docs,,markdown,1
+statsig,Warehouse Native Quickstart,https://docs.statsig.com/statsig-warehouse-native/guides/quick-start.md,statsig-warehouse-native/guides/quick-start.md,Docs,,markdown,1
+statsig,Warehouse Storage,https://docs.statsig.com/statsig-warehouse-native/warehouse-management/storage.md,statsig-warehouse-native/warehouse-management/storage.md,Docs,,markdown,1
+statsig,Watch Session Replays,https://docs.statsig.com/session-replay/watch.md,session-replay/watch.md,Docs,,markdown,1
+statsig,When to Use Feature Gates vs. Experiments?,https://docs.statsig.com/guides/featureflags-or-experiments.md,guides/featureflags-or-experiments.md,Docs,"Decide whether to ship with a feature gate or run an experiment, and understand how the two work together.",markdown,1
+statsig,Winsorization,https://docs.statsig.com/experiments/statistical-methods/methodologies/winsorization.md,experiments/statistical-methods/methodologies/winsorization.md,Docs,,markdown,1
+statsig,Winsorization,https://docs.statsig.com/statsig-warehouse-native/features/statistics/methodologies/winsorization.md,statsig-warehouse-native/features/statistics/methodologies/winsorization.md,Docs,,markdown,1
+statsig,Working With the SDK,https://docs.statsig.com/statsig-warehouse-native/guides/sdks.md,statsig-warehouse-native/guides/sdks.md,Docs,,markdown,1
+statsig,Working with Dynamic Config,https://docs.statsig.com/dynamic-config/working-with.md,dynamic-config/working-with.md,Docs,Learn how to use configuration parameters to control your application behavior in near real-time.,markdown,1
+statsig,Workspace Management Overview,https://docs.statsig.com/access-management/introduction.md,access-management/introduction.md,Docs,,markdown,1
+statsig,iOS/tvOS/macOS Client SDK,https://docs.statsig.com/client/iosClientSDK.md,client/iosClientSDK.md,Docs,"Statsig's SDK for Experimentation and Feature Flags in iOS, tvOS, and macOS applications.",markdown,1
+statsig,mParticle,https://docs.statsig.com/integrations/data-connectors/mparticle.md,integrations/data-connectors/mparticle.md,Docs,,markdown,1
+statsig,p-Value Calculation,https://docs.statsig.com/experiments/statistical-methods/p-value.md,experiments/statistical-methods/p-value.md,Docs,,markdown,1
+statsig,p-Value Calculation,https://docs.statsig.com/statsig-warehouse-native/features/statistics/p-value.md,statsig-warehouse-native/features/statistics/p-value.md,Docs,,markdown,1
