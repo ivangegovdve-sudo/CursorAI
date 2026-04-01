@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CursorAI ADK Control Plane</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">ADK control plane</p>
+          <h1>Run roadmap tasks through an executor and verifier-fixer pair.</h1>
+          <p class="lede">
+            CursorAI hosts the browser UI, scheduler, run history, and cross-repo
+            orchestration. The current adapter is a neutral no-op seam where an
+            `agentic-jujitsu` workflow can be inserted later.
+          </p>
+        </div>
+        <div class="hero-card">
+          <div class="hero-stat">
+            <span>Installed packages</span>
+            <strong>@google/adk + @google/adk-devtools</strong>
+          </div>
+          <div class="hero-stat">
+            <span>Managed repos</span>
+            <strong>CursorAI and Python Learning Orchestrated</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls panel">
+        <div class="field">
+          <label for="repoSelect">Target repo</label>
+          <select id="repoSelect">
+            <option value="cursorai">CursorAI</option>
+            <option value="python-learning-orchestrated">Python Learning Orchestrated</option>
+            <option value="all">All repos</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="intervalInput">Scheduler interval (seconds)</label>
+          <input id="intervalInput" type="number" min="30" step="30" value="300" />
+        </div>
+        <div class="button-row">
+          <button id="refreshButton" class="primary">Refresh</button>
+          <button id="runNextButton" class="secondary">Run next task</button>
+          <button id="startSchedulerButton" class="secondary">Start scheduler</button>
+          <button id="stopSchedulerButton" class="ghost">Stop scheduler</button>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Status</h2>
+            <span id="activeRunBadge" class="badge">Idle</span>
+          </div>
+          <pre id="statusBox" class="code-box">Loading status…</pre>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Roadmap</h2>
+            <span id="roadmapRepoLabel" class="badge">cursorai</span>
+          </div>
+          <div id="roadmapList" class="task-list"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Recent runs</h2>
+        </div>
+        <div id="runsList" class="run-list"></div>
+      </section>
+    </main>
+
+    <script type="module" src="./dist/app.js"></script>
+  </body>
+</html>

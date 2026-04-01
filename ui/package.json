@@ -1,0 +1,16 @@
+{
+  "name": "cursorai-adk-ui",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@google/adk": "^0.6.1",
+    "@google/adk-devtools": "^0.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

@@ -4,4 +4,7 @@ __pycache__/
 .venv/
 data/doc_pages.db
 data/cache/
+data/adk_*.json
+data/adk_artifacts/
+ui/node_modules/
 

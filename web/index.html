@@ -203,6 +203,13 @@
         transform: translateY(-1px);
       }
 
+      .button-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+      }
+
       .primary {
         background: var(--primary);
         color: white;
@@ -297,6 +304,9 @@
             ask OpenAI questions against the filtered documentation index without
             exposing your API key in the browser.
           </p>
+          <div class="button-row" style="margin-top: 18px;">
+            <a class="button-link secondary" href="/adk/">Open ADK Control Plane</a>
+          </div>
         </div>
         <div class="panel metrics">
           <div class="metric">

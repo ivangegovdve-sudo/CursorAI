@@ -3,10 +3,12 @@ from __future__ import annotations
 import json
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+import mimetypes
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, urlparse
 
+from .adk import create_control_plane_service
 from .openai_client import OpenAIClientError, ask_openai
 from .storage import build_context, connect_db, list_platforms, list_sections, query_documents
 
@@ -25,6 +27,8 @@ def _get_single(params: dict[str, list[str]], name: str, default: str | None = N
 def make_handler(db_path: str | Path, static_dir: str | Path):
     resolved_db_path = Path(db_path)
     resolved_static_dir = Path(static_dir)
+    adk_ui_dir = resolved_static_dir.parent / "ui"
+    control_plane = create_control_plane_service()
 
     class DocDbHandler(BaseHTTPRequestHandler):
         server_version = "CursorAIDocDb/0.1"
@@ -33,6 +37,11 @@ def make_handler(db_path: str | Path, static_dir: str | Path):
             parsed = urlparse(self.path)
             if parsed.path == "/":
                 return self._serve_file(resolved_static_dir / "index.html", "text/html; charset=utf-8")
+            if parsed.path in {"/adk", "/adk/"}:
+                return self._serve_file(adk_ui_dir / "index.html", "text/html; charset=utf-8")
+            if parsed.path.startswith("/adk/"):
+                relative_path = parsed.path.removeprefix("/adk/") or "index.html"
+                return self._serve_static_asset(adk_ui_dir / relative_path)
             if parsed.path == "/api/platforms":
                 return self._handle_platforms()
             if parsed.path == "/api/sections":
@@ -41,12 +50,24 @@ def make_handler(db_path: str | Path, static_dir: str | Path):
                 return self._handle_docs(parsed.query)
             if parsed.path == "/api/context":
                 return self._handle_context(parsed.query)
+            if parsed.path == "/api/adk/status":
+                return self._send_json(control_plane.status_snapshot())
+            if parsed.path == "/api/adk/roadmap":
+                return self._handle_adk_roadmap(parsed.query)
+            if parsed.path == "/api/adk/runs":
+                return self._handle_adk_runs(parsed.query)
             self._send_json({"error": "Not found"}, status=HTTPStatus.NOT_FOUND)
 
         def do_POST(self) -> None:
             parsed = urlparse(self.path)
             if parsed.path == "/api/ask":
                 return self._handle_ask()
+            if parsed.path == "/api/adk/run-next":
+                return self._handle_adk_run_next()
+            if parsed.path == "/api/adk/scheduler/start":
+                return self._handle_adk_scheduler_start()
+            if parsed.path == "/api/adk/scheduler/stop":
+                return self._send_json(control_plane.stop_scheduler())
             self._send_json({"error": "Not found"}, status=HTTPStatus.NOT_FOUND)
 
         def log_message(self, format: str, *args: Any) -> None:
@@ -65,6 +86,12 @@ def make_handler(db_path: str | Path, static_dir: str | Path):
             self.send_header("Content-Length", str(len(data)))
             self.end_headers()
             self.wfile.write(data)
+
+        def _serve_static_asset(self, path: Path) -> None:
+            if path.is_dir():
+                path = path / "index.html"
+            content_type, _ = mimetypes.guess_type(str(path))
+            self._serve_file(path, content_type or "application/octet-stream")
 
         def _send_json(self, payload: dict[str, Any], status: HTTPStatus = HTTPStatus.OK) -> None:
             data = json.dumps(payload, indent=2).encode("utf-8")
@@ -152,6 +179,26 @@ def make_handler(db_path: str | Path, static_dir: str | Path):
                 return
 
             self._send_json({"answer": answer, "context": context, "count": len(rows)})
+
+        def _handle_adk_roadmap(self, query_string: str) -> None:
+            params = parse_qs(query_string)
+            repo = _get_single(params, "repo", "cursorai") or "cursorai"
+            self._send_json(control_plane.roadmap_snapshot(repo))
+
+        def _handle_adk_runs(self, query_string: str) -> None:
+            params = parse_qs(query_string)
+            limit = int(_get_single(params, "limit", "20") or "20")
+            self._send_json({"runs": control_plane.load_runs(limit=limit)})
+
+        def _handle_adk_run_next(self) -> None:
+            payload = self._read_json_body()
+            repo = str(payload.get("repo", "cursorai"))
+            self._send_json(control_plane.run_next(repo))
+
+        def _handle_adk_scheduler_start(self) -> None:
+            payload = self._read_json_body()
+            interval_seconds = int(payload.get("interval_seconds", 300))
+            self._send_json(control_plane.start_scheduler(interval_seconds=interval_seconds))
 
     return DocDbHandler
 
